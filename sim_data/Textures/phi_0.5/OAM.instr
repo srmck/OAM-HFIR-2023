@@ -1,0 +1,145 @@
+/********************************************************************************
+* 
+* McStas, neutron ray-tracing package
+*         Copyright (C) 1997-2008, All rights reserved
+*         Risoe National Laboratory, Roskilde, Denmark
+*         Institut Laue Langevin, Grenoble, France
+* 
+* This file was written by McStasScript, which is a 
+* python based McStas instrument generator written by 
+* Mads Bertelsen in 2019 while employed at the 
+* European Spallation Source Data Management and 
+* Software Centre
+* 
+* Instrument OAM
+* 
+* %Identification
+* Written by: Sam McKay
+* Date: 21:13:22 on August 28, 2023
+* Origin: Indiana University
+* %INSTRUMENT_SITE: Generated_instruments
+* 
+* 
+* %Parameters
+* 
+* %End 
+********************************************************************************/
+
+DEFINE INSTRUMENT OAM (
+double delta_lambda = 0.0425, // Wavelength spread [AA]
+double ac1 = 0, // Accelerator coil 1 current [Amps]
+double ac2 = 0, // Accelerator coil 2 current [Amps]
+double cur1 = 15, // MWP1 current [Amps]
+double cur2 = -16.0218, // MWP2 current [Amps]
+double cur3 = 11.0263, // MWP3 current [Amps]
+double cur4 = -12.0481, // MWP4 current [Amps]
+double nu1 = 0, // Nutator 1 current [Amps]
+double nu2 = 0, // Nutator 2 current [Amps]
+double fs = 0, // Field stepper current [Amps]
+double polx = 0.866025, // x-component of polarizer [N/A]
+double poly = 0.5, // y-component of polarizer [N/A]
+double polz = 0 // z-component of polarizer [N/A]
+)
+
+DECLARE 
+%{
+%}
+
+INITIALIZE 
+%{
+// Start of initialize for generated OAM
+%}
+
+TRACE 
+COMPONENT origin = Progress_bar()
+AT (0,0,0) ABSOLUTE
+
+COMPONENT arm = Arm()
+AT (0,0,0) RELATIVE origin
+
+COMPONENT src = Source_gen(
+ dist = 1.948, focus_xw = 0.02,
+ focus_yh = 0.02, lambda0 = 4.25,
+ dlambda = delta_lambda, I1 = 1E+12,
+ yheight = 0.02, xwidth = 0.02)
+AT (0,0,0) RELATIVE origin
+
+COMPONENT pol = Set_pol(
+ px = polx, py = poly,
+ pz = polz)
+AT (0,0,1e-06) RELATIVE origin
+
+COMPONENT NU1 = Pol_constBfield(
+ xwidth = 0.03, yheight = 0.03,
+ zdepth = 0.03, B = nu1)
+AT (0,0,0.19) RELATIVE origin
+
+COMPONENT AC1 = Pol_constBfield(
+ xwidth = 0.03, yheight = 0.03,
+ zdepth = 0.014, B = ac1)
+AT (0,0,0.27) RELATIVE origin
+
+COMPONENT MWP1 = Pol_MWP_v3(
+ xwidth = 0.03, yheight = 0.03,
+ zdepth = 0.105, current = cur1)
+AT (0,0,0.28900000000000003) RELATIVE origin
+ROTATED (0,0,0) ABSOLUTE
+
+COMPONENT MWP2 = Pol_MWP_v3(
+ xwidth = 0.03, yheight = 0.03,
+ zdepth = 0.105, current = cur2)
+AT (0,0,0.4015) RELATIVE origin
+ROTATED (0,0,0) ABSOLUTE
+
+COMPONENT MWP3 = Pol_MWP_v3(
+ xwidth = 0.03, yheight = 0.03,
+ zdepth = 0.105, current = cur3)
+AT (0,0,0.7265000000000001) RELATIVE origin
+ROTATED (0,0,-90) ABSOLUTE
+
+COMPONENT MWP4 = Pol_MWP_v3(
+ xwidth = 0.03, yheight = 0.03,
+ zdepth = 0.105, current = cur4)
+AT (0,0,0.8390000000000001) RELATIVE origin
+ROTATED (0,0,-90) ABSOLUTE
+
+COMPONENT AC2 = Pol_constBfield(
+ xwidth = 0.03, yheight = 0.03,
+ zdepth = 0.014, B = ac2)
+AT (0,0,0.9490000000000001) RELATIVE origin
+ROTATED (0,0,90) ABSOLUTE
+
+COMPONENT NU2 = Pol_constBfield(
+ xwidth = 0.03, yheight = 0.03,
+ zdepth = 0.03, B = nu2)
+AT (0,0,1.0130000000000001) RELATIVE origin
+ROTATED (0,0,90) ABSOLUTE
+
+COMPONENT int_det = PSD_monitor(
+ nx = 256, ny = 256,
+ filename = "int_det.dat", xwidth = 0.02,
+ yheight = 0.02)
+AT (0,0,1.9480000000000002) RELATIVE origin
+ROTATED (0,0,0) ABSOLUTE
+
+COMPONENT pol_x = Monitor_nD(
+ xwidth = 0.02, yheight = 0.02,
+ options = "signal=sx, x bins 256, y bins 256", filename = "polx_det.dat")
+AT (0,0,1.948001) RELATIVE origin
+
+COMPONENT pol_y = Monitor_nD(
+ xwidth = 0.02, yheight = 0.02,
+ options = "signal=sy, x bins 256, y bins 256", filename = "poly_det.dat")
+AT (0,0,1.9480020000000002) RELATIVE origin
+
+COMPONENT pol_z = Monitor_nD(
+ xwidth = 0.02, yheight = 0.02,
+ options = "signal=sz, x bins 256, y bins 256", filename = "polz_det.dat")
+AT (0,0,1.9480030000000002) RELATIVE origin
+
+FINALLY 
+%{
+// Start of finally for generated OAM
+%}
+
+END

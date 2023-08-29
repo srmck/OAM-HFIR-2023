@@ -2,7 +2,7 @@
  * Format:     ANSI C source code
  * Creator:    McStas <http://www.mcstas.org>
  * Instrument: OAM.instr (OAM)
- * Date:       Mon Aug 28 16:34:38 2023
+ * Date:       Mon Aug 28 21:14:00 2023
  * File:       OAM.c
  * CFLAGS=
  */
@@ -6143,8 +6143,8 @@ struct mcinputtable_struct mcinputtable[] = {
   "nu1", &(_instrument_var._parameters.nu1), instr_type_double, "0", 
   "nu2", &(_instrument_var._parameters.nu2), instr_type_double, "0", 
   "fs", &(_instrument_var._parameters.fs), instr_type_double, "0", 
-  "polx", &(_instrument_var._parameters.polx), instr_type_double, "1", 
-  "poly", &(_instrument_var._parameters.poly), instr_type_double, "0", 
+  "polx", &(_instrument_var._parameters.polx), instr_type_double, "6.12323E-17", 
+  "poly", &(_instrument_var._parameters.poly), instr_type_double, "1", 
   "polz", &(_instrument_var._parameters.polz), instr_type_double, "0", 
   NULL, NULL, instr_type_double, ""
 };
@@ -11843,8 +11843,8 @@ int _MWP1_setpos(void)
   _MWP1_var._parameters.current = _instrument_var._parameters.cur1;
   _MWP1_var._parameters.Hyp_inv = 0;
   _MWP1_var._parameters.FI0 = .0;
-  _MWP1_var._parameters.a = .007;
-  _MWP1_var._parameters.b = .0074;
+  _MWP1_var._parameters.a = .006;
+  _MWP1_var._parameters.b = .0062;
   _MWP1_var._parameters.c = .0001;
   _MWP1_var._parameters.d = -.22;
   _MWP1_var._parameters.B0 = .0;
@@ -11895,8 +11895,8 @@ int _MWP2_setpos(void)
   _MWP2_var._parameters.current = _instrument_var._parameters.cur2;
   _MWP2_var._parameters.Hyp_inv = 0;
   _MWP2_var._parameters.FI0 = .0;
-  _MWP2_var._parameters.a = .007;
-  _MWP2_var._parameters.b = .0074;
+  _MWP2_var._parameters.a = .006;
+  _MWP2_var._parameters.b = .0062;
   _MWP2_var._parameters.c = .0001;
   _MWP2_var._parameters.d = -.22;
   _MWP2_var._parameters.B0 = .0;
@@ -11947,8 +11947,8 @@ int _MWP3_setpos(void)
   _MWP3_var._parameters.current = _instrument_var._parameters.cur3;
   _MWP3_var._parameters.Hyp_inv = 0;
   _MWP3_var._parameters.FI0 = .0;
-  _MWP3_var._parameters.a = .007;
-  _MWP3_var._parameters.b = .0074;
+  _MWP3_var._parameters.a = .006;
+  _MWP3_var._parameters.b = .0062;
   _MWP3_var._parameters.c = .0001;
   _MWP3_var._parameters.d = -.22;
   _MWP3_var._parameters.B0 = .0;
@@ -11999,8 +11999,8 @@ int _MWP4_setpos(void)
   _MWP4_var._parameters.current = _instrument_var._parameters.cur4;
   _MWP4_var._parameters.Hyp_inv = 0;
   _MWP4_var._parameters.FI0 = .0;
-  _MWP4_var._parameters.a = .007;
-  _MWP4_var._parameters.b = .0074;
+  _MWP4_var._parameters.a = .006;
+  _MWP4_var._parameters.b = .0062;
   _MWP4_var._parameters.c = .0001;
   _MWP4_var._parameters.d = -.22;
   _MWP4_var._parameters.B0 = .0;

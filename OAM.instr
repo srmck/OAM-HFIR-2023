@@ -15,7 +15,7 @@
 * 
 * %Identification
 * Written by: Sam McKay
-* Date: 16:34:38 on August 28, 2023
+* Date: 21:14:00 on August 28, 2023
 * Origin: Indiana University
 * %INSTRUMENT_SITE: Generated_instruments
 * 
@@ -36,8 +36,8 @@ double cur4 = -12.0481, // MWP4 current [Amps]
 double nu1 = 0, // Nutator 1 current [Amps]
 double nu2 = 0, // Nutator 2 current [Amps]
 double fs = 0, // Field stepper current [Amps]
-double polx = 1, // x-component of polarizer [N/A]
-double poly = 0, // y-component of polarizer [N/A]
+double polx = 6.12323E-17, // x-component of polarizer [N/A]
+double poly = 1, // y-component of polarizer [N/A]
 double polz = 0 // z-component of polarizer [N/A]
 )
 
