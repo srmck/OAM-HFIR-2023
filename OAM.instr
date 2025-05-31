@@ -15,7 +15,7 @@
 * 
 * %Identification
 * Written by: Sam McKay
-* Date: 11:03:47 on May 30, 2025
+* Date: 10:18:18 on May 31, 2025
 * Origin: Indiana University
 * %INSTRUMENT_SITE: Generated_instruments
 * 
@@ -26,16 +26,11 @@
 ********************************************************************************/
 
 DEFINE INSTRUMENT OAM (
-double delta_lambda = 0.0425, // Wavelength spread [AA]
-double ac1 = 0, // Accelerator coil 1 field [Gauss]
-double ac2 = 0, // Accelerator coil 2 field [Gauss]
+double delta_lambda = 4.25E-08, // Wavelength spread [AA]
 double cur1 = 20, // MWP1 current [Amps]
 double cur2 = -21.4402, // MWP2 current [Amps]
 double cur3 = 20, // MWP3 current [Amps]
 double cur4 = -21.9795, // MWP4 current [Amps]
-double nu1 = 0, // Nutator 1 field [Gauss]
-double nu2 = 0, // Nutator 2 field [Gauss]
-double fs = 0, // Field stepper field [Gauss]
 double polx = 0.707107, // x-component of polarizer [N/A]
 double poly = 0.707107, // y-component of polarizer [N/A]
 double polz = 0 // z-component of polarizer [N/A]

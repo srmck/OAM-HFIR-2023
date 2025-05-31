@@ -2,7 +2,7 @@
  * Format:     ANSI C source code
  * Creator:    McStas <http://www.mcstas.org>
  * Instrument: OAM.instr (OAM)
- * Date:       Fri May 30 11:03:48 2025
+ * Date:       Sat May 31 10:18:18 2025
  * File:       OAM.c
  * CFLAGS=
  */
@@ -6101,15 +6101,10 @@ int main(int argc, char *argv[]){return mccode_main(argc, argv);}
 
 struct _struct_instrument_parameters {
   MCNUM delta_lambda;
-  MCNUM ac1;
-  MCNUM ac2;
   MCNUM cur1;
   MCNUM cur2;
   MCNUM cur3;
   MCNUM cur4;
-  MCNUM nu1;
-  MCNUM nu2;
-  MCNUM fs;
   MCNUM polx;
   MCNUM poly;
   MCNUM polz;
@@ -6131,18 +6126,13 @@ struct _instrument_struct *instrument = & _instrument_var;
 #pragma acc declare create ( _instrument_var )
 #pragma acc declare create ( instrument )
 
-int numipar = 13;
+int numipar = 8;
 struct mcinputtable_struct mcinputtable[] = {
-  "delta_lambda", &(_instrument_var._parameters.delta_lambda), instr_type_double, "0.0425", 
-  "ac1", &(_instrument_var._parameters.ac1), instr_type_double, "0", 
-  "ac2", &(_instrument_var._parameters.ac2), instr_type_double, "0", 
+  "delta_lambda", &(_instrument_var._parameters.delta_lambda), instr_type_double, "4.25E-08", 
   "cur1", &(_instrument_var._parameters.cur1), instr_type_double, "20", 
   "cur2", &(_instrument_var._parameters.cur2), instr_type_double, "-21.4402", 
   "cur3", &(_instrument_var._parameters.cur3), instr_type_double, "20", 
   "cur4", &(_instrument_var._parameters.cur4), instr_type_double, "-21.9795", 
-  "nu1", &(_instrument_var._parameters.nu1), instr_type_double, "0", 
-  "nu2", &(_instrument_var._parameters.nu2), instr_type_double, "0", 
-  "fs", &(_instrument_var._parameters.fs), instr_type_double, "0", 
   "polx", &(_instrument_var._parameters.polx), instr_type_double, "0.707107", 
   "poly", &(_instrument_var._parameters.poly), instr_type_double, "0.707107", 
   "polz", &(_instrument_var._parameters.polz), instr_type_double, "0", 
@@ -12975,17 +12965,12 @@ int init(void) { /* called by mccode_main for OAM:INITIALISE */
   stracpy(instrument->_name, "OAM", 256);
 
   /* Instrument 'OAM' INITIALISE */
-  SIG_MESSAGE("[OAM] INITIALISE [OAM.instr:49]");
+  SIG_MESSAGE("[OAM] INITIALISE [OAM.instr:44]");
   #define delta_lambda (instrument->_parameters.delta_lambda)
-  #define ac1 (instrument->_parameters.ac1)
-  #define ac2 (instrument->_parameters.ac2)
   #define cur1 (instrument->_parameters.cur1)
   #define cur2 (instrument->_parameters.cur2)
   #define cur3 (instrument->_parameters.cur3)
   #define cur4 (instrument->_parameters.cur4)
-  #define nu1 (instrument->_parameters.nu1)
-  #define nu2 (instrument->_parameters.nu2)
-  #define fs (instrument->_parameters.fs)
   #define polx (instrument->_parameters.polx)
   #define poly (instrument->_parameters.poly)
   #define polz (instrument->_parameters.polz)
@@ -12993,15 +12978,10 @@ int init(void) { /* called by mccode_main for OAM:INITIALISE */
 // Start of initialize for generated OAM
 }
   #undef delta_lambda
-  #undef ac1
-  #undef ac2
   #undef cur1
   #undef cur2
   #undef cur3
   #undef cur4
-  #undef nu1
-  #undef nu2
-  #undef fs
   #undef polx
   #undef poly
   #undef polz
@@ -14960,17 +14940,12 @@ int finally(void) { /* called by mccode_main for OAM:FINALLY */
   save(siminfo_file); /* save data when simulation ends */
 
   /* Instrument 'OAM' FINALLY */
-  SIG_MESSAGE("[OAM] FINALLY [OAM.instr:119]");
+  SIG_MESSAGE("[OAM] FINALLY [OAM.instr:114]");
   #define delta_lambda (instrument->_parameters.delta_lambda)
-  #define ac1 (instrument->_parameters.ac1)
-  #define ac2 (instrument->_parameters.ac2)
   #define cur1 (instrument->_parameters.cur1)
   #define cur2 (instrument->_parameters.cur2)
   #define cur3 (instrument->_parameters.cur3)
   #define cur4 (instrument->_parameters.cur4)
-  #define nu1 (instrument->_parameters.nu1)
-  #define nu2 (instrument->_parameters.nu2)
-  #define fs (instrument->_parameters.fs)
   #define polx (instrument->_parameters.polx)
   #define poly (instrument->_parameters.poly)
   #define polz (instrument->_parameters.polz)
@@ -14978,15 +14953,10 @@ int finally(void) { /* called by mccode_main for OAM:FINALLY */
 // Start of finally for generated OAM
 }
   #undef delta_lambda
-  #undef ac1
-  #undef ac2
   #undef cur1
   #undef cur2
   #undef cur3
   #undef cur4
-  #undef nu1
-  #undef nu2
-  #undef fs
   #undef polx
   #undef poly
   #undef polz
