@@ -15,7 +15,7 @@
 * 
 * %Identification
 * Written by: Sam McKay
-* Date: 20:36:45 on May 31, 2025
+* Date: 13:02:44 on June 01, 2025
 * Origin: Indiana University
 * %INSTRUMENT_SITE: Generated_instruments
 * 
@@ -26,13 +26,13 @@
 ********************************************************************************/
 
 DEFINE INSTRUMENT OAM (
-double delta_lambda = 4.25E-14, // Wavelength spread [AA]
+double delta_lambda = 0.0425, // Wavelength spread [AA]
 double cur1 = 20, // MWP1 current [Amps]
 double cur2 = -21.4402, // MWP2 current [Amps]
-double cur3 = 20, // MWP3 current [Amps]
-double cur4 = -21.9795, // MWP4 current [Amps]
-double polx = 0, // x-component of polarizer [N/A]
-double poly = 1, // y-component of polarizer [N/A]
+double cur3 = 14.5508, // MWP3 current [Amps]
+double cur4 = -15.9909, // MWP4 current [Amps]
+double polx = 1, // x-component of polarizer [N/A]
+double poly = 0, // y-component of polarizer [N/A]
 double polz = 0 // z-component of polarizer [N/A]
 )
 
@@ -53,8 +53,8 @@ COMPONENT arm = Arm()
 AT (0,0,0) RELATIVE origin
 
 COMPONENT src = Source_gen(
- dist = 2.42, focus_aw = 1E-12,
- focus_ah = 1E-12, lambda0 = 4.25,
+ dist = 2.42, focus_xw = 0.02,
+ focus_yh = 0.02, lambda0 = 4.25,
  dlambda = delta_lambda, I1 = 1E+12,
  yheight = 0.02, xwidth = 0.02)
 AT (0,0,0) RELATIVE origin
@@ -64,37 +64,37 @@ COMPONENT pol = Set_pol(
  pz = polz)
 AT (0,0,1e-06) RELATIVE origin
 
-COMPONENT MWP1 = Pol_MWP_v4(
+COMPONENT MWP1 = Pol_MWP_v5(
  xwidth = 0.03, yheight = 0.03,
  zdepth = 0.105, current = cur1,
  b = 0, c = 0,
  d = 0)
 AT (0,0,0.82) RELATIVE origin
-ROTATED (0,0,-90) ABSOLUTE
+ROTATED (0,0,0) ABSOLUTE
 
-COMPONENT MWP2 = Pol_MWP_v4(
+COMPONENT MWP2 = Pol_MWP_v5(
  xwidth = 0.03, yheight = 0.03,
  zdepth = 0.105, current = cur2,
  b = 0, c = 0,
  d = 0)
 AT (0,0,0.9309999999999999) RELATIVE origin
-ROTATED (0,0,-90) ABSOLUTE
+ROTATED (0,0,0) ABSOLUTE
 
-COMPONENT MWP3 = Pol_MWP_v4(
+COMPONENT MWP3 = Pol_MWP_v5(
  xwidth = 0.03, yheight = 0.03,
  zdepth = 0.105, current = cur3,
  b = 0, c = 0,
  d = 0)
 AT (0,0,1.24) RELATIVE origin
-ROTATED (0,0,0) ABSOLUTE
+ROTATED (0,0,-90) ABSOLUTE
 
-COMPONENT MWP4 = Pol_MWP_v4(
+COMPONENT MWP4 = Pol_MWP_v5(
  xwidth = 0.03, yheight = 0.03,
  zdepth = 0.105, current = cur4,
  b = 0, c = 0,
  d = 0)
 AT (0,0,1.351) RELATIVE origin
-ROTATED (0,0,0) ABSOLUTE
+ROTATED (0,0,-90) ABSOLUTE
 
 COMPONENT int_det = PSD_monitor(
  nx = 256, ny = 256,
