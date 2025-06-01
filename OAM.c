@@ -2,7 +2,7 @@
  * Format:     ANSI C source code
  * Creator:    McStas <http://www.mcstas.org>
  * Instrument: OAM.instr (OAM)
- * Date:       Sat May 31 10:18:18 2025
+ * Date:       Sat May 31 20:36:46 2025
  * File:       OAM.c
  * CFLAGS=
  */
@@ -6128,13 +6128,13 @@ struct _instrument_struct *instrument = & _instrument_var;
 
 int numipar = 8;
 struct mcinputtable_struct mcinputtable[] = {
-  "delta_lambda", &(_instrument_var._parameters.delta_lambda), instr_type_double, "4.25E-08", 
+  "delta_lambda", &(_instrument_var._parameters.delta_lambda), instr_type_double, "4.25E-14", 
   "cur1", &(_instrument_var._parameters.cur1), instr_type_double, "20", 
   "cur2", &(_instrument_var._parameters.cur2), instr_type_double, "-21.4402", 
   "cur3", &(_instrument_var._parameters.cur3), instr_type_double, "20", 
   "cur4", &(_instrument_var._parameters.cur4), instr_type_double, "-21.9795", 
-  "polx", &(_instrument_var._parameters.polx), instr_type_double, "0.707107", 
-  "poly", &(_instrument_var._parameters.poly), instr_type_double, "0.707107", 
+  "polx", &(_instrument_var._parameters.polx), instr_type_double, "0", 
+  "poly", &(_instrument_var._parameters.poly), instr_type_double, "1", 
   "polz", &(_instrument_var._parameters.polz), instr_type_double, "0", 
   NULL, NULL, instr_type_double, ""
 };
@@ -11577,10 +11577,10 @@ int _src_setpos(void)
   _src_var._parameters.ydiv_file[0]='\0';
   _src_var._parameters.radius = 0.0;
   _src_var._parameters.dist = 2.42;
-  _src_var._parameters.focus_xw = 0.02;
-  _src_var._parameters.focus_yh = 0.02;
-  _src_var._parameters.focus_aw = 0;
-  _src_var._parameters.focus_ah = 0;
+  _src_var._parameters.focus_xw = 0.045;
+  _src_var._parameters.focus_yh = 0.12;
+  _src_var._parameters.focus_aw = 1E-12;
+  _src_var._parameters.focus_ah = 1E-12;
   _src_var._parameters.E0 = 0;
   _src_var._parameters.dE = 0;
   _src_var._parameters.lambda0 = 4.25;
@@ -11691,9 +11691,9 @@ int _MWP1_setpos(void)
   _MWP1_var._parameters.Hyp_inv = 0;
   _MWP1_var._parameters.FI0 = .0;
   _MWP1_var._parameters.a = .007;
-  _MWP1_var._parameters.b = .0072;
-  _MWP1_var._parameters.c = .0001;
-  _MWP1_var._parameters.d = -.26;
+  _MWP1_var._parameters.b = 0;
+  _MWP1_var._parameters.c = 0;
+  _MWP1_var._parameters.d = 0;
   _MWP1_var._parameters.B0 = .0;
   _MWP1_var._parameters.Bx = .0;
   _MWP1_var._parameters.By = .0;
@@ -11743,9 +11743,9 @@ int _MWP2_setpos(void)
   _MWP2_var._parameters.Hyp_inv = 0;
   _MWP2_var._parameters.FI0 = .0;
   _MWP2_var._parameters.a = .007;
-  _MWP2_var._parameters.b = .0072;
-  _MWP2_var._parameters.c = .0001;
-  _MWP2_var._parameters.d = -.26;
+  _MWP2_var._parameters.b = 0;
+  _MWP2_var._parameters.c = 0;
+  _MWP2_var._parameters.d = 0;
   _MWP2_var._parameters.B0 = .0;
   _MWP2_var._parameters.Bx = .0;
   _MWP2_var._parameters.By = .0;
@@ -11795,9 +11795,9 @@ int _MWP3_setpos(void)
   _MWP3_var._parameters.Hyp_inv = 0;
   _MWP3_var._parameters.FI0 = .0;
   _MWP3_var._parameters.a = .007;
-  _MWP3_var._parameters.b = .0072;
-  _MWP3_var._parameters.c = .0001;
-  _MWP3_var._parameters.d = -.26;
+  _MWP3_var._parameters.b = 0;
+  _MWP3_var._parameters.c = 0;
+  _MWP3_var._parameters.d = 0;
   _MWP3_var._parameters.B0 = .0;
   _MWP3_var._parameters.Bx = .0;
   _MWP3_var._parameters.By = .0;
@@ -11847,9 +11847,9 @@ int _MWP4_setpos(void)
   _MWP4_var._parameters.Hyp_inv = 0;
   _MWP4_var._parameters.FI0 = .0;
   _MWP4_var._parameters.a = .007;
-  _MWP4_var._parameters.b = .0072;
-  _MWP4_var._parameters.c = .0001;
-  _MWP4_var._parameters.d = -.26;
+  _MWP4_var._parameters.b = 0;
+  _MWP4_var._parameters.c = 0;
+  _MWP4_var._parameters.d = 0;
   _MWP4_var._parameters.B0 = .0;
   _MWP4_var._parameters.Bx = .0;
   _MWP4_var._parameters.By = .0;
@@ -14940,7 +14940,7 @@ int finally(void) { /* called by mccode_main for OAM:FINALLY */
   save(siminfo_file); /* save data when simulation ends */
 
   /* Instrument 'OAM' FINALLY */
-  SIG_MESSAGE("[OAM] FINALLY [OAM.instr:114]");
+  SIG_MESSAGE("[OAM] FINALLY [OAM.instr:122]");
   #define delta_lambda (instrument->_parameters.delta_lambda)
   #define cur1 (instrument->_parameters.cur1)
   #define cur2 (instrument->_parameters.cur2)
