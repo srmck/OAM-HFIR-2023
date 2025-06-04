@@ -1,0 +1,10 @@
+scantitle "D Gauss"
+
+preset time 1
+
+drive ac_1 -5 up_1 -5 down_1 -5 up_2 -5 down_2 -5 ac_2 -5
+drive ac_1 4 up_1 4 down_1 4 up_2 4 down_2 4 ac_2 4
+drive ac_1 -3 up_1 -3 down_1 -3 up_2 -3 down_2 -5 ac_2 -3
+drive ac_1 2 up_1 2 down_1 2 up_2 2 down_2 2 ac_2 2
+drive ac_1 -1 up_1 -1 down_1 -1 up_2 -1 down_2 -1 ac_2 -1
+drive ac_1 0 up_1 0 down_1 0 up_2 0 down_2 0 ac_2 0

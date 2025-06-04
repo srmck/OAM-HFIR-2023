@@ -1,0 +1,11 @@
+loop C 15 22.5 7.5
+drive cav_trans %C
+loop R -.4 .4 .1
+drive cav_rot %R
+loop N -5 5 10
+drive nu_pre %N
+scantitle "cav rot %R trans %C nu %N"
+tpix preset time 30
+endloop
+endloop
+endloop

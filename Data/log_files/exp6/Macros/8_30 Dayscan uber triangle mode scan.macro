@@ -1,0 +1,25 @@
+drive ac_1 0 ac_2 0
+
+loop subscan 1 16 1
+scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop
+
+drive ac_2 1.12
+
+loop subscan 1 16 1
+scantitle "8_30 Dayscan fighter of the night scan transverse mode pi on 2 subscan %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop

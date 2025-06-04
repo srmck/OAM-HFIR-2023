@@ -1,0 +1,19 @@
+scantitle "7_30 Cheeky Overnight He3 scam expanding the AC range at 8 A"
+
+loop oamisntreal 1 6 1
+
+preset time 10
+drive det 0
+loop cc2 -8 8 .5
+drive ac_2 %cc2
+scan ac_1 -8 8 .5
+endloop
+
+preset time 30
+drive det -131
+loop cc2 -8 8 .5
+drive ac_2 %cc2
+scan ac_1 -8 8 .5
+endloop
+
+endloop

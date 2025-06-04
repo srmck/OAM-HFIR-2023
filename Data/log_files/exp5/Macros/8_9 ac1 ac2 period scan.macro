@@ -1,0 +1,18 @@
+scantitle "8_9 getting period of ac_1 ac_2 more accurately"
+drive ac_1 0 ac_2 0
+
+loop c1 -5 5 .5
+drive ac_1 %c1
+
+tpix preset time 650
+
+endloop
+
+drive ac_1 0 ac_2 0
+loop c2 -5 5 .5
+drive ac_2 %c1
+
+tpix preset time 650
+
+endloop
+drive ac_1 0 ac_2 0

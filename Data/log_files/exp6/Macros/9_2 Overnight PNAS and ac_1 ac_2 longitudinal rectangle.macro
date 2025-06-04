@@ -1,0 +1,51 @@
+loop n -5 5 10
+drive nu_post %n
+scantitle "Quick SEMSANS check nu_post %n"
+tpix preset time 120
+endloop
+
+drive ac_2 1.12
+
+loop subscan 1 10 1
+scantitle "9_2 Overnight rectangle PNAS pi on 2 long %subscan"
+loop n -5 5 10
+drive nu_post %n
+tpix preset time 600
+endloop
+endloop
+
+drive ac_2 0
+
+loop subscan 1 10 1
+scantitle "9_2 Overnight rectangle PNAS long %subscan"
+loop n -5 5 10
+drive nu_post %n
+tpix preset time 600
+endloop
+endloop
+
+loop doodoo 1 2 1
+
+drive ac_1 0 ac_2 0
+loop c1 -2.5 2.5 .5
+drive ac_1 %c1
+scantitle "9_2 Overnight rectangle long %doodoo ac_1 %c1"
+loop n -5 5 10
+drive nu_post %n
+tpix preset time 600
+endloop
+endloop
+
+drive ac_1 0 ac_2 0
+loop c2 -2.5 2.5 .5
+drive ac_2 %c2
+scantitle "9_2 Overnight rectangle long %doodoo ac_2 %c2"
+loop n -5 5 10
+drive nu_post %n
+tpix preset time 600
+endloop
+endloop
+
+drive ac_1 0 ac_2 0
+
+endloop

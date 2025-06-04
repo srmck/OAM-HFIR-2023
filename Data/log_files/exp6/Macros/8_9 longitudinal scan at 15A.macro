@@ -1,0 +1,16 @@
+
+
+loop c1 -2.5 2.5 .5
+drive ac_1 %c1
+
+loop n -5 5 10
+
+scantitle "8_9 longitudinal scan, at  ac_1:%c1 A, nu_post: %n A"
+
+drive nu_pre %n
+
+tpix preset time 650
+
+
+endloop
+endloop

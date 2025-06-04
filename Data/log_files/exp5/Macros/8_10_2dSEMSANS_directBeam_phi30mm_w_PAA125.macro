@@ -1,0 +1,205 @@
+drive ac_1 0 ac_2 0 nu_post -5
+
+drive up_1 2.5 down_1 2.64425 up_2 1.923 down_2 2.06758
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 300
+
+endloop
+
+drive up_1 3.5 down_1 3.70195 up_2 2.6927 down_2 2.895
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 300
+
+endloop
+
+drive up_1 4.5 down_1 4.76 up_2 3.46 down_2 3.72
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 300
+
+endloop
+
+drive up_1 5.5 down_1 5.817 up_2 4.23 down_2 4.549
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 300
+
+endloop
+
+drive up_1 6.5 down_1 6.875 up_2 5 down_2 5.376
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 7.5 down_1 7.933 up_2 5.77 down_2 6.2
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 8.5 down_1 8.99 up_2 6.54 down_2 7.03
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 9.5 down_1 10.05 up_2 7.31 down_2 7.86
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 10.5 down_1 11.11 up_2 8.08 down_2 8.68
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 1200
+
+endloop
+
+drive up_1 11.5 down_1 12.16 up_2 8.847 down_2 9.51
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 1200
+
+endloop
+
+drive up_1 12.5 down_1 13.22 up_2 9.62 down_2 10.34
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 1200
+
+endloop
+
+drive up_1 13.5 down_1 14.28 up_2 10.39 down_2 11.16
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 14.5 down_1 15.34 up_2 11.16 down_2 11.99
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 15.5 down_1 16.39 up_2 11.92 down_2 12.82
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 16.5 down_1 17.45 up_2 12.69 down_2 13.65
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 17.5 down_1 18.51 up_2 13.46 down_2 14.47
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 900
+
+endloop
+
+drive up_1 18.5 down_1 19.57 up_2 14.23 down_2 15.3
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 1200
+
+endloop
+
+drive up_1 19.5 down_1 20.63 up_2 15 down_2 16.13
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 1200
+
+endloop
+
+drive up_1 20.5 down_1 21.68 up_2 15.78 down_2 16.95
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 1200
+
+endloop
+
+drive up_1 21.5 down_1 22.74 up_2 16.54 down_2 17.78
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 1200
+
+endloop
+
+drive up_1 22.5 down_1 23.80 up_2 17.31 down_2 18.61
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 1200
+
+endloop
+
+
+
+
+drive down_1 -22 up_1 -22 
+drive down_1 18 up_1 18 
+drive down_1 -14 up_1 -14 down_2 -14 up_2 -14
+drive down_1 12 up_1 12 down_2 12 up_2 12
+drive down_1 -10 up_1 -10 down_2 -10 up_2 -10
+drive down_1 8 up_1 8 down_2 8 up_2 8
+drive down_1 -6 up_1 -6 down_2 -6 up_2 -6
+drive down_1 4 up_1 4 down_2 4 up_2 4
+drive down_1 -2 up_1 -2 down_2 -2 up_2 -2
+drive down_1 1 up_1 1 down_2 1 up_2 1
+drive down_1 0 up_1 0 down_2 0 up_2 0

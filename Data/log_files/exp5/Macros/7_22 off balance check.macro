@@ -1,0 +1,15 @@
+scantitle "off balance arm 2 check"
+
+loop para .8 1.5 .1
+
+drive up_2 %para
+
+preset time 5
+drive det -131 ac_2 -2.5
+scan ac_2 -2.5 2.5 .5
+
+preset time 1
+drive det 0 ac_2 -2.5
+scan ac_2 -2.5 2.5 .5
+
+endloop

@@ -1,0 +1,11 @@
+drive prism 1 nu_1 -4 nu_2 2 nu_3 -4 ac_1 1.5
+
+scantitle "ac_1 scan MWP phase check, switched arm leads"
+
+preset time 1
+loop p 1 2 1
+drive prism %p
+
+scan ac_1 1.5 6.5 .5
+
+endloop

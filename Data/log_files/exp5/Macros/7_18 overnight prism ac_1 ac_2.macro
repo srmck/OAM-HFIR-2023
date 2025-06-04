@@ -1,0 +1,33 @@
+scantitle "7_18 Overnight prism ac_1 ac_2 scan"
+
+drive nu_1 0 nu_3 0 ac_1 0 ac_2 0
+drive prism -11
+drive prism 9
+drive prism -7
+drive prism 5
+drive prism -3
+drive prism 2
+drive prism -1
+drive prism 0
+
+drive nu_1 -4 nu_3 -4 ac_1 1 prism -1
+preset time 20
+loop mwp -10 10 .5
+drive prisms %mwp
+
+loop ac_1_cur 1 6 1
+drive ac_1 %ac_1_cur
+scan ac_2 -2.5 2.5 .5
+
+endloop
+endloop
+
+drive nu_1 0 nu_3 0 ac_1 0 ac_2 0
+drive prism -11
+drive prism 9
+drive prism -7
+drive prism 5
+drive prism -3
+drive prism 2
+drive prism -1
+drive prism 0

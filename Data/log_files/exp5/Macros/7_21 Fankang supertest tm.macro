@@ -1,0 +1,28 @@
+scantitle "Fankangs Supertest for broken films (TM)"
+
+drive nu_1 -4 up_1 -5 down_1 5 arm_2 1 ac_1 -5 ac_2 -2.5
+
+preset time 1
+
+
+loop pp1 -5 5 1
+drive up_1 %pp1 down_1 -%pp1
+loop cc1 -5 5 1
+
+drive ac_1 %cc1
+scan ac_2 -2.5 2.5 0.5
+
+endloop
+endloop
+
+drive ac_1 0
+scan ac_2 -2.5 2.5 0.5
+
+drive down_1 5
+scan ac_2 -2.5 2.5 0.5
+
+drive ac_1 0 ac_2 0 nu_1 0
+drive up_1 -5 down_1 5 arm_2 -1
+drive up_1 3 down_1 -3 arm_2 0
+drive up_1 -1 down_1 1
+drive up_1 0 down_1 0

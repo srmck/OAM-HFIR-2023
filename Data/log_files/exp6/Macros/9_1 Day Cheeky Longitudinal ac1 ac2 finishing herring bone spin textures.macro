@@ -1,0 +1,26 @@
+drive ac_1 0 ac_2 0
+
+loop c1 -2.5 2.5 .5
+drive ac_1 %c1
+
+loop n -5 5 10
+drive nu_post %n
+
+scantitle "9_1 Day ubertriangle ac1  %c1 long nu_post %n"
+tpix preset time 600
+endloop
+endloop
+
+drive ac_1 0 ac_2 0
+
+loop c2 -2.5 2.5 .5
+drive ac_2 %c2
+
+loop n -5 5 10
+drive nu_post %n
+
+scantitle "9_1 Day ubertriangle ac2  %c2 long nu_post %n"
+tpix preset time 600
+
+endloop
+endloop

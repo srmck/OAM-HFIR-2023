@@ -1,0 +1,3362 @@
+8/29/2023 3:47 PM        count preset tim 5
+8/29/2023 3:47 PM        count preset time 5
+8/29/2023 3:47 PM        scan m1 -1 1 0.2
+8/29/2023 3:47 PM        preset time 5
+8/29/2023 3:47 PM        scan m1 -1 1 0.2
+8/29/2023 3:49 PM        drive m1 0
+8/29/2023 3:52 PM        count preset time 60
+8/29/2023 3:55 PM        count preset time 60
+8/29/2023 3:56 PM        count preset time 60
+8/29/2023 3:58 PM        count preset time 60
+8/29/2023 4:02 PM        count preset time 60
+8/29/2023 4:03 PM        count preset time 60
+8/29/2023 4:06 PM        count preset time 10
+8/29/2023 4:17 PM        count preset time 10
+8/29/2023 4:19 PM        count preset time 10
+8/29/2023 4:22 PM        count preset time 10
+8/29/2023 4:28 PM        count preset time 10
+8/29/2023 4:41 PM        count preset time 10
+8/29/2023 4:42 PM        count preset time 10
+8/29/2023 4:44 PM        count preset time 10
+8/29/2023 4:52 PM        count preset time 10
+8/29/2023 4:55 PM        count preset time 10
+8/29/2023 5:00 PM        count preset time 10
+8/29/2023 5:00 PM        count preset time 10
+8/29/2023 5:00 PM        count preset time 10
+8/29/2023 5:00 PM        count preset time 10
+8/29/2023 5:01 PM        count preset time 10
+8/29/2023 5:01 PM        count preset time 10
+8/29/2023 5:02 PM        count preset time 10
+8/29/2023 5:06 PM        count preset time 10
+8/29/2023 5:09 PM        count preset time 10
+8/29/2023 5:16 PM        count preset time 10
+8/29/2023 5:18 PM        count preset time 10
+8/29/2023 5:25 PM        count preset time 30
+8/29/2023 5:27 PM        count preset time 30
+8/29/2023 5:30 PM        count preset time 30
+8/29/2023 5:33 PM        count preset time 30
+8/29/2023 5:36 PM        count preset time 30
+8/29/2023 5:39 PM        count preset time 30
+8/29/2023 5:45 PM        count preset time 30
+8/29/2023 5:48 PM        count preset time 30
+8/29/2023 5:51 PM        count preset time 30
+8/29/2023 6:11 PM        scantitle "Tpix check"
+8/29/2023 6:11 PM        tpix preset time 30
+8/29/2023 6:22 PM        init
+8/29/2023 6:30 PM        drive nu_pre 5 nu_post 5
+8/29/2023 6:30 PM        tpix preset time 20
+8/29/2023 6:35 PM        drive up_1 1 down_1 1 up_2 1 down_2 1
+8/29/2023 6:41 PM        lowerlimit m1 -4.900000 m2 -179.000000 mfocus -75.000000 cav_rot -5.000000 cav_trans -40.000000 nu_pre -6.000000 nu_post -6.000000 ac_1 -5.000000 up_1 -25.000000 down_1 -25.000000 up_2 -25.000000 down_2 -25.000000 ac_2 -5.000000 s1 -210.000000 s2 -100.000000 sgl -19.700000 sgu -20.000000 stl -20.000000 det -200.000000 a1 -285.230080 a2 -93.119808 
+8/29/2023 6:41 PM        upperlimit m1 4.900000 m2 179.000000 mfocus 0.000000 cav_rot 5.000000 cav_trans 40.000000 nu_pre 5.900000 nu_post 6.000000 ac_1 5.000000 up_1 25.000000 down_1 25.000000 up_2 25.000000 down_2 25.000000 ac_2 5.000000 s1 180.000000 s2 116.387043 sgl 20.000000 sgu 20.000000 stl 20.000000 det 200.000000 a1 331.296300 a2 80.000000 
+8/29/2023 6:41 PM        lowerlimit m1 -4.900000 m2 -179.000000 mfocus -75.000000 cav_rot -9.700000 cav_trans -29.000000 nu_pre -10.000000 nu_post -10.000000 ac_1 -10.000000 up_1 -25.000000 down_1 -25.000000 up_2 -25.000000 down_2 -25.000000 ac_2 -5.000000 s1 -210.000000 s2 -100.000000 sgl -19.700000 sgu -20.000000 stl -20.000000 det -200.000000 a1 -285.230080 a2 -93.119808 
+8/29/2023 6:41 PM        upperlimit m1 4.900000 m2 179.000000 mfocus 0.000000 cav_rot 5.000000 cav_trans 40.000000 nu_pre 5.900000 nu_post 6.000000 ac_1 5.000000 up_1 25.000000 down_1 25.000000 up_2 25.000000 down_2 25.000000 ac_2 5.000000 s1 180.000000 s2 116.387043 sgl 20.000000 sgu 20.000000 stl 20.000000 det 200.000000 a1 331.296300 a2 80.000000 
+8/29/2023 6:42 PM        scantitle "Lower detector chekc"
+8/29/2023 6:42 PM        tpix preset time 10
+8/29/2023 6:46 PM        tpix preset time 10
+8/29/2023 6:48 PM        tpix preset time 10
+8/29/2023 6:50 PM        tpix preset time 10
+8/29/2023 6:56 PM        tpix preset time 10
+8/29/2023 7:09 PM        tpix preset time 10
+8/29/2023 7:15 PM        drive cav_trans -20
+8/29/2023 7:16 PM        drive cav_trans 10
+8/29/2023 7:18 PM        init
+8/29/2023 7:20 PM        init
+8/29/2023 7:20 PM        drive cav_trans 15
+8/29/2023 7:28 PM        drive cav_trans 15
+8/29/2023 7:28 PM        drive cav_trans -20
+8/29/2023 7:30 PM        drive cav_trans 0
+8/29/2023 7:31 PM        drive cav_trans 0
+8/29/2023 7:32 PM        drive cav_trans -10
+8/29/2023 7:35 PM        scantitle "cav trans c scan"
+8/29/2023 7:35 PM        scan cav_trans -10 20 5
+8/29/2023 7:38 PM        tpix preset time 20
+8/29/2023 7:44 PM        scantitle "cav trans c scan"
+8/29/2023 7:44 PM        drive vac_trans -10
+8/29/2023 7:44 PM        tpix preset time 20
+8/29/2023 7:44 PM        scantitle "cav trans c scan"
+8/29/2023 7:44 PM        drive cav_trans -10
+8/29/2023 7:44 PM        drive cav_trans -10
+8/29/2023 7:45 PM        tpix preset time 1
+8/29/2023 7:47 PM        scantitle "cav trans c scan"
+8/29/2023 7:47 PM        drive cav_trans -10
+8/29/2023 7:47 PM        tpix preset time 20
+8/29/2023 7:48 PM        drive cav_trans -7.5
+8/29/2023 7:48 PM        tpix preset time 20
+8/29/2023 7:49 PM        drive cav_trans -5
+8/29/2023 7:49 PM        tpix preset time 20
+8/29/2023 7:49 PM        drive cav_trans -2.5
+8/29/2023 7:50 PM        tpix preset time 20
+8/29/2023 7:50 PM        drive cav_trans 0
+8/29/2023 7:50 PM        tpix preset time 20
+8/29/2023 7:51 PM        drive cav_trans 2.5
+8/29/2023 7:51 PM        tpix preset time 20
+8/29/2023 7:52 PM        drive cav_trans 5
+8/29/2023 7:52 PM        tpix preset time 20
+8/29/2023 7:52 PM        drive cav_trans 7.5
+8/29/2023 7:53 PM        tpix preset time 20
+8/29/2023 7:53 PM        drive cav_trans 10
+8/29/2023 7:53 PM        tpix preset time 20
+8/29/2023 7:54 PM        drive cav_trans 12.5
+8/29/2023 7:54 PM        tpix preset time 20
+8/29/2023 7:55 PM        drive cav_trans 15
+8/29/2023 7:55 PM        tpix preset time 20
+8/29/2023 7:55 PM        drive cav_trans 17.5
+8/29/2023 7:56 PM        tpix preset time 20
+8/29/2023 7:56 PM        drive cav_trans 20
+8/29/2023 7:56 PM        tpix preset time 20
+8/29/2023 8:02 PM        scantitle "cav trans c scan"
+8/29/2023 8:02 PM        drive cav_trans 22.5
+8/29/2023 8:02 PM        tpix preset time 20
+8/29/2023 8:03 PM        drive cav_trans 25
+8/29/2023 8:03 PM        tpix preset time 20
+8/29/2023 8:03 PM        drive cav_trans 27.5
+8/29/2023 8:04 PM        tpix preset time 20
+8/29/2023 8:04 PM        drive cav_trans 30
+8/29/2023 8:04 PM        tpix preset time 20
+8/29/2023 8:05 PM        drive cav_trans 32.5
+8/29/2023 8:05 PM        tpix preset time 20
+8/29/2023 8:06 PM        drive cav_trans 35
+8/29/2023 8:06 PM        tpix preset time 20
+8/29/2023 8:06 PM        drive cav_trans 37.5
+8/29/2023 8:07 PM        tpix preset time 20
+8/29/2023 8:07 PM        drive cav_trans 40
+8/29/2023 8:07 PM        tpix preset time 20
+8/29/2023 8:08 PM        drive cav_trans 42.5
+8/29/2023 8:08 PM        tpix preset time 20
+8/29/2023 8:08 PM        drive cav_trans 45
+8/29/2023 8:08 PM        tpix preset time 20
+8/29/2023 8:09 PM        drive cav_trans 47.5
+8/29/2023 8:09 PM        tpix preset time 20
+8/29/2023 8:09 PM        drive cav_trans 50
+8/29/2023 8:09 PM        tpix preset time 20
+8/29/2023 8:17 PM        drive cav_trans 5
+8/29/2023 8:18 PM        lowerlimit m1 -4.900000 m2 -179.000000 mfocus -75.000000 cav_rot -9.700000 cav_trans 0.000000 nu_pre -10.000000 nu_post -10.000000 ac_1 -10.000000 up_1 -20.000000 down_1 -20.000000 up_2 -20.000000 down_2 -20.000000 ac_2 -10.000000 s1 -210.000000 s2 -100.000000 sgl -19.700000 sgu -20.000000 stl -20.000000 det -200.000000 a1 -285.230080 a2 -93.119808 
+8/29/2023 8:18 PM        upperlimit m1 4.900000 m2 179.000000 mfocus 0.000000 cav_rot 5.000000 cav_trans 30.000000 nu_pre 5.900000 nu_post 6.000000 ac_1 5.000000 up_1 25.000000 down_1 25.000000 up_2 25.000000 down_2 25.000000 ac_2 5.000000 s1 180.000000 s2 116.387043 sgl 20.000000 sgu 20.000000 stl 20.000000 det 200.000000 a1 331.296300 a2 80.000000 
+8/29/2023 8:20 PM        drive up_1 20.00 down_1 21.54 up_2 14.39 down_2 15.93 nu_pre 0
+8/29/2023 8:28 PM        drive nu_pre 5
+8/29/2023 8:45 PM        drive cav_trans 7.5
+8/29/2023 8:45 PM        drive cav_rot -0.5
+8/29/2023 8:46 PM        drive nu_pre -5
+8/29/2023 8:46 PM        scantitle "cav rot -0.5 trans 7.5 nu -5"
+8/29/2023 8:46 PM        tpix preset time 30
+8/29/2023 8:46 PM        drive nu_pre 5
+8/29/2023 8:47 PM        scantitle "cav rot -0.5 trans 7.5 nu 5"
+8/29/2023 8:47 PM        tpix preset time 30
+8/29/2023 8:47 PM        drive cav_rot -0.4
+8/29/2023 8:47 PM        drive nu_pre -5
+8/29/2023 8:48 PM        scantitle "cav rot -0.4 trans 7.5 nu -5"
+8/29/2023 8:48 PM        tpix preset time 30
+8/29/2023 8:48 PM        drive nu_pre 5
+8/29/2023 8:49 PM        scantitle "cav rot -0.4 trans 7.5 nu 5"
+8/29/2023 8:49 PM        tpix preset time 30
+8/29/2023 8:49 PM        drive cav_rot -0.3
+8/29/2023 8:49 PM        drive nu_pre -5
+8/29/2023 8:50 PM        scantitle "cav rot -0.3 trans 7.5 nu -5"
+8/29/2023 8:50 PM        tpix preset time 30
+8/29/2023 8:50 PM        drive nu_pre 5
+8/29/2023 8:50 PM        scantitle "cav rot -0.3 trans 7.5 nu 5"
+8/29/2023 8:50 PM        tpix preset time 30
+8/29/2023 8:51 PM        drive cav_rot -0.2
+8/29/2023 8:51 PM        drive nu_pre -5
+8/29/2023 8:51 PM        scantitle "cav rot -0.2 trans 7.5 nu -5"
+8/29/2023 8:51 PM        tpix preset time 30
+8/29/2023 8:52 PM        drive nu_pre 5
+8/29/2023 8:52 PM        scantitle "cav rot -0.2 trans 7.5 nu 5"
+8/29/2023 8:52 PM        tpix preset time 30
+8/29/2023 8:53 PM        drive cav_rot -0.1
+8/29/2023 8:53 PM        drive nu_pre -5
+8/29/2023 8:53 PM        scantitle "cav rot -0.1 trans 7.5 nu -5"
+8/29/2023 8:53 PM        tpix preset time 30
+8/29/2023 8:54 PM        drive nu_pre 5
+8/29/2023 8:54 PM        scantitle "cav rot -0.1 trans 7.5 nu 5"
+8/29/2023 8:54 PM        tpix preset time 30
+8/29/2023 8:55 PM        drive cav_rot 0
+8/29/2023 8:55 PM        drive nu_pre -5
+8/29/2023 8:55 PM        scantitle "cav rot 0 trans 7.5 nu -5"
+8/29/2023 8:55 PM        tpix preset time 30
+8/29/2023 8:56 PM        drive nu_pre 5
+8/29/2023 8:56 PM        scantitle "cav rot 0 trans 7.5 nu 5"
+8/29/2023 8:56 PM        tpix preset time 30
+8/29/2023 8:57 PM        drive cav_rot 0.1
+8/29/2023 8:57 PM        drive nu_pre -5
+8/29/2023 8:57 PM        scantitle "cav rot 0.1 trans 7.5 nu -5"
+8/29/2023 8:57 PM        tpix preset time 30
+8/29/2023 8:58 PM        drive nu_pre 5
+8/29/2023 8:58 PM        scantitle "cav rot 0.1 trans 7.5 nu 5"
+8/29/2023 8:58 PM        tpix preset time 30
+8/29/2023 8:59 PM        drive cav_rot 0.2
+8/29/2023 8:59 PM        drive nu_pre -5
+8/29/2023 8:59 PM        scantitle "cav rot 0.2 trans 7.5 nu -5"
+8/29/2023 8:59 PM        tpix preset time 30
+8/29/2023 9:00 PM        drive nu_pre 5
+8/29/2023 9:00 PM        scantitle "cav rot 0.2 trans 7.5 nu 5"
+8/29/2023 9:00 PM        tpix preset time 30
+8/29/2023 9:01 PM        drive cav_rot 0.3
+8/29/2023 9:01 PM        drive nu_pre -5
+8/29/2023 9:01 PM        scantitle "cav rot 0.3 trans 7.5 nu -5"
+8/29/2023 9:01 PM        tpix preset time 30
+8/29/2023 9:02 PM        drive nu_pre 5
+8/29/2023 9:02 PM        scantitle "cav rot 0.3 trans 7.5 nu 5"
+8/29/2023 9:02 PM        tpix preset time 30
+8/29/2023 9:03 PM        drive cav_rot 0.4
+8/29/2023 9:03 PM        drive nu_pre -5
+8/29/2023 9:03 PM        scantitle "cav rot 0.4 trans 7.5 nu -5"
+8/29/2023 9:03 PM        tpix preset time 30
+8/29/2023 9:04 PM        drive nu_pre 5
+8/29/2023 9:04 PM        scantitle "cav rot 0.4 trans 7.5 nu 5"
+8/29/2023 9:04 PM        tpix preset time 30
+8/29/2023 9:05 PM        drive cav_rot 0.5
+8/29/2023 9:05 PM        drive nu_pre -5
+8/29/2023 9:05 PM        scantitle "cav rot 0.5 trans 7.5 nu -5"
+8/29/2023 9:05 PM        tpix preset time 30
+8/29/2023 9:06 PM        drive nu_pre 5
+8/29/2023 9:06 PM        scantitle "cav rot 0.5 trans 7.5 nu 5"
+8/29/2023 9:06 PM        tpix preset time 30
+8/29/2023 9:06 PM        drive cav_trans 7.5
+8/29/2023 9:07 PM        drive cav_rot -0.5
+8/29/2023 9:07 PM        drive nu_pre -5
+8/29/2023 9:07 PM        scantitle "cav rot -0.5 trans 15 nu -5"
+8/29/2023 9:07 PM        tpix preset time 30
+8/29/2023 9:08 PM        drive nu_pre 5
+8/29/2023 9:08 PM        scantitle "cav rot -0.5 trans 15 nu 5"
+8/29/2023 9:08 PM        tpix preset time 30
+8/29/2023 9:09 PM        drive cav_rot -0.4
+8/29/2023 9:09 PM        drive nu_pre -5
+8/29/2023 9:09 PM        scantitle "cav rot -0.4 trans 15 nu -5"
+8/29/2023 9:09 PM        tpix preset time 30
+8/29/2023 9:10 PM        drive nu_pre 5
+8/29/2023 9:10 PM        scantitle "cav rot -0.4 trans 15 nu 5"
+8/29/2023 9:10 PM        tpix preset time 30
+8/29/2023 9:11 PM        drive cav_rot -0.3
+8/29/2023 9:11 PM        drive nu_pre -5
+8/29/2023 9:11 PM        scantitle "cav rot -0.3 trans 15 nu -5"
+8/29/2023 9:11 PM        tpix preset time 30
+8/29/2023 9:12 PM        drive nu_pre 5
+8/29/2023 9:12 PM        scantitle "cav rot -0.3 trans 15 nu 5"
+8/29/2023 9:12 PM        tpix preset time 30
+8/29/2023 9:13 PM        drive cav_rot -0.2
+8/29/2023 9:13 PM        drive nu_pre -5
+8/29/2023 9:13 PM        scantitle "cav rot -0.2 trans 15 nu -5"
+8/29/2023 9:13 PM        tpix preset time 30
+8/29/2023 9:14 PM        drive nu_pre 5
+8/29/2023 9:14 PM        scantitle "cav rot -0.2 trans 15 nu 5"
+8/29/2023 9:14 PM        tpix preset time 30
+8/29/2023 9:14 PM        drive cav_rot -0.1
+8/29/2023 9:15 PM        drive nu_pre -5
+8/29/2023 9:15 PM        scantitle "cav rot -0.1 trans 15 nu -5"
+8/29/2023 9:15 PM        tpix preset time 30
+8/29/2023 9:15 PM        drive nu_pre 5
+8/29/2023 9:16 PM        scantitle "cav rot -0.1 trans 15 nu 5"
+8/29/2023 9:16 PM        tpix preset time 30
+8/29/2023 9:16 PM        drive cav_rot 0
+8/29/2023 9:16 PM        drive nu_pre -5
+8/29/2023 9:17 PM        scantitle "cav rot 0 trans 15 nu -5"
+8/29/2023 9:17 PM        tpix preset time 30
+8/29/2023 9:17 PM        drive nu_pre 5
+8/29/2023 9:18 PM        scantitle "cav rot 0 trans 15 nu 5"
+8/29/2023 9:18 PM        tpix preset time 30
+8/29/2023 9:18 PM        drive cav_rot 0.1
+8/29/2023 9:18 PM        drive nu_pre -5
+8/29/2023 9:19 PM        scantitle "cav rot 0.1 trans 15 nu -5"
+8/29/2023 9:19 PM        tpix preset time 30
+8/29/2023 9:19 PM        drive nu_pre 5
+8/29/2023 9:20 PM        scantitle "cav rot 0.1 trans 15 nu 5"
+8/29/2023 9:20 PM        tpix preset time 30
+8/29/2023 9:20 PM        drive cav_rot 0.2
+8/29/2023 9:20 PM        drive nu_pre -5
+8/29/2023 9:21 PM        scantitle "cav rot 0.2 trans 15 nu -5"
+8/29/2023 9:21 PM        tpix preset time 30
+8/29/2023 9:21 PM        drive nu_pre 5
+8/29/2023 9:21 PM        scantitle "cav rot 0.2 trans 15 nu 5"
+8/29/2023 9:21 PM        tpix preset time 30
+8/29/2023 9:22 PM        drive cav_rot 0.3
+8/29/2023 9:22 PM        drive nu_pre -5
+8/29/2023 9:22 PM        scantitle "cav rot 0.3 trans 15 nu -5"
+8/29/2023 9:22 PM        tpix preset time 30
+8/29/2023 9:23 PM        drive nu_pre 5
+8/29/2023 9:23 PM        scantitle "cav rot 0.3 trans 15 nu 5"
+8/29/2023 9:23 PM        tpix preset time 30
+8/29/2023 9:24 PM        drive cav_rot 0.4
+8/29/2023 9:24 PM        drive nu_pre -5
+8/29/2023 9:24 PM        scantitle "cav rot 0.4 trans 15 nu -5"
+8/29/2023 9:24 PM        tpix preset time 30
+8/29/2023 9:25 PM        drive nu_pre 5
+8/29/2023 9:25 PM        scantitle "cav rot 0.4 trans 15 nu 5"
+8/29/2023 9:25 PM        tpix preset time 30
+8/29/2023 9:26 PM        drive cav_rot 0.5
+8/29/2023 9:26 PM        drive nu_pre -5
+8/29/2023 9:26 PM        scantitle "cav rot 0.5 trans 15 nu -5"
+8/29/2023 9:26 PM        tpix preset time 30
+8/29/2023 9:27 PM        drive nu_pre 5
+8/29/2023 9:27 PM        scantitle "cav rot 0.5 trans 15 nu 5"
+8/29/2023 9:27 PM        tpix preset time 30
+8/29/2023 9:28 PM        drive cav_trans 7.5
+8/29/2023 9:28 PM        drive cav_rot -0.5
+8/29/2023 9:28 PM        drive nu_pre -5
+8/29/2023 9:31 PM        drive cav_trans 15
+8/29/2023 9:31 PM        drive cav_rot -0.4
+8/29/2023 9:31 PM        drive nu_pre -5
+8/29/2023 9:31 PM        scantitle "cav rot -0.4 trans 15 nu -5"
+8/29/2023 9:31 PM        tpix preset time 30
+8/29/2023 9:32 PM        drive nu_pre 5
+8/29/2023 9:32 PM        drive cav_trans 15
+8/29/2023 9:34 PM        wait 60
+8/29/2023 9:35 PM        drive cav_trans 15
+8/29/2023 9:35 PM        drive cav_rot -0.4
+8/29/2023 9:35 PM        drive nu_pre -5
+8/29/2023 9:35 PM        scantitle "cav rot -0.4 trans 15 nu -5"
+8/29/2023 9:35 PM        tpix preset time 30
+8/29/2023 9:36 PM        drive nu_pre 5
+8/29/2023 9:36 PM        scantitle "cav rot -0.4 trans 15 nu 5"
+8/29/2023 9:36 PM        tpix preset time 30
+8/29/2023 9:36 PM        drive cav_rot -0.3
+8/29/2023 9:37 PM        drive nu_pre -5
+8/29/2023 9:37 PM        scantitle "cav rot -0.3 trans 15 nu -5"
+8/29/2023 9:37 PM        tpix preset time 30
+8/29/2023 9:37 PM        drive nu_pre 5
+8/29/2023 9:38 PM        scantitle "cav rot -0.3 trans 15 nu 5"
+8/29/2023 9:38 PM        tpix preset time 30
+8/29/2023 9:38 PM        drive cav_rot -0.2
+8/29/2023 9:38 PM        drive nu_pre -5
+8/29/2023 9:39 PM        scantitle "cav rot -0.2 trans 15 nu -5"
+8/29/2023 9:39 PM        tpix preset time 30
+8/29/2023 9:39 PM        drive nu_pre 5
+8/29/2023 9:40 PM        scantitle "cav rot -0.2 trans 15 nu 5"
+8/29/2023 9:40 PM        tpix preset time 30
+8/29/2023 9:40 PM        drive cav_rot -0.1
+8/29/2023 9:40 PM        drive nu_pre -5
+8/29/2023 9:41 PM        scantitle "cav rot -0.1 trans 15 nu -5"
+8/29/2023 9:41 PM        tpix preset time 30
+8/29/2023 9:41 PM        drive nu_pre 5
+8/29/2023 9:42 PM        scantitle "cav rot -0.1 trans 15 nu 5"
+8/29/2023 9:42 PM        tpix preset time 30
+8/29/2023 9:42 PM        drive cav_rot 0
+8/29/2023 9:42 PM        drive nu_pre -5
+8/29/2023 9:43 PM        scantitle "cav rot 0 trans 15 nu -5"
+8/29/2023 9:43 PM        tpix preset time 30
+8/29/2023 9:43 PM        drive nu_pre 5
+8/29/2023 9:43 PM        scantitle "cav rot 0 trans 15 nu 5"
+8/29/2023 9:43 PM        tpix preset time 30
+8/29/2023 9:44 PM        drive cav_rot 0.1
+8/29/2023 9:44 PM        drive nu_pre -5
+8/29/2023 9:44 PM        scantitle "cav rot 0.1 trans 15 nu -5"
+8/29/2023 9:44 PM        tpix preset time 30
+8/29/2023 9:45 PM        drive nu_pre 5
+8/29/2023 9:45 PM        scantitle "cav rot 0.1 trans 15 nu 5"
+8/29/2023 9:45 PM        tpix preset time 30
+8/29/2023 9:46 PM        drive cav_rot 0.2
+8/29/2023 9:46 PM        drive nu_pre -5
+8/29/2023 9:46 PM        scantitle "cav rot 0.2 trans 15 nu -5"
+8/29/2023 9:46 PM        tpix preset time 30
+8/29/2023 9:47 PM        drive nu_pre 5
+8/29/2023 9:47 PM        scantitle "cav rot 0.2 trans 15 nu 5"
+8/29/2023 9:47 PM        tpix preset time 30
+8/29/2023 9:48 PM        drive cav_rot 0.3
+8/29/2023 9:48 PM        drive nu_pre -5
+8/29/2023 9:48 PM        scantitle "cav rot 0.3 trans 15 nu -5"
+8/29/2023 9:48 PM        tpix preset time 30
+8/29/2023 9:49 PM        drive nu_pre 5
+8/29/2023 9:49 PM        scantitle "cav rot 0.3 trans 15 nu 5"
+8/29/2023 9:49 PM        tpix preset time 30
+8/29/2023 9:50 PM        drive cav_rot 0.4
+8/29/2023 9:50 PM        drive nu_pre -5
+8/29/2023 9:50 PM        scantitle "cav rot 0.4 trans 15 nu -5"
+8/29/2023 9:50 PM        tpix preset time 30
+8/29/2023 9:51 PM        drive nu_pre 5
+8/29/2023 9:51 PM        scantitle "cav rot 0.4 trans 15 nu 5"
+8/29/2023 9:51 PM        tpix preset time 30
+8/29/2023 9:52 PM        drive cav_trans 22.5
+8/29/2023 9:52 PM        drive cav_rot -0.4
+8/29/2023 9:53 PM        drive nu_pre -5
+8/29/2023 9:53 PM        scantitle "cav rot -0.4 trans 22.5 nu -5"
+8/29/2023 9:53 PM        tpix preset time 30
+8/29/2023 9:53 PM        drive nu_pre 5
+8/29/2023 9:54 PM        scantitle "cav rot -0.4 trans 22.5 nu 5"
+8/29/2023 9:54 PM        tpix preset time 30
+8/29/2023 9:54 PM        drive cav_rot -0.3
+8/29/2023 9:54 PM        drive nu_pre -5
+8/29/2023 9:55 PM        scantitle "cav rot -0.3 trans 22.5 nu -5"
+8/29/2023 9:55 PM        tpix preset time 30
+8/29/2023 9:55 PM        drive nu_pre 5
+8/29/2023 9:56 PM        scantitle "cav rot -0.3 trans 22.5 nu 5"
+8/29/2023 9:56 PM        tpix preset time 30
+8/29/2023 9:56 PM        drive cav_rot -0.2
+8/29/2023 9:56 PM        drive nu_pre -5
+8/29/2023 9:57 PM        scantitle "cav rot -0.2 trans 22.5 nu -5"
+8/29/2023 9:57 PM        tpix preset time 30
+8/29/2023 9:57 PM        drive nu_pre 5
+8/29/2023 9:58 PM        scantitle "cav rot -0.2 trans 22.5 nu 5"
+8/29/2023 9:58 PM        tpix preset time 30
+8/29/2023 9:58 PM        drive cav_rot -0.1
+8/29/2023 9:58 PM        drive nu_pre -5
+8/29/2023 9:59 PM        scantitle "cav rot -0.1 trans 22.5 nu -5"
+8/29/2023 9:59 PM        tpix preset time 30
+8/29/2023 9:59 PM        drive nu_pre 5
+8/29/2023 9:59 PM        scantitle "cav rot -0.1 trans 22.5 nu 5"
+8/29/2023 9:59 PM        tpix preset time 30
+8/29/2023 10:00 PM        drive cav_rot 0
+8/29/2023 10:00 PM        drive nu_pre -5
+8/29/2023 10:00 PM        scantitle "cav rot 0 trans 22.5 nu -5"
+8/29/2023 10:00 PM        tpix preset time 30
+8/29/2023 10:01 PM        drive nu_pre 5
+8/29/2023 10:01 PM        scantitle "cav rot 0 trans 22.5 nu 5"
+8/29/2023 10:01 PM        tpix preset time 30
+8/29/2023 10:02 PM        drive cav_rot 0.1
+8/29/2023 10:02 PM        drive nu_pre -5
+8/29/2023 10:02 PM        scantitle "cav rot 0.1 trans 22.5 nu -5"
+8/29/2023 10:02 PM        tpix preset time 30
+8/29/2023 10:03 PM        drive nu_pre 5
+8/29/2023 10:03 PM        scantitle "cav rot 0.1 trans 22.5 nu 5"
+8/29/2023 10:03 PM        tpix preset time 30
+8/29/2023 10:04 PM        drive cav_rot 0.2
+8/29/2023 10:04 PM        drive nu_pre -5
+8/29/2023 10:04 PM        scantitle "cav rot 0.2 trans 22.5 nu -5"
+8/29/2023 10:04 PM        tpix preset time 30
+8/29/2023 10:05 PM        drive nu_pre 5
+8/29/2023 10:05 PM        scantitle "cav rot 0.2 trans 22.5 nu 5"
+8/29/2023 10:05 PM        tpix preset time 30
+8/29/2023 10:06 PM        drive cav_rot 0.3
+8/29/2023 10:06 PM        drive nu_pre -5
+8/29/2023 10:06 PM        scantitle "cav rot 0.3 trans 22.5 nu -5"
+8/29/2023 10:06 PM        tpix preset time 30
+8/29/2023 10:07 PM        drive nu_pre 5
+8/29/2023 10:07 PM        scantitle "cav rot 0.3 trans 22.5 nu 5"
+8/29/2023 10:07 PM        tpix preset time 30
+8/29/2023 10:08 PM        drive cav_rot 0.4
+8/29/2023 10:08 PM        drive nu_pre -5
+8/29/2023 10:08 PM        scantitle "cav rot 0.4 trans 22.5 nu -5"
+8/29/2023 10:08 PM        tpix preset time 30
+8/29/2023 10:09 PM        drive nu_pre 5
+8/29/2023 10:09 PM        scantitle "cav rot 0.4 trans 22.5 nu 5"
+8/29/2023 10:09 PM        tpix preset time 30
+8/29/2023 10:44 PM        drive ac_1 0 ac_2 0 nu_post 5
+8/29/2023 10:44 PM        drive cav_trans 22.5 cav_rot .1
+8/29/2023 10:45 PM        drive cav_trans 22.5 cav_rot .1
+8/29/2023 10:47 PM        drive ac_1 0 ac_2 0 nu_post 5
+8/29/2023 10:47 PM        drive cav_trans 22.5 cav_rot .1
+8/29/2023 10:47 PM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 1"
+8/29/2023 10:47 PM        drive nu_pre -5
+8/29/2023 10:48 PM        tpix preset time 600
+8/29/2023 10:58 PM        drive nu_pre 5
+8/29/2023 10:58 PM        tpix preset time 600
+8/29/2023 11:08 PM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 2"
+8/29/2023 11:08 PM        drive nu_pre -5
+8/29/2023 11:09 PM        tpix preset time 600
+8/29/2023 11:19 PM        drive nu_pre 5
+8/29/2023 11:19 PM        tpix preset time 600
+8/29/2023 11:29 PM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 3"
+8/29/2023 11:29 PM        drive nu_pre -5
+8/29/2023 11:29 PM        tpix preset time 600
+8/29/2023 11:39 PM        drive nu_pre 5
+8/29/2023 11:40 PM        tpix preset time 600
+8/29/2023 11:50 PM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 4"
+8/29/2023 11:50 PM        drive nu_pre -5
+8/29/2023 11:50 PM        tpix preset time 600
+8/30/2023 12:00 AM        drive nu_pre 5
+8/30/2023 12:00 AM        tpix preset time 600
+8/30/2023 12:11 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 5"
+8/30/2023 12:11 AM        drive nu_pre -5
+8/30/2023 12:11 AM        tpix preset time 600
+8/30/2023 12:21 AM        drive nu_pre 5
+8/30/2023 12:21 AM        tpix preset time 600
+8/30/2023 12:31 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 6"
+8/30/2023 12:31 AM        drive nu_pre -5
+8/30/2023 12:32 AM        tpix preset time 600
+8/30/2023 12:42 AM        drive nu_pre 5
+8/30/2023 12:42 AM        tpix preset time 600
+8/30/2023 12:52 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 7"
+8/30/2023 12:52 AM        drive nu_pre -5
+8/30/2023 12:52 AM        tpix preset time 600
+8/30/2023 1:03 AM        drive nu_pre 5
+8/30/2023 1:03 AM        tpix preset time 600
+8/30/2023 1:13 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 8"
+8/30/2023 1:13 AM        drive nu_pre -5
+8/30/2023 1:13 AM        tpix preset time 600
+8/30/2023 1:23 AM        drive nu_pre 5
+8/30/2023 1:24 AM        tpix preset time 600
+8/30/2023 1:34 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 9"
+8/30/2023 1:34 AM        drive nu_pre -5
+8/30/2023 1:34 AM        tpix preset time 600
+8/30/2023 1:44 AM        drive nu_pre 5
+8/30/2023 1:44 AM        tpix preset time 600
+8/30/2023 1:55 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 10"
+8/30/2023 1:55 AM        drive nu_pre -5
+8/30/2023 1:55 AM        tpix preset time 600
+8/30/2023 2:05 AM        drive nu_pre 5
+8/30/2023 2:05 AM        tpix preset time 600
+8/30/2023 2:15 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 11"
+8/30/2023 2:15 AM        drive nu_pre -5
+8/30/2023 2:16 AM        tpix preset time 600
+8/30/2023 2:26 AM        drive nu_pre 5
+8/30/2023 2:26 AM        tpix preset time 600
+8/30/2023 2:36 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 12"
+8/30/2023 2:36 AM        drive nu_pre -5
+8/30/2023 2:36 AM        tpix preset time 600
+8/30/2023 2:47 AM        drive nu_pre 5
+8/30/2023 2:47 AM        tpix preset time 600
+8/30/2023 2:57 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 13"
+8/30/2023 2:57 AM        drive nu_pre -5
+8/30/2023 2:57 AM        tpix preset time 600
+8/30/2023 3:07 AM        drive nu_pre 5
+8/30/2023 3:08 AM        tpix preset time 600
+8/30/2023 3:18 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 14"
+8/30/2023 3:18 AM        drive nu_pre -5
+8/30/2023 3:18 AM        tpix preset time 600
+8/30/2023 3:28 AM        drive nu_pre 5
+8/30/2023 3:28 AM        tpix preset time 600
+8/30/2023 3:39 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 15"
+8/30/2023 3:39 AM        drive nu_pre -5
+8/30/2023 3:39 AM        tpix preset time 600
+8/30/2023 3:49 AM        drive nu_pre 5
+8/30/2023 3:49 AM        tpix preset time 600
+8/30/2023 3:59 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan 16"
+8/30/2023 3:59 AM        drive nu_pre -5
+8/30/2023 4:00 AM        tpix preset time 600
+8/30/2023 4:10 AM        drive nu_pre 5
+8/30/2023 4:10 AM        tpix preset time 600
+8/30/2023 4:20 AM        drive ac_1 0 ac_2 1.12 nu_post 5
+8/30/2023 4:20 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 1"
+8/30/2023 4:20 AM        drive nu_pre -5
+8/30/2023 4:21 AM        tpix preset time 600
+8/30/2023 4:31 AM        drive nu_pre 5
+8/30/2023 4:31 AM        tpix preset time 600
+8/30/2023 4:41 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 2"
+8/30/2023 4:41 AM        drive nu_pre -5
+8/30/2023 4:41 AM        tpix preset time 600
+8/30/2023 4:51 AM        drive nu_pre 5
+8/30/2023 4:52 AM        tpix preset time 600
+8/30/2023 5:02 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 3"
+8/30/2023 5:02 AM        drive nu_pre -5
+8/30/2023 5:02 AM        tpix preset time 600
+8/30/2023 5:12 AM        drive nu_pre 5
+8/30/2023 5:13 AM        tpix preset time 600
+8/30/2023 5:23 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 4"
+8/30/2023 5:23 AM        drive nu_pre -5
+8/30/2023 5:23 AM        tpix preset time 600
+8/30/2023 5:33 AM        drive nu_pre 5
+8/30/2023 5:33 AM        tpix preset time 600
+8/30/2023 5:43 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 5"
+8/30/2023 5:43 AM        drive nu_pre -5
+8/30/2023 5:44 AM        tpix preset time 600
+8/30/2023 5:54 AM        drive nu_pre 5
+8/30/2023 5:54 AM        tpix preset time 600
+8/30/2023 6:04 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 6"
+8/30/2023 6:04 AM        drive nu_pre -5
+8/30/2023 6:04 AM        tpix preset time 600
+8/30/2023 6:15 AM        drive nu_pre 5
+8/30/2023 6:15 AM        tpix preset time 600
+8/30/2023 6:25 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 7"
+8/30/2023 6:25 AM        drive nu_pre -5
+8/30/2023 6:25 AM        tpix preset time 600
+8/30/2023 6:35 AM        drive nu_pre 5
+8/30/2023 6:36 AM        tpix preset time 600
+8/30/2023 6:46 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 8"
+8/30/2023 6:46 AM        drive nu_pre -5
+8/30/2023 6:46 AM        tpix preset time 600
+8/30/2023 6:56 AM        drive nu_pre 5
+8/30/2023 6:56 AM        tpix preset time 600
+8/30/2023 7:07 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 9"
+8/30/2023 7:07 AM        drive nu_pre -5
+8/30/2023 7:07 AM        tpix preset time 600
+8/30/2023 7:17 AM        drive nu_pre 5
+8/30/2023 7:17 AM        tpix preset time 600
+8/30/2023 7:27 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 10"
+8/30/2023 7:27 AM        drive nu_pre -5
+8/30/2023 7:28 AM        tpix preset time 600
+8/30/2023 7:38 AM        drive nu_pre 5
+8/30/2023 7:38 AM        tpix preset time 600
+8/30/2023 7:48 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 11"
+8/30/2023 7:48 AM        drive nu_pre -5
+8/30/2023 7:48 AM        tpix preset time 600
+8/30/2023 7:59 AM        drive nu_pre 5
+8/30/2023 7:59 AM        tpix preset time 600
+8/30/2023 8:09 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 12"
+8/30/2023 8:09 AM        drive nu_pre -5
+8/30/2023 8:09 AM        tpix preset time 600
+8/30/2023 8:19 AM        drive nu_pre 5
+8/30/2023 8:20 AM        tpix preset time 600
+8/30/2023 8:30 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 13"
+8/30/2023 8:30 AM        drive nu_pre -5
+8/30/2023 8:30 AM        tpix preset time 600
+8/30/2023 8:40 AM        drive nu_pre 5
+8/30/2023 8:40 AM        tpix preset time 600
+8/30/2023 8:51 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 14"
+8/30/2023 8:51 AM        drive nu_pre -5
+8/30/2023 8:51 AM        tpix preset time 600
+8/30/2023 9:01 AM        drive nu_pre 5
+8/30/2023 9:01 AM        tpix preset time 600
+8/30/2023 9:11 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 15"
+8/30/2023 9:11 AM        drive nu_pre -5
+8/30/2023 9:12 AM        tpix preset time 600
+8/30/2023 9:22 AM        drive nu_pre 5
+8/30/2023 9:22 AM        tpix preset time 600
+8/30/2023 9:32 AM        scantitle "8_29 Overnight mini-PNAS transverse mode scan subscan ac_2 pi on 2 16"
+8/30/2023 9:32 AM        drive nu_pre -5
+8/30/2023 9:32 AM        tpix preset time 600
+8/30/2023 9:43 AM        drive nu_pre 5
+8/30/2023 9:43 AM        tpix preset time 600
+8/30/2023 10:57 AM        drive nu_pre 0 nu_post 0
+8/30/2023 10:57 AM        drive ac_2 0
+8/30/2023 11:01 AM        drive nu_pre 5 nu_post 5
+8/30/2023 11:03 AM        drive nu_post -5
+8/30/2023 11:16 AM        drive nu_post 5
+8/30/2023 11:19 AM        drive nu_pre -5
+8/30/2023 11:27 AM        drive ac_1 0 ac_2 0
+8/30/2023 11:27 AM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 1"
+8/30/2023 11:27 AM        drive nu_post -5
+8/30/2023 11:27 AM        tpix preset time 600
+8/30/2023 11:37 AM        drive nu_post 5
+8/30/2023 11:37 AM        tpix preset time 600
+8/30/2023 11:48 AM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 2"
+8/30/2023 11:48 AM        drive nu_post -5
+8/30/2023 11:48 AM        tpix preset time 600
+8/30/2023 11:58 AM        drive nu_post 5
+8/30/2023 11:58 AM        tpix preset time 600
+8/30/2023 12:08 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 3"
+8/30/2023 12:08 PM        drive nu_post -5
+8/30/2023 12:09 PM        tpix preset time 600
+8/30/2023 12:19 PM        drive nu_post 5
+8/30/2023 12:19 PM        tpix preset time 600
+8/30/2023 12:29 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 4"
+8/30/2023 12:29 PM        drive nu_post -5
+8/30/2023 12:29 PM        tpix preset time 600
+8/30/2023 12:40 PM        drive nu_post 5
+8/30/2023 12:40 PM        tpix preset time 600
+8/30/2023 12:50 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 5"
+8/30/2023 12:50 PM        drive nu_post -5
+8/30/2023 12:50 PM        tpix preset time 600
+8/30/2023 1:00 PM        drive nu_post 5
+8/30/2023 1:01 PM        tpix preset time 600
+8/30/2023 1:11 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 6"
+8/30/2023 1:11 PM        drive nu_post -5
+8/30/2023 1:11 PM        tpix preset time 600
+8/30/2023 1:21 PM        drive nu_post 5
+8/30/2023 1:21 PM        tpix preset time 600
+8/30/2023 1:32 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 7"
+8/30/2023 1:32 PM        drive nu_post -5
+8/30/2023 1:32 PM        tpix preset time 600
+8/30/2023 1:42 PM        drive nu_post 5
+8/30/2023 1:42 PM        tpix preset time 600
+8/30/2023 1:52 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 8"
+8/30/2023 1:52 PM        drive nu_post -5
+8/30/2023 1:53 PM        tpix preset time 600
+8/30/2023 2:03 PM        drive nu_post 5
+8/30/2023 2:03 PM        tpix preset time 600
+8/30/2023 2:13 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 9"
+8/30/2023 2:13 PM        drive nu_post -5
+8/30/2023 2:14 PM        tpix preset time 600
+8/30/2023 2:24 PM        drive nu_post 5
+8/30/2023 2:24 PM        tpix preset time 600
+8/30/2023 2:34 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 10"
+8/30/2023 2:34 PM        drive nu_post -5
+8/30/2023 2:35 PM        tpix preset time 600
+8/30/2023 2:45 PM        drive nu_post 5
+8/30/2023 2:45 PM        tpix preset time 600
+8/30/2023 2:55 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 11"
+8/30/2023 2:55 PM        drive nu_post -5
+8/30/2023 2:55 PM        tpix preset time 600
+8/30/2023 3:06 PM        drive nu_post 5
+8/30/2023 3:06 PM        tpix preset time 600
+8/30/2023 3:16 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 12"
+8/30/2023 3:16 PM        drive nu_post -5
+8/30/2023 3:16 PM        tpix preset time 600
+8/30/2023 3:26 PM        drive nu_post 5
+8/30/2023 3:27 PM        tpix preset time 600
+8/30/2023 3:37 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 13"
+8/30/2023 3:37 PM        drive nu_post -5
+8/30/2023 3:37 PM        tpix preset time 600
+8/30/2023 3:47 PM        drive nu_post 5
+8/30/2023 3:47 PM        tpix preset time 600
+8/30/2023 3:58 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 14"
+8/30/2023 3:58 PM        drive nu_post -5
+8/30/2023 3:58 PM        tpix preset time 600
+8/30/2023 4:08 PM        drive nu_post 5
+8/30/2023 4:08 PM        tpix preset time 600
+8/30/2023 4:18 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 15"
+8/30/2023 4:18 PM        drive nu_post -5
+8/30/2023 4:19 PM        tpix preset time 600
+8/30/2023 4:29 PM        drive nu_post 5
+8/30/2023 4:29 PM        tpix preset time 600
+8/30/2023 4:39 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode subscan 16"
+8/30/2023 4:39 PM        drive nu_post -5
+8/30/2023 4:39 PM        tpix preset time 600
+8/30/2023 4:50 PM        drive nu_post 5
+8/30/2023 4:50 PM        tpix preset time 600
+8/30/2023 5:00 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode pi on 2 subscan 1"
+8/30/2023 5:00 PM        drive nu_post -5 ac_2 1.12
+8/30/2023 5:00 PM        tpix preset time 600
+8/30/2023 5:10 PM        drive nu_post 5
+8/30/2023 5:11 PM        tpix preset time 600
+8/30/2023 5:21 PM        scantitle "8_30 Dayscan fighter of the night scan transverse mode pi on 2 subscan 2"
+8/30/2023 5:21 PM        drive nu_post -5
+8/30/2023 5:21 PM        tpix preset time 600
+8/30/2023 5:31 PM        drive nu_post 5
+8/30/2023 5:31 PM        tpix preset time 600
+8/30/2023 10:50 PM        drive ac_2 1.12
+8/30/2023 10:51 PM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 1"
+8/30/2023 10:51 PM        drive nu_post -5
+8/30/2023 10:51 PM        tpix preset time 600
+8/30/2023 11:06 PM        tpix preset time 10
+8/31/2023 12:08 AM        tpix preset time 10
+8/31/2023 12:16 AM        drive ac_2 1.12
+8/31/2023 12:16 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 1"
+8/31/2023 12:16 AM        drive nu_post -5
+8/31/2023 12:16 AM        tpix preset time 600
+8/31/2023 12:27 AM        drive nu_post 5
+8/31/2023 12:29 AM        tpix preset time 20
+8/31/2023 12:44 AM        tpix preset time 60
+8/31/2023 12:55 AM        drive ac_2 1.12
+8/31/2023 12:55 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 1"
+8/31/2023 12:55 AM        drive nu_post -5
+8/31/2023 12:55 AM        tpix preset time 600
+8/31/2023 1:05 AM        drive nu_post 5
+8/31/2023 1:05 AM        tpix preset time 600
+8/31/2023 1:15 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 2"
+8/31/2023 1:15 AM        drive nu_post -5
+8/31/2023 1:16 AM        tpix preset time 600
+8/31/2023 1:26 AM        drive nu_post 5
+8/31/2023 1:26 AM        tpix preset time 600
+8/31/2023 1:36 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 3"
+8/31/2023 1:36 AM        drive nu_post -5
+8/31/2023 1:37 AM        tpix preset time 600
+8/31/2023 1:47 AM        drive nu_post 5
+8/31/2023 1:47 AM        tpix preset time 600
+8/31/2023 1:57 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 4"
+8/31/2023 1:57 AM        drive nu_post -5
+8/31/2023 1:57 AM        tpix preset time 600
+8/31/2023 2:08 AM        drive nu_post 5
+8/31/2023 2:08 AM        tpix preset time 600
+8/31/2023 2:18 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 5"
+8/31/2023 2:18 AM        drive nu_post -5
+8/31/2023 2:18 AM        tpix preset time 600
+8/31/2023 2:28 AM        drive nu_post 5
+8/31/2023 2:29 AM        tpix preset time 600
+8/31/2023 2:39 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 6"
+8/31/2023 2:39 AM        drive nu_post -5
+8/31/2023 2:39 AM        tpix preset time 600
+8/31/2023 2:49 AM        drive nu_post 5
+8/31/2023 2:49 AM        tpix preset time 600
+8/31/2023 3:00 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 7"
+8/31/2023 3:00 AM        drive nu_post -5
+8/31/2023 3:00 AM        tpix preset time 600
+8/31/2023 3:10 AM        drive nu_post 5
+8/31/2023 3:10 AM        tpix preset time 600
+8/31/2023 3:20 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 8"
+8/31/2023 3:20 AM        drive nu_post -5
+8/31/2023 3:21 AM        tpix preset time 600
+8/31/2023 3:31 AM        drive nu_post 5
+8/31/2023 3:31 AM        tpix preset time 600
+8/31/2023 3:41 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 9"
+8/31/2023 3:41 AM        drive nu_post -5
+8/31/2023 3:41 AM        tpix preset time 600
+8/31/2023 3:52 AM        drive nu_post 5
+8/31/2023 3:52 AM        tpix preset time 600
+8/31/2023 4:02 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 10"
+8/31/2023 4:02 AM        drive nu_post -5
+8/31/2023 4:02 AM        tpix preset time 600
+8/31/2023 4:12 AM        drive nu_post 5
+8/31/2023 4:13 AM        tpix preset time 600
+8/31/2023 4:23 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 11"
+8/31/2023 4:23 AM        drive nu_post -5
+8/31/2023 4:23 AM        tpix preset time 600
+8/31/2023 4:33 AM        drive nu_post 5
+8/31/2023 4:34 AM        tpix preset time 600
+8/31/2023 4:44 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 12"
+8/31/2023 4:44 AM        drive nu_post -5
+8/31/2023 4:44 AM        tpix preset time 600
+8/31/2023 4:54 AM        drive nu_post 5
+8/31/2023 4:54 AM        tpix preset time 600
+8/31/2023 5:05 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 13"
+8/31/2023 5:05 AM        drive nu_post -5
+8/31/2023 5:05 AM        tpix preset time 600
+8/31/2023 5:15 AM        drive nu_post 5
+8/31/2023 5:15 AM        tpix preset time 600
+8/31/2023 5:25 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 14"
+8/31/2023 5:25 AM        drive nu_post -5
+8/31/2023 5:26 AM        tpix preset time 600
+8/31/2023 5:36 AM        drive nu_post 5
+8/31/2023 5:36 AM        tpix preset time 600
+8/31/2023 5:46 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 15"
+8/31/2023 5:46 AM        drive nu_post -5
+8/31/2023 5:46 AM        tpix preset time 600
+8/31/2023 5:57 AM        drive nu_post 5
+8/31/2023 5:57 AM        tpix preset time 600
+8/31/2023 6:07 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 16"
+8/31/2023 6:07 AM        drive nu_post -5
+8/31/2023 6:07 AM        tpix preset time 600
+8/31/2023 6:17 AM        drive nu_post 5
+8/31/2023 6:18 AM        tpix preset time 600
+8/31/2023 9:41 AM        tpix preset time 600
+8/31/2023 9:52 AM        scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan 17"
+8/31/2023 9:52 AM        drive nu_post -5
+8/31/2023 9:52 AM        tpix preset time 600
+8/31/2023 10:02 AM        drive nu_post 5
+8/31/2023 10:02 AM        tpix preset time 600
+8/31/2023 10:09 AM        drive nu_post 0
+8/31/2023 10:11 AM        drive nu_post 5
+8/31/2023 10:12 AM        drive nu_post -5
+8/31/2023 10:17 AM        drive ac_1 0 ac_2 0
+8/31/2023 10:17 AM        scantitle "8_31 uber-triangle PNAS longitudinal 1"
+8/31/2023 10:17 AM        drive nu_post -5
+8/31/2023 10:17 AM        tpix preset time 600
+8/31/2023 10:20 AM        drive ac_1 0 ac_2 0
+8/31/2023 10:20 AM        scantitle "8_31 uber-triangle PNAS longitudinal 1"
+8/31/2023 10:20 AM        drive nu_post -5
+8/31/2023 10:20 AM        tpix preset time 600
+8/31/2023 10:30 AM        drive nu_post 5
+8/31/2023 10:31 AM        tpix preset time 600
+8/31/2023 10:41 AM        scantitle "8_31 uber-triangle PNAS longitudinal 2"
+8/31/2023 10:41 AM        drive nu_post -5
+8/31/2023 10:41 AM        tpix preset time 600
+8/31/2023 10:51 AM        drive nu_post 5
+8/31/2023 10:52 AM        tpix preset time 600
+8/31/2023 11:02 AM        scantitle "8_31 uber-triangle PNAS longitudinal 3"
+8/31/2023 11:02 AM        drive nu_post -5
+8/31/2023 11:02 AM        tpix preset time 600
+8/31/2023 11:12 AM        drive nu_post 5
+8/31/2023 11:12 AM        tpix preset time 600
+8/31/2023 11:23 AM        scantitle "8_31 uber-triangle PNAS longitudinal 4"
+8/31/2023 11:23 AM        drive nu_post -5
+8/31/2023 11:23 AM        tpix preset time 600
+8/31/2023 11:33 AM        drive nu_post 5
+8/31/2023 11:33 AM        tpix preset time 600
+8/31/2023 11:43 AM        scantitle "8_31 uber-triangle PNAS longitudinal 5"
+8/31/2023 11:43 AM        drive nu_post -5
+8/31/2023 11:44 AM        tpix preset time 600
+8/31/2023 11:54 AM        drive nu_post 5
+8/31/2023 11:54 AM        tpix preset time 600
+8/31/2023 12:04 PM        scantitle "8_31 uber-triangle PNAS longitudinal 6"
+8/31/2023 12:04 PM        drive nu_post -5
+8/31/2023 12:04 PM        tpix preset time 600
+8/31/2023 12:15 PM        drive nu_post 5
+8/31/2023 12:15 PM        tpix preset time 600
+8/31/2023 12:25 PM        scantitle "8_31 uber-triangle PNAS longitudinal 7"
+8/31/2023 12:25 PM        drive nu_post -5
+8/31/2023 12:25 PM        tpix preset time 600
+8/31/2023 12:35 PM        drive nu_post 5
+8/31/2023 12:36 PM        tpix preset time 600
+8/31/2023 12:46 PM        scantitle "8_31 uber-triangle PNAS longitudinal 8"
+8/31/2023 12:46 PM        drive nu_post -5
+8/31/2023 12:46 PM        tpix preset time 600
+8/31/2023 12:56 PM        drive nu_post 5
+8/31/2023 12:56 PM        tpix preset time 600
+8/31/2023 1:07 PM        scantitle "8_31 uber-triangle PNAS longitudinal 9"
+8/31/2023 1:07 PM        drive nu_post -5
+8/31/2023 1:07 PM        tpix preset time 600
+8/31/2023 1:17 PM        drive nu_post 5
+8/31/2023 1:17 PM        tpix preset time 600
+8/31/2023 1:27 PM        scantitle "8_31 uber-triangle PNAS longitudinal 10"
+8/31/2023 1:27 PM        drive nu_post -5
+8/31/2023 1:28 PM        tpix preset time 600
+8/31/2023 1:38 PM        drive nu_post 5
+8/31/2023 1:38 PM        tpix preset time 600
+8/31/2023 1:48 PM        scantitle "8_31 uber-triangle PNAS longitudinal 11"
+8/31/2023 1:48 PM        drive nu_post -5
+8/31/2023 1:49 PM        tpix preset time 600
+8/31/2023 1:59 PM        drive nu_post 5
+8/31/2023 1:59 PM        tpix preset time 600
+8/31/2023 2:09 PM        scantitle "8_31 uber-triangle PNAS longitudinal 12"
+8/31/2023 2:09 PM        drive nu_post -5
+8/31/2023 2:09 PM        tpix preset time 600
+8/31/2023 2:20 PM        drive nu_post 5
+8/31/2023 2:20 PM        tpix preset time 600
+8/31/2023 2:30 PM        scantitle "8_31 uber-triangle PNAS longitudinal 13"
+8/31/2023 2:30 PM        drive nu_post -5
+8/31/2023 2:30 PM        tpix preset time 600
+8/31/2023 2:40 PM        drive nu_post 5
+8/31/2023 2:41 PM        tpix preset time 600
+8/31/2023 2:51 PM        scantitle "8_31 uber-triangle PNAS longitudinal 14"
+8/31/2023 2:51 PM        drive nu_post -5
+8/31/2023 2:51 PM        tpix preset time 600
+8/31/2023 3:01 PM        drive nu_post 5
+8/31/2023 3:02 PM        tpix preset time 600
+8/31/2023 3:12 PM        scantitle "8_31 uber-triangle PNAS longitudinal 15"
+8/31/2023 3:12 PM        drive nu_post -5
+8/31/2023 3:12 PM        tpix preset time 600
+8/31/2023 3:22 PM        drive nu_post 5
+8/31/2023 3:22 PM        tpix preset time 600
+8/31/2023 4:01 PM        drive nu_post 0
+8/31/2023 4:02 PM        drive nu_post 5
+8/31/2023 4:26 PM        drive ac_2 1.12
+8/31/2023 4:26 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 1"
+8/31/2023 4:26 PM        drive nu_post -5
+8/31/2023 4:26 PM        tpix preset time 600
+8/31/2023 4:37 PM        drive nu_post 5
+8/31/2023 4:37 PM        tpix preset time 600
+8/31/2023 4:47 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 2"
+8/31/2023 4:47 PM        drive nu_post -5
+8/31/2023 4:47 PM        tpix preset time 600
+8/31/2023 4:57 PM        drive nu_post 5
+8/31/2023 4:58 PM        tpix preset time 600
+8/31/2023 5:08 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 3"
+8/31/2023 5:08 PM        drive nu_post -5
+8/31/2023 5:08 PM        tpix preset time 600
+8/31/2023 5:18 PM        drive nu_post 5
+8/31/2023 5:18 PM        tpix preset time 600
+8/31/2023 5:29 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 4"
+8/31/2023 5:29 PM        drive nu_post -5
+8/31/2023 5:29 PM        tpix preset time 600
+8/31/2023 5:39 PM        drive nu_post 5
+8/31/2023 5:39 PM        tpix preset time 600
+8/31/2023 5:49 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 5"
+8/31/2023 5:49 PM        drive nu_post -5
+8/31/2023 5:50 PM        tpix preset time 600
+8/31/2023 6:00 PM        drive nu_post 5
+8/31/2023 6:00 PM        tpix preset time 600
+8/31/2023 6:10 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 6"
+8/31/2023 6:10 PM        drive nu_post -5
+8/31/2023 6:10 PM        tpix preset time 600
+8/31/2023 6:21 PM        drive nu_post 5
+8/31/2023 6:21 PM        tpix preset time 600
+8/31/2023 6:31 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 7"
+8/31/2023 6:31 PM        drive nu_post -5
+8/31/2023 6:31 PM        tpix preset time 600
+8/31/2023 6:41 PM        drive nu_post 5
+8/31/2023 6:42 PM        tpix preset time 600
+8/31/2023 6:52 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 8"
+8/31/2023 6:52 PM        drive nu_post -5
+8/31/2023 6:52 PM        tpix preset time 600
+8/31/2023 7:02 PM        drive nu_post 5
+8/31/2023 7:03 PM        tpix preset time 600
+8/31/2023 7:13 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 9"
+8/31/2023 7:13 PM        drive nu_post -5
+8/31/2023 7:13 PM        tpix preset time 600
+8/31/2023 7:23 PM        drive nu_post 5
+8/31/2023 7:23 PM        tpix preset time 600
+8/31/2023 7:34 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 10"
+8/31/2023 7:34 PM        drive nu_post -5
+8/31/2023 7:34 PM        tpix preset time 600
+8/31/2023 7:44 PM        drive nu_post 5
+8/31/2023 7:44 PM        tpix preset time 600
+8/31/2023 7:54 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 11"
+8/31/2023 7:54 PM        drive nu_post -5
+8/31/2023 7:55 PM        tpix preset time 600
+8/31/2023 8:05 PM        drive nu_post 5
+8/31/2023 8:05 PM        tpix preset time 600
+8/31/2023 8:15 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 12"
+8/31/2023 8:15 PM        drive nu_post -5
+8/31/2023 8:15 PM        tpix preset time 600
+8/31/2023 8:26 PM        drive nu_post 5
+8/31/2023 8:26 PM        tpix preset time 600
+8/31/2023 8:36 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 13"
+8/31/2023 8:36 PM        drive nu_post -5
+8/31/2023 8:36 PM        tpix preset time 600
+8/31/2023 8:46 PM        drive nu_post 5
+8/31/2023 8:47 PM        tpix preset time 600
+8/31/2023 8:57 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 14"
+8/31/2023 8:57 PM        drive nu_post -5
+8/31/2023 8:57 PM        tpix preset time 600
+8/31/2023 9:07 PM        drive nu_post 5
+8/31/2023 9:07 PM        tpix preset time 600
+8/31/2023 9:18 PM        scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse 15"
+8/31/2023 9:18 PM        drive nu_post -5
+8/31/2023 9:18 PM        tpix preset time 600
+8/31/2023 9:28 PM        drive nu_post 5
+8/31/2023 9:28 PM        tpix preset time 600
+8/31/2023 9:38 PM        drive ac_2 0
+8/31/2023 9:38 PM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 1"
+8/31/2023 9:38 PM        drive nu_post -5
+8/31/2023 9:39 PM        tpix preset time 600
+8/31/2023 9:49 PM        drive nu_post 5
+8/31/2023 9:49 PM        tpix preset time 600
+8/31/2023 9:59 PM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 2"
+8/31/2023 9:59 PM        drive nu_post -5
+8/31/2023 10:00 PM        tpix preset time 600
+8/31/2023 10:10 PM        drive nu_post 5
+8/31/2023 10:10 PM        tpix preset time 600
+8/31/2023 10:20 PM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 3"
+8/31/2023 10:20 PM        drive nu_post -5
+8/31/2023 10:20 PM        tpix preset time 600
+8/31/2023 10:31 PM        drive nu_post 5
+8/31/2023 10:31 PM        tpix preset time 600
+8/31/2023 10:41 PM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 4"
+8/31/2023 10:41 PM        drive nu_post -5
+8/31/2023 10:41 PM        tpix preset time 600
+8/31/2023 10:51 PM        drive nu_post 5
+8/31/2023 10:52 PM        tpix preset time 600
+8/31/2023 11:02 PM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 5"
+8/31/2023 11:02 PM        drive nu_post -5
+8/31/2023 11:02 PM        tpix preset time 600
+8/31/2023 11:12 PM        drive nu_post 5
+8/31/2023 11:12 PM        tpix preset time 600
+8/31/2023 11:23 PM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 6"
+8/31/2023 11:23 PM        drive nu_post -5
+8/31/2023 11:23 PM        tpix preset time 600
+8/31/2023 11:33 PM        drive nu_post 5
+8/31/2023 11:33 PM        tpix preset time 600
+8/31/2023 11:43 PM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 7"
+8/31/2023 11:43 PM        drive nu_post -5
+8/31/2023 11:44 PM        tpix preset time 600
+8/31/2023 11:54 PM        drive nu_post 5
+8/31/2023 11:54 PM        tpix preset time 600
+9/1/2023 12:04 AM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 8"
+9/1/2023 12:04 AM        drive nu_post -5
+9/1/2023 12:04 AM        tpix preset time 600
+9/1/2023 12:15 AM        drive nu_post 5
+9/1/2023 12:15 AM        tpix preset time 600
+9/1/2023 12:25 AM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 9"
+9/1/2023 12:25 AM        drive nu_post -5
+9/1/2023 12:25 AM        tpix preset time 600
+9/1/2023 12:35 AM        drive nu_post 5
+9/1/2023 12:36 AM        tpix preset time 600
+9/1/2023 12:46 AM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 10"
+9/1/2023 12:46 AM        drive nu_post -5
+9/1/2023 12:46 AM        tpix preset time 600
+9/1/2023 12:56 AM        drive nu_post 5
+9/1/2023 12:57 AM        tpix preset time 600
+9/1/2023 1:07 AM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 11"
+9/1/2023 1:07 AM        drive nu_post -5
+9/1/2023 1:07 AM        tpix preset time 600
+9/1/2023 1:17 AM        drive nu_post 5
+9/1/2023 1:17 AM        tpix preset time 600
+9/1/2023 1:28 AM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 12"
+9/1/2023 1:28 AM        drive nu_post -5
+9/1/2023 1:28 AM        tpix preset time 600
+9/1/2023 1:38 AM        drive nu_post 5
+9/1/2023 1:38 AM        tpix preset time 600
+9/1/2023 1:48 AM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 13"
+9/1/2023 1:48 AM        drive nu_post -5
+9/1/2023 1:49 AM        tpix preset time 600
+9/1/2023 1:59 AM        drive nu_post 5
+9/1/2023 1:59 AM        tpix preset time 600
+9/1/2023 2:09 AM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 14"
+9/1/2023 2:09 AM        drive nu_post -5
+9/1/2023 2:09 AM        tpix preset time 600
+9/1/2023 2:20 AM        drive nu_post 5
+9/1/2023 2:20 AM        tpix preset time 600
+9/1/2023 2:30 AM        scantitle "8_31 Afternoon ubertriangle PNAS transverse 15"
+9/1/2023 2:30 AM        drive nu_post -5
+9/1/2023 2:30 AM        tpix preset time 600
+9/1/2023 2:40 AM        drive nu_post 5
+9/1/2023 2:41 AM        tpix preset time 600
+9/1/2023 2:51 AM        drive ac_1 0 ac_2 0
+9/1/2023 2:51 AM        drive ac_1 -2.5
+9/1/2023 2:51 AM        drive nu_post -5
+9/1/2023 2:51 AM        scantitle "8_31 Night ubertriangle ac1 -2.5 transverse nu_post -5"
+9/1/2023 2:51 AM        tpix preset time 600
+9/1/2023 3:01 AM        drive nu_post 5
+9/1/2023 3:02 AM        scantitle "8_31 Night ubertriangle ac1 -2.5 transverse nu_post 5"
+9/1/2023 3:02 AM        tpix preset time 600
+9/1/2023 3:12 AM        drive ac_1 -2
+9/1/2023 3:12 AM        drive nu_post -5
+9/1/2023 3:12 AM        scantitle "8_31 Night ubertriangle ac1 -2 transverse nu_post -5"
+9/1/2023 3:12 AM        tpix preset time 600
+9/1/2023 3:22 AM        drive nu_post 5
+9/1/2023 3:23 AM        scantitle "8_31 Night ubertriangle ac1 -2 transverse nu_post 5"
+9/1/2023 3:23 AM        tpix preset time 600
+9/1/2023 3:33 AM        drive ac_1 -1.5
+9/1/2023 3:33 AM        drive nu_post -5
+9/1/2023 3:33 AM        scantitle "8_31 Night ubertriangle ac1 -1.5 transverse nu_post -5"
+9/1/2023 3:33 AM        tpix preset time 600
+9/1/2023 3:43 AM        drive nu_post 5
+9/1/2023 3:44 AM        scantitle "8_31 Night ubertriangle ac1 -1.5 transverse nu_post 5"
+9/1/2023 3:44 AM        tpix preset time 600
+9/1/2023 3:54 AM        drive ac_1 -1
+9/1/2023 3:54 AM        drive nu_post -5
+9/1/2023 3:54 AM        scantitle "8_31 Night ubertriangle ac1 -1 transverse nu_post -5"
+9/1/2023 3:54 AM        tpix preset time 600
+9/1/2023 4:04 AM        drive nu_post 5
+9/1/2023 4:04 AM        scantitle "8_31 Night ubertriangle ac1 -1 transverse nu_post 5"
+9/1/2023 4:04 AM        tpix preset time 600
+9/1/2023 4:15 AM        drive ac_1 -0.5
+9/1/2023 4:15 AM        drive nu_post -5
+9/1/2023 4:15 AM        scantitle "8_31 Night ubertriangle ac1 -0.5 transverse nu_post -5"
+9/1/2023 4:15 AM        tpix preset time 600
+9/1/2023 4:25 AM        drive nu_post 5
+9/1/2023 4:25 AM        scantitle "8_31 Night ubertriangle ac1 -0.5 transverse nu_post 5"
+9/1/2023 4:25 AM        tpix preset time 600
+9/1/2023 4:36 AM        drive ac_1 0
+9/1/2023 4:36 AM        drive nu_post -5
+9/1/2023 4:36 AM        scantitle "8_31 Night ubertriangle ac1 0 transverse nu_post -5"
+9/1/2023 4:36 AM        tpix preset time 600
+9/1/2023 4:46 AM        drive nu_post 5
+9/1/2023 4:46 AM        scantitle "8_31 Night ubertriangle ac1 0 transverse nu_post 5"
+9/1/2023 4:46 AM        tpix preset time 600
+9/1/2023 4:56 AM        drive ac_1 0.5
+9/1/2023 4:57 AM        drive nu_post -5
+9/1/2023 4:57 AM        scantitle "8_31 Night ubertriangle ac1 0.5 transverse nu_post -5"
+9/1/2023 4:57 AM        tpix preset time 600
+9/1/2023 5:07 AM        drive nu_post 5
+9/1/2023 5:07 AM        scantitle "8_31 Night ubertriangle ac1 0.5 transverse nu_post 5"
+9/1/2023 5:07 AM        tpix preset time 600
+9/1/2023 5:17 AM        drive ac_1 1
+9/1/2023 5:17 AM        drive nu_post -5
+9/1/2023 5:18 AM        scantitle "8_31 Night ubertriangle ac1 1 transverse nu_post -5"
+9/1/2023 5:18 AM        tpix preset time 600
+9/1/2023 5:28 AM        drive nu_post 5
+9/1/2023 5:28 AM        scantitle "8_31 Night ubertriangle ac1 1 transverse nu_post 5"
+9/1/2023 5:28 AM        tpix preset time 600
+9/1/2023 5:38 AM        drive ac_1 1.5
+9/1/2023 5:38 AM        drive nu_post -5
+9/1/2023 5:39 AM        scantitle "8_31 Night ubertriangle ac1 1.5 transverse nu_post -5"
+9/1/2023 5:39 AM        tpix preset time 600
+9/1/2023 5:49 AM        drive nu_post 5
+9/1/2023 5:49 AM        scantitle "8_31 Night ubertriangle ac1 1.5 transverse nu_post 5"
+9/1/2023 5:49 AM        tpix preset time 600
+9/1/2023 5:59 AM        drive ac_1 2
+9/1/2023 5:59 AM        drive nu_post -5
+9/1/2023 6:00 AM        scantitle "8_31 Night ubertriangle ac1 2 transverse nu_post -5"
+9/1/2023 6:00 AM        tpix preset time 600
+9/1/2023 6:10 AM        drive nu_post 5
+9/1/2023 6:10 AM        scantitle "8_31 Night ubertriangle ac1 2 transverse nu_post 5"
+9/1/2023 6:10 AM        tpix preset time 600
+9/1/2023 6:20 AM        drive ac_1 2.5
+9/1/2023 6:20 AM        drive nu_post -5
+9/1/2023 6:20 AM        scantitle "8_31 Night ubertriangle ac1 2.5 transverse nu_post -5"
+9/1/2023 6:20 AM        tpix preset time 600
+9/1/2023 6:31 AM        drive nu_post 5
+9/1/2023 6:31 AM        scantitle "8_31 Night ubertriangle ac1 2.5 transverse nu_post 5"
+9/1/2023 6:31 AM        tpix preset time 600
+9/1/2023 6:41 AM        drive ac_1 0 ac_2 0
+9/1/2023 6:41 AM        drive ac_2 -2.5
+9/1/2023 6:41 AM        drive nu_post -5
+9/1/2023 6:42 AM        scantitle "8_31 Night ubertriangle ac2 -2.5 transverse nu_post -5"
+9/1/2023 6:42 AM        tpix preset time 600
+9/1/2023 6:52 AM        drive nu_post 5
+9/1/2023 6:52 AM        scantitle "8_31 Night ubertriangle ac2 -2.5 transverse nu_post 5"
+9/1/2023 6:52 AM        tpix preset time 600
+9/1/2023 7:02 AM        drive ac_2 -2
+9/1/2023 7:02 AM        drive nu_post -5
+9/1/2023 7:03 AM        scantitle "8_31 Night ubertriangle ac2 -2 transverse nu_post -5"
+9/1/2023 7:03 AM        tpix preset time 600
+9/1/2023 7:13 AM        drive nu_post 5
+9/1/2023 7:13 AM        scantitle "8_31 Night ubertriangle ac2 -2 transverse nu_post 5"
+9/1/2023 7:13 AM        tpix preset time 600
+9/1/2023 7:23 AM        drive ac_2 -1.5
+9/1/2023 7:23 AM        drive nu_post -5
+9/1/2023 7:23 AM        scantitle "8_31 Night ubertriangle ac2 -1.5 transverse nu_post -5"
+9/1/2023 7:24 AM        tpix preset time 600
+9/1/2023 7:34 AM        drive nu_post 5
+9/1/2023 7:34 AM        scantitle "8_31 Night ubertriangle ac2 -1.5 transverse nu_post 5"
+9/1/2023 7:34 AM        tpix preset time 600
+9/1/2023 7:44 AM        drive ac_2 -1
+9/1/2023 7:44 AM        drive nu_post -5
+9/1/2023 7:44 AM        scantitle "8_31 Night ubertriangle ac2 -1 transverse nu_post -5"
+9/1/2023 7:44 AM        tpix preset time 600
+9/1/2023 7:55 AM        drive nu_post 5
+9/1/2023 7:55 AM        scantitle "8_31 Night ubertriangle ac2 -1 transverse nu_post 5"
+9/1/2023 7:55 AM        tpix preset time 600
+9/1/2023 8:05 AM        drive ac_2 -0.5
+9/1/2023 8:05 AM        drive nu_post -5
+9/1/2023 8:05 AM        scantitle "8_31 Night ubertriangle ac2 -0.5 transverse nu_post -5"
+9/1/2023 8:05 AM        tpix preset time 600
+9/1/2023 8:15 AM        drive nu_post 5
+9/1/2023 8:16 AM        scantitle "8_31 Night ubertriangle ac2 -0.5 transverse nu_post 5"
+9/1/2023 8:16 AM        tpix preset time 600
+9/1/2023 8:26 AM        drive ac_2 0
+9/1/2023 8:26 AM        drive nu_post -5
+9/1/2023 8:26 AM        scantitle "8_31 Night ubertriangle ac2 0 transverse nu_post -5"
+9/1/2023 8:26 AM        tpix preset time 600
+9/1/2023 8:36 AM        drive nu_post 5
+9/1/2023 8:37 AM        scantitle "8_31 Night ubertriangle ac2 0 transverse nu_post 5"
+9/1/2023 8:37 AM        tpix preset time 600
+9/1/2023 8:47 AM        drive ac_2 0.5
+9/1/2023 8:47 AM        drive nu_post -5
+9/1/2023 8:47 AM        scantitle "8_31 Night ubertriangle ac2 0.5 transverse nu_post -5"
+9/1/2023 8:47 AM        tpix preset time 600
+9/1/2023 8:57 AM        drive nu_post 5
+9/1/2023 8:58 AM        scantitle "8_31 Night ubertriangle ac2 0.5 transverse nu_post 5"
+9/1/2023 8:58 AM        tpix preset time 600
+9/1/2023 9:08 AM        drive ac_2 1
+9/1/2023 9:08 AM        drive nu_post -5
+9/1/2023 9:08 AM        scantitle "8_31 Night ubertriangle ac2 1 transverse nu_post -5"
+9/1/2023 9:08 AM        tpix preset time 600
+9/1/2023 9:18 AM        drive nu_post 5
+9/1/2023 9:18 AM        scantitle "8_31 Night ubertriangle ac2 1 transverse nu_post 5"
+9/1/2023 9:18 AM        tpix preset time 600
+9/1/2023 9:29 AM        drive ac_2 1.5
+9/1/2023 9:29 AM        drive nu_post -5
+9/1/2023 9:29 AM        scantitle "8_31 Night ubertriangle ac2 1.5 transverse nu_post -5"
+9/1/2023 9:29 AM        tpix preset time 600
+9/1/2023 9:39 AM        drive nu_post 5
+9/1/2023 9:39 AM        scantitle "8_31 Night ubertriangle ac2 1.5 transverse nu_post 5"
+9/1/2023 9:39 AM        tpix preset time 600
+9/1/2023 9:50 AM        drive ac_2 2
+9/1/2023 9:50 AM        drive nu_post -5
+9/1/2023 9:50 AM        scantitle "8_31 Night ubertriangle ac2 2 transverse nu_post -5"
+9/1/2023 9:50 AM        tpix preset time 600
+9/1/2023 10:00 AM        drive nu_post 5
+9/1/2023 10:00 AM        scantitle "8_31 Night ubertriangle ac2 2 transverse nu_post 5"
+9/1/2023 10:00 AM        tpix preset time 600
+9/1/2023 10:10 AM        drive ac_2 2.5
+9/1/2023 10:11 AM        drive nu_post -5
+9/1/2023 10:11 AM        scantitle "8_31 Night ubertriangle ac2 2.5 transverse nu_post -5"
+9/1/2023 10:11 AM        tpix preset time 600
+9/1/2023 10:21 AM        drive nu_post 5
+9/1/2023 10:21 AM        scantitle "8_31 Night ubertriangle ac2 2.5 transverse nu_post 5"
+9/1/2023 10:21 AM        tpix preset time 600
+9/1/2023 10:55 AM        drive nu_post 0
+9/1/2023 11:01 AM        drive nu_post 5
+9/1/2023 11:02 AM        drive ac_1 0 ac_2 0
+9/1/2023 11:02 AM        drive ac_1 -2.5
+9/1/2023 11:02 AM        drive nu_post -5
+9/1/2023 11:02 AM        scantitle "9_1 Day ubertriangle ac1 -2.5 long nu_post -5"
+9/1/2023 11:02 AM        tpix preset time 600
+9/1/2023 11:12 AM        drive nu_post 5
+9/1/2023 11:13 AM        scantitle "9_1 Day ubertriangle ac1 -2.5 long nu_post 5"
+9/1/2023 11:13 AM        tpix preset time 600
+9/1/2023 11:23 AM        drive ac_1 -2
+9/1/2023 11:23 AM        drive nu_post -5
+9/1/2023 11:23 AM        scantitle "9_1 Day ubertriangle ac1 -2 long nu_post -5"
+9/1/2023 11:23 AM        tpix preset time 600
+9/1/2023 11:33 AM        drive nu_post 5
+9/1/2023 11:34 AM        scantitle "9_1 Day ubertriangle ac1 -2 long nu_post 5"
+9/1/2023 11:34 AM        tpix preset time 600
+9/1/2023 11:44 AM        drive ac_1 -1.5
+9/1/2023 11:44 AM        drive nu_post -5
+9/1/2023 11:44 AM        scantitle "9_1 Day ubertriangle ac1 -1.5 long nu_post -5"
+9/1/2023 11:44 AM        tpix preset time 600
+9/1/2023 11:54 AM        drive nu_post 5
+9/1/2023 11:55 AM        scantitle "9_1 Day ubertriangle ac1 -1.5 long nu_post 5"
+9/1/2023 11:55 AM        tpix preset time 600
+9/1/2023 12:05 PM        drive ac_1 -1
+9/1/2023 12:05 PM        drive nu_post -5
+9/1/2023 12:05 PM        scantitle "9_1 Day ubertriangle ac1 -1 long nu_post -5"
+9/1/2023 12:05 PM        tpix preset time 600
+9/1/2023 12:15 PM        drive nu_post 5
+9/1/2023 12:15 PM        scantitle "9_1 Day ubertriangle ac1 -1 long nu_post 5"
+9/1/2023 12:15 PM        tpix preset time 600
+9/1/2023 12:26 PM        drive ac_1 -0.5
+9/1/2023 12:26 PM        drive nu_post -5
+9/1/2023 12:26 PM        scantitle "9_1 Day ubertriangle ac1 -0.5 long nu_post -5"
+9/1/2023 12:26 PM        tpix preset time 600
+9/1/2023 12:36 PM        drive nu_post 5
+9/1/2023 12:36 PM        scantitle "9_1 Day ubertriangle ac1 -0.5 long nu_post 5"
+9/1/2023 12:36 PM        tpix preset time 600
+9/1/2023 12:47 PM        drive ac_1 0
+9/1/2023 12:47 PM        drive nu_post -5
+9/1/2023 12:47 PM        scantitle "9_1 Day ubertriangle ac1 0 long nu_post -5"
+9/1/2023 12:47 PM        tpix preset time 600
+9/1/2023 12:57 PM        drive nu_post 5
+9/1/2023 12:57 PM        scantitle "9_1 Day ubertriangle ac1 0 long nu_post 5"
+9/1/2023 12:57 PM        tpix preset time 600
+9/1/2023 1:07 PM        drive ac_1 0.5
+9/1/2023 1:08 PM        drive nu_post -5
+9/1/2023 1:08 PM        scantitle "9_1 Day ubertriangle ac1 0.5 long nu_post -5"
+9/1/2023 1:08 PM        tpix preset time 600
+9/1/2023 1:18 PM        drive nu_post 5
+9/1/2023 1:18 PM        scantitle "9_1 Day ubertriangle ac1 0.5 long nu_post 5"
+9/1/2023 1:18 PM        tpix preset time 600
+9/1/2023 1:28 PM        drive ac_1 1
+9/1/2023 1:28 PM        drive nu_post -5
+9/1/2023 1:29 PM        scantitle "9_1 Day ubertriangle ac1 1 long nu_post -5"
+9/1/2023 1:29 PM        tpix preset time 600
+9/1/2023 1:39 PM        drive nu_post 5
+9/1/2023 1:39 PM        scantitle "9_1 Day ubertriangle ac1 1 long nu_post 5"
+9/1/2023 1:39 PM        tpix preset time 600
+9/1/2023 1:49 PM        drive ac_1 1.5
+9/1/2023 1:49 PM        drive nu_post -5
+9/1/2023 1:50 PM        scantitle "9_1 Day ubertriangle ac1 1.5 long nu_post -5"
+9/1/2023 1:50 PM        tpix preset time 600
+9/1/2023 2:00 PM        drive nu_post 5
+9/1/2023 2:00 PM        scantitle "9_1 Day ubertriangle ac1 1.5 long nu_post 5"
+9/1/2023 2:00 PM        tpix preset time 600
+9/1/2023 2:10 PM        drive ac_1 2
+9/1/2023 2:10 PM        drive nu_post -5
+9/1/2023 2:11 PM        scantitle "9_1 Day ubertriangle ac1 2 long nu_post -5"
+9/1/2023 2:11 PM        tpix preset time 600
+9/1/2023 2:21 PM        drive nu_post 5
+9/1/2023 2:21 PM        scantitle "9_1 Day ubertriangle ac1 2 long nu_post 5"
+9/1/2023 2:21 PM        tpix preset time 600
+9/1/2023 2:31 PM        drive ac_1 2.5
+9/1/2023 2:31 PM        drive nu_post -5
+9/1/2023 2:31 PM        scantitle "9_1 Day ubertriangle ac1 2.5 long nu_post -5"
+9/1/2023 2:31 PM        tpix preset time 600
+9/1/2023 2:42 PM        drive nu_post 5
+9/1/2023 2:42 PM        scantitle "9_1 Day ubertriangle ac1 2.5 long nu_post 5"
+9/1/2023 2:42 PM        tpix preset time 600
+9/1/2023 2:52 PM        drive ac_1 0 ac_2 0
+9/1/2023 2:52 PM        drive ac_2 -2.5
+9/1/2023 2:52 PM        drive nu_post -5
+9/1/2023 2:53 PM        scantitle "9_1 Day ubertriangle ac2 -2.5 long nu_post -5"
+9/1/2023 2:53 PM        tpix preset time 600
+9/1/2023 3:03 PM        drive nu_post 5
+9/1/2023 3:03 PM        scantitle "9_1 Day ubertriangle ac2 -2.5 long nu_post 5"
+9/1/2023 3:03 PM        tpix preset time 600
+9/1/2023 3:13 PM        drive ac_2 -2
+9/1/2023 3:13 PM        drive nu_post -5
+9/1/2023 3:14 PM        scantitle "9_1 Day ubertriangle ac2 -2 long nu_post -5"
+9/1/2023 3:14 PM        tpix preset time 600
+9/1/2023 3:24 PM        drive nu_post 5
+9/1/2023 3:24 PM        scantitle "9_1 Day ubertriangle ac2 -2 long nu_post 5"
+9/1/2023 3:24 PM        tpix preset time 600
+9/1/2023 3:34 PM        drive ac_2 -1.5
+9/1/2023 3:34 PM        drive nu_post -5
+9/1/2023 3:34 PM        scantitle "9_1 Day ubertriangle ac2 -1.5 long nu_post -5"
+9/1/2023 3:34 PM        tpix preset time 600
+9/1/2023 3:45 PM        drive nu_post 5
+9/1/2023 3:45 PM        scantitle "9_1 Day ubertriangle ac2 -1.5 long nu_post 5"
+9/1/2023 3:45 PM        tpix preset time 600
+9/1/2023 3:55 PM        drive ac_2 -1
+9/1/2023 3:55 PM        drive nu_post -5
+9/1/2023 3:55 PM        scantitle "9_1 Day ubertriangle ac2 -1 long nu_post -5"
+9/1/2023 3:55 PM        tpix preset time 600
+9/1/2023 4:06 PM        drive nu_post 5
+9/1/2023 4:06 PM        scantitle "9_1 Day ubertriangle ac2 -1 long nu_post 5"
+9/1/2023 4:06 PM        tpix preset time 600
+9/1/2023 4:16 PM        drive ac_2 -0.5
+9/1/2023 4:16 PM        drive nu_post -5
+9/1/2023 4:16 PM        scantitle "9_1 Day ubertriangle ac2 -0.5 long nu_post -5"
+9/1/2023 4:16 PM        tpix preset time 600
+9/1/2023 4:26 PM        drive nu_post 5
+9/1/2023 4:27 PM        scantitle "9_1 Day ubertriangle ac2 -0.5 long nu_post 5"
+9/1/2023 4:27 PM        tpix preset time 600
+9/1/2023 4:37 PM        drive ac_2 0
+9/1/2023 4:37 PM        drive nu_post -5
+9/1/2023 4:37 PM        scantitle "9_1 Day ubertriangle ac2 0 long nu_post -5"
+9/1/2023 4:37 PM        tpix preset time 600
+9/1/2023 4:47 PM        drive nu_post 5
+9/1/2023 4:48 PM        scantitle "9_1 Day ubertriangle ac2 0 long nu_post 5"
+9/1/2023 4:48 PM        tpix preset time 600
+9/1/2023 4:58 PM        drive ac_2 0.5
+9/1/2023 4:58 PM        drive nu_post -5
+9/1/2023 4:58 PM        scantitle "9_1 Day ubertriangle ac2 0.5 long nu_post -5"
+9/1/2023 4:58 PM        tpix preset time 600
+9/1/2023 5:08 PM        drive nu_post 5
+9/1/2023 5:09 PM        scantitle "9_1 Day ubertriangle ac2 0.5 long nu_post 5"
+9/1/2023 5:09 PM        tpix preset time 600
+9/1/2023 5:19 PM        drive ac_2 1
+9/1/2023 5:19 PM        drive nu_post -5
+9/1/2023 5:19 PM        scantitle "9_1 Day ubertriangle ac2 1 long nu_post -5"
+9/1/2023 5:19 PM        tpix preset time 600
+9/1/2023 5:29 PM        drive nu_post 5
+9/1/2023 5:29 PM        scantitle "9_1 Day ubertriangle ac2 1 long nu_post 5"
+9/1/2023 5:29 PM        tpix preset time 600
+9/1/2023 5:40 PM        drive ac_2 1.5
+9/1/2023 5:40 PM        drive nu_post -5
+9/1/2023 5:40 PM        scantitle "9_1 Day ubertriangle ac2 1.5 long nu_post -5"
+9/1/2023 5:40 PM        tpix preset time 600
+9/1/2023 5:50 PM        drive nu_post 5
+9/1/2023 5:50 PM        scantitle "9_1 Day ubertriangle ac2 1.5 long nu_post 5"
+9/1/2023 5:50 PM        tpix preset time 600
+9/1/2023 6:01 PM        drive ac_2 2
+9/1/2023 6:01 PM        drive nu_post -5
+9/1/2023 6:01 PM        scantitle "9_1 Day ubertriangle ac2 2 long nu_post -5"
+9/1/2023 6:01 PM        tpix preset time 600
+9/1/2023 6:11 PM        drive nu_post 5
+9/1/2023 6:11 PM        scantitle "9_1 Day ubertriangle ac2 2 long nu_post 5"
+9/1/2023 6:11 PM        tpix preset time 600
+9/1/2023 6:21 PM        drive ac_2 2.5
+9/1/2023 6:22 PM        drive nu_post -5
+9/1/2023 6:22 PM        scantitle "9_1 Day ubertriangle ac2 2.5 long nu_post -5"
+9/1/2023 6:22 PM        tpix preset time 600
+9/1/2023 6:32 PM        drive nu_post 5
+9/1/2023 6:32 PM        scantitle "9_1 Day ubertriangle ac2 2.5 long nu_post 5"
+9/1/2023 6:32 PM        tpix preset time 600
+9/1/2023 6:53 PM        drive nu_post -5
+9/1/2023 6:55 PM        drive nu_post 5
+9/1/2023 7:08 PM        drive ac_2 1.12
+9/1/2023 7:08 PM        scantitle "9_1 Overnight ubertriangle PNAS pi on 2 new_transverse 1"
+9/1/2023 7:08 PM        drive nu_post -5
+9/1/2023 7:09 PM        tpix preset time 600
+9/1/2023 7:19 PM        drive nu_post 5
+9/1/2023 7:19 PM        tpix preset time 600
+9/1/2023 7:29 PM        scantitle "9_1 Overnight ubertriangle PNAS pi on 2 new_transverse 2"
+9/1/2023 7:29 PM        drive nu_post -5
+9/1/2023 7:29 PM        tpix preset time 600
+9/1/2023 7:40 PM        drive nu_post 5
+9/1/2023 7:40 PM        tpix preset time 600
+9/1/2023 7:50 PM        scantitle "9_1 Overnight ubertriangle PNAS pi on 2 new_transverse 3"
+9/1/2023 7:50 PM        drive nu_post -5
+9/1/2023 7:50 PM        tpix preset time 600
+9/1/2023 7:54 PM        drive ac_2 1.12
+9/1/2023 7:54 PM        scantitle "9_1 Overnight ubertriangle PNAS pi on 2 new_transverse 1"
+9/1/2023 7:54 PM        drive nu_post -5
+9/1/2023 7:54 PM        tpix preset time 600
+9/1/2023 8:04 PM        drive nu_post 5
+9/1/2023 8:05 PM        tpix preset time 600
+9/1/2023 8:15 PM        scantitle "9_1 Overnight ubertriangle PNAS pi on 2 new_transverse 2"
+9/1/2023 8:15 PM        drive nu_post -5
+9/1/2023 8:15 PM        tpix preset time 600
+9/1/2023 8:28 PM        drive ac_2 1.12
+9/1/2023 8:28 PM        scantitle "9_1 Overnight ubertriangle PNAS pi on 2 new_transverse 1"
+9/1/2023 8:28 PM        drive nu_post -5
+9/1/2023 8:28 PM        tpix preset time 600
+9/1/2023 8:38 PM        drive nu_post 5
+9/1/2023 8:39 PM        tpix preset time 600
+9/1/2023 8:54 PM        scantitle "9_1 Day long guide test"
+9/1/2023 8:54 PM        drive nu_post -5
+9/1/2023 8:54 PM        tpix preset time 120
+9/1/2023 8:56 PM        drive nu_post 5
+9/1/2023 8:57 PM        tpix preset time 120
+9/1/2023 9:01 PM        scantitle "9_1 Day long guide test"
+9/1/2023 9:01 PM        drive nu_post -4
+9/1/2023 9:01 PM        scantitle "9_1 Day long guide test"
+9/1/2023 9:01 PM        drive nu_post -4
+9/1/2023 9:01 PM        tpix preset time 120
+9/1/2023 9:03 PM        drive nu_post 4
+9/1/2023 9:03 PM        tpix preset time 120
+9/1/2023 9:09 PM        scantitle "9_1 Day long guide test"
+9/1/2023 9:09 PM        drive nu_post -3
+9/1/2023 9:09 PM        tpix preset time 120
+9/1/2023 9:11 PM        drive nu_post 3
+9/1/2023 9:11 PM        tpix preset time 120
+9/1/2023 9:19 PM        scantitle "9_1 Day long guide test"
+9/1/2023 9:19 PM        drive nu_post -3
+9/1/2023 9:20 PM        tpix preset time 120
+9/1/2023 9:22 PM        drive nu_post 3
+9/1/2023 9:22 PM        tpix preset time 120
+9/1/2023 9:28 PM        scantitle "9_1 Day long guide test"
+9/1/2023 9:28 PM        drive nu_post -5
+9/1/2023 9:29 PM        tpix preset time 120
+9/1/2023 9:31 PM        drive nu_post 5
+9/1/2023 9:31 PM        tpix preset time 120
+9/1/2023 9:34 PM        drive nu_post -5
+9/1/2023 9:37 PM        scantitle "9_1 Day long guide test"
+9/1/2023 9:37 PM        drive nu_post -5
+9/1/2023 9:37 PM        tpix preset time 120
+9/1/2023 9:39 PM        drive nu_post 5
+9/1/2023 9:40 PM        tpix preset time 120
+9/1/2023 9:47 PM        scantitle "9_1 Day long guide test"
+9/1/2023 9:47 PM        drive nu_post -5
+9/1/2023 9:48 PM        tpix preset time 120
+9/1/2023 9:50 PM        drive nu_post 5
+9/1/2023 9:50 PM        tpix preset time 120
+9/1/2023 9:53 PM        scantitle "9_1 Day long guide test"
+9/1/2023 9:53 PM        drive nu_post -5
+9/1/2023 9:53 PM        tpix preset time 120
+9/1/2023 9:56 PM        drive nu_post 5
+9/1/2023 9:56 PM        tpix preset time 120
+9/1/2023 10:06 PM        scantitle "9_1 Yolo doing both spin states by pi flipping ac_1 ac_2"
+9/1/2023 10:06 PM        tpix preset time 120
+9/1/2023 10:08 PM        drive ac_1 2.24 ac_2 2.24
+9/1/2023 10:08 PM        tpix preset time 120
+9/1/2023 10:16 PM        scantitle "9_1 Yolo doing both spin states by pi flipping only ac_2"
+9/1/2023 10:16 PM        drive ac_2 2.24 ac_1 0
+9/1/2023 10:16 PM        tpix preset time 120
+9/1/2023 10:24 PM        drive nu_pre -5
+9/1/2023 10:24 PM        tpix preset time 120
+9/1/2023 10:27 PM        drive nu_pre 5
+9/1/2023 10:27 PM        tpix preset time 120
+9/1/2023 10:32 PM        scantitle "9_1 back to checkerboard"
+9/1/2023 10:32 PM        drive ac_2 0 ac_1 0
+9/1/2023 10:33 PM        tpix preset time 120
+9/1/2023 10:34 PM        scantitle "9_1 back to checkerboard"
+9/1/2023 10:34 PM        drive nu_pre -5
+9/1/2023 10:34 PM        tpix preset time 120
+9/1/2023 10:37 PM        scantitle "9_1 back to checkerboard"
+9/1/2023 10:37 PM        drive nu_pre 5
+9/1/2023 10:37 PM        tpix preset time 120
+9/1/2023 10:48 PM        drive up_2 20.0 down_2 21.54
+9/1/2023 10:58 PM        scantitle "Timepix3 quick check"
+9/1/2023 10:58 PM        tpix preset time 10
+9/1/2023 11:00 PM        drive ac_2 1.12
+9/1/2023 11:00 PM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 1"
+9/1/2023 11:00 PM        drive nu_post -5
+9/1/2023 11:00 PM        tpix preset time 600
+9/1/2023 11:10 PM        drive nu_post 5
+9/1/2023 11:10 PM        tpix preset time 600
+9/1/2023 11:23 PM        drive down_2 22.14
+9/1/2023 11:28 PM        drive down_2 22.14
+9/1/2023 11:28 PM        scantitle "Quick SEMSANS check"
+9/1/2023 11:28 PM        tpix preset time 120
+9/1/2023 11:30 PM        drive ac_2 1.12
+9/1/2023 11:31 PM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 1"
+9/1/2023 11:31 PM        drive nu_post -5
+9/1/2023 11:31 PM        tpix preset time 600
+9/1/2023 11:41 PM        drive nu_post 5
+9/1/2023 11:41 PM        tpix preset time 600
+9/1/2023 11:51 PM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 2"
+9/1/2023 11:51 PM        drive nu_post -5
+9/1/2023 11:52 PM        tpix preset time 600
+9/2/2023 12:02 AM        drive nu_post 5
+9/2/2023 12:02 AM        tpix preset time 600
+9/2/2023 12:12 AM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 3"
+9/2/2023 12:12 AM        drive nu_post -5
+9/2/2023 12:12 AM        tpix preset time 600
+9/2/2023 12:23 AM        drive nu_post 5
+9/2/2023 12:23 AM        tpix preset time 600
+9/2/2023 12:33 AM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 4"
+9/2/2023 12:33 AM        drive nu_post -5
+9/2/2023 12:33 AM        tpix preset time 600
+9/2/2023 12:43 AM        drive nu_post 5
+9/2/2023 12:44 AM        tpix preset time 600
+9/2/2023 12:54 AM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 5"
+9/2/2023 12:54 AM        drive nu_post -5
+9/2/2023 12:54 AM        tpix preset time 600
+9/2/2023 1:04 AM        drive nu_post 5
+9/2/2023 1:04 AM        tpix preset time 600
+9/2/2023 1:15 AM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 6"
+9/2/2023 1:15 AM        drive nu_post -5
+9/2/2023 1:15 AM        tpix preset time 600
+9/2/2023 1:25 AM        drive nu_post 5
+9/2/2023 1:25 AM        tpix preset time 600
+9/2/2023 1:35 AM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 7"
+9/2/2023 1:35 AM        drive nu_post -5
+9/2/2023 1:36 AM        tpix preset time 600
+9/2/2023 1:46 AM        drive nu_post 5
+9/2/2023 1:46 AM        tpix preset time 600
+9/2/2023 1:56 AM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 8"
+9/2/2023 1:56 AM        drive nu_post -5
+9/2/2023 1:57 AM        tpix preset time 600
+9/2/2023 2:07 AM        drive nu_post 5
+9/2/2023 2:07 AM        tpix preset time 600
+9/2/2023 2:17 AM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 9"
+9/2/2023 2:17 AM        drive nu_post -5
+9/2/2023 2:17 AM        tpix preset time 600
+9/2/2023 2:28 AM        drive nu_post 5
+9/2/2023 2:28 AM        tpix preset time 600
+9/2/2023 2:38 AM        scantitle "9_1 Overnight rectangle PNAS pi on 2 transverse 10"
+9/2/2023 2:38 AM        drive nu_post -5
+9/2/2023 2:38 AM        tpix preset time 600
+9/2/2023 2:48 AM        drive nu_post 5
+9/2/2023 2:49 AM        tpix preset time 600
+9/2/2023 2:59 AM        drive ac_2 0
+9/2/2023 2:59 AM        scantitle "9_1 Overnight rectangle PNAS transverse 1"
+9/2/2023 2:59 AM        drive nu_post -5
+9/2/2023 2:59 AM        tpix preset time 600
+9/2/2023 3:09 AM        drive nu_post 5
+9/2/2023 3:09 AM        tpix preset time 600
+9/2/2023 3:20 AM        scantitle "9_1 Overnight rectangle PNAS transverse 2"
+9/2/2023 3:20 AM        drive nu_post -5
+9/2/2023 3:20 AM        tpix preset time 600
+9/2/2023 3:30 AM        drive nu_post 5
+9/2/2023 3:30 AM        tpix preset time 600
+9/2/2023 3:40 AM        scantitle "9_1 Overnight rectangle PNAS transverse 3"
+9/2/2023 3:40 AM        drive nu_post -5
+9/2/2023 3:41 AM        tpix preset time 600
+9/2/2023 3:51 AM        drive nu_post 5
+9/2/2023 3:51 AM        tpix preset time 600
+9/2/2023 4:01 AM        scantitle "9_1 Overnight rectangle PNAS transverse 4"
+9/2/2023 4:01 AM        drive nu_post -5
+9/2/2023 4:01 AM        tpix preset time 600
+9/2/2023 4:12 AM        drive nu_post 5
+9/2/2023 4:12 AM        tpix preset time 600
+9/2/2023 4:22 AM        scantitle "9_1 Overnight rectangle PNAS transverse 5"
+9/2/2023 4:22 AM        drive nu_post -5
+9/2/2023 4:22 AM        tpix preset time 600
+9/2/2023 4:32 AM        drive nu_post 5
+9/2/2023 4:33 AM        tpix preset time 600
+9/2/2023 4:43 AM        scantitle "9_1 Overnight rectangle PNAS transverse 6"
+9/2/2023 4:43 AM        drive nu_post -5
+9/2/2023 4:43 AM        tpix preset time 600
+9/2/2023 4:53 AM        drive nu_post 5
+9/2/2023 4:54 AM        tpix preset time 600
+9/2/2023 5:04 AM        scantitle "9_1 Overnight rectangle PNAS transverse 7"
+9/2/2023 5:04 AM        drive nu_post -5
+9/2/2023 5:04 AM        tpix preset time 600
+9/2/2023 5:14 AM        drive nu_post 5
+9/2/2023 5:14 AM        tpix preset time 600
+9/2/2023 5:25 AM        scantitle "9_1 Overnight rectangle PNAS transverse 8"
+9/2/2023 5:25 AM        drive nu_post -5
+9/2/2023 5:25 AM        tpix preset time 600
+9/2/2023 5:35 AM        drive nu_post 5
+9/2/2023 5:35 AM        tpix preset time 600
+9/2/2023 5:45 AM        scantitle "9_1 Overnight rectangle PNAS transverse 9"
+9/2/2023 5:45 AM        drive nu_post -5
+9/2/2023 5:46 AM        tpix preset time 600
+9/2/2023 5:56 AM        drive nu_post 5
+9/2/2023 5:56 AM        tpix preset time 600
+9/2/2023 6:06 AM        scantitle "9_1 Overnight rectangle PNAS transverse 10"
+9/2/2023 6:06 AM        drive nu_post -5
+9/2/2023 6:06 AM        tpix preset time 600
+9/2/2023 6:17 AM        drive nu_post 5
+9/2/2023 6:17 AM        tpix preset time 600
+9/2/2023 6:27 AM        drive ac_1 0 ac_2 0
+9/2/2023 6:27 AM        drive ac_1 -2.5
+9/2/2023 6:27 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 -2.5"
+9/2/2023 6:27 AM        drive nu_post %n
+9/2/2023 6:27 AM        tpix preset time 600
+9/2/2023 6:37 AM        drive ac_1 -2
+9/2/2023 6:37 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 -2"
+9/2/2023 6:37 AM        drive nu_post %n
+9/2/2023 6:37 AM        tpix preset time 600
+9/2/2023 6:48 AM        drive ac_1 -1.5
+9/2/2023 6:48 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 -1.5"
+9/2/2023 6:48 AM        drive nu_post %n
+9/2/2023 6:48 AM        tpix preset time 600
+9/2/2023 6:58 AM        drive ac_1 -1
+9/2/2023 6:58 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 -1"
+9/2/2023 6:58 AM        drive nu_post %n
+9/2/2023 6:58 AM        tpix preset time 600
+9/2/2023 7:08 AM        drive ac_1 -0.5
+9/2/2023 7:08 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 -0.5"
+9/2/2023 7:08 AM        drive nu_post %n
+9/2/2023 7:08 AM        tpix preset time 600
+9/2/2023 7:18 AM        drive ac_1 0
+9/2/2023 7:18 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 0"
+9/2/2023 7:18 AM        drive nu_post %n
+9/2/2023 7:18 AM        tpix preset time 600
+9/2/2023 7:29 AM        drive ac_1 0.5
+9/2/2023 7:29 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 0.5"
+9/2/2023 7:29 AM        drive nu_post %n
+9/2/2023 7:29 AM        tpix preset time 600
+9/2/2023 7:39 AM        drive ac_1 1
+9/2/2023 7:39 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 1"
+9/2/2023 7:39 AM        drive nu_post %n
+9/2/2023 7:39 AM        tpix preset time 600
+9/2/2023 7:49 AM        drive ac_1 1.5
+9/2/2023 7:49 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 1.5"
+9/2/2023 7:49 AM        drive nu_post %n
+9/2/2023 7:49 AM        tpix preset time 600
+9/2/2023 7:59 AM        drive ac_1 2
+9/2/2023 7:59 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 2"
+9/2/2023 7:59 AM        drive nu_post %n
+9/2/2023 7:59 AM        tpix preset time 600
+9/2/2023 8:10 AM        drive ac_1 2.5
+9/2/2023 8:10 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_1 2.5"
+9/2/2023 8:10 AM        drive nu_post %n
+9/2/2023 8:10 AM        tpix preset time 600
+9/2/2023 8:20 AM        drive ac_1 0 ac_2 0
+9/2/2023 8:20 AM        drive ac_2 -2.5
+9/2/2023 8:20 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 -2.5"
+9/2/2023 8:20 AM        drive nu_post %n
+9/2/2023 8:20 AM        tpix preset time 600
+9/2/2023 8:30 AM        drive ac_2 -2
+9/2/2023 8:31 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 -2"
+9/2/2023 8:31 AM        drive nu_post %n
+9/2/2023 8:31 AM        tpix preset time 600
+9/2/2023 8:41 AM        drive ac_2 -1.5
+9/2/2023 8:41 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 -1.5"
+9/2/2023 8:41 AM        drive nu_post %n
+9/2/2023 8:41 AM        tpix preset time 600
+9/2/2023 8:51 AM        drive ac_2 -1
+9/2/2023 8:51 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 -1"
+9/2/2023 8:51 AM        drive nu_post %n
+9/2/2023 8:51 AM        tpix preset time 600
+9/2/2023 9:01 AM        drive ac_2 -0.5
+9/2/2023 9:01 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 -0.5"
+9/2/2023 9:01 AM        drive nu_post %n
+9/2/2023 9:01 AM        tpix preset time 600
+9/2/2023 9:11 AM        drive ac_2 0
+9/2/2023 9:12 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 0"
+9/2/2023 9:12 AM        drive nu_post %n
+9/2/2023 9:12 AM        tpix preset time 600
+9/2/2023 9:22 AM        drive ac_2 0.5
+9/2/2023 9:22 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 0.5"
+9/2/2023 9:22 AM        drive nu_post %n
+9/2/2023 9:22 AM        tpix preset time 600
+9/2/2023 9:32 AM        drive ac_2 1
+9/2/2023 9:32 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 1"
+9/2/2023 9:32 AM        drive nu_post %n
+9/2/2023 9:32 AM        tpix preset time 600
+9/2/2023 9:42 AM        drive ac_2 1.5
+9/2/2023 9:42 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 1.5"
+9/2/2023 9:42 AM        drive nu_post %n
+9/2/2023 9:42 AM        tpix preset time 600
+9/2/2023 9:52 AM        drive ac_2 2
+9/2/2023 9:53 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 2"
+9/2/2023 9:53 AM        drive nu_post %n
+9/2/2023 9:53 AM        tpix preset time 600
+9/2/2023 10:03 AM        drive ac_2 2.5
+9/2/2023 10:03 AM        scantitle "9_1 Overnight rectangle transverse 1 ac_2 2.5"
+9/2/2023 10:03 AM        drive nu_post %n
+9/2/2023 10:03 AM        tpix preset time 600
+9/2/2023 10:13 AM        drive ac_1 0 ac_2 0
+9/2/2023 10:13 AM        drive ac_1 0 ac_2 0
+9/2/2023 10:13 AM        drive ac_1 -2.5
+9/2/2023 10:13 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 -2.5"
+9/2/2023 10:13 AM        drive nu_post %n
+9/2/2023 10:13 AM        tpix preset time 600
+9/2/2023 10:24 AM        drive ac_1 -2
+9/2/2023 10:24 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 -2"
+9/2/2023 10:24 AM        drive nu_post %n
+9/2/2023 10:24 AM        tpix preset time 600
+9/2/2023 10:34 AM        drive ac_1 -1.5
+9/2/2023 10:34 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 -1.5"
+9/2/2023 10:34 AM        drive nu_post %n
+9/2/2023 10:34 AM        tpix preset time 600
+9/2/2023 10:44 AM        drive ac_1 -1
+9/2/2023 10:44 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 -1"
+9/2/2023 10:44 AM        drive nu_post %n
+9/2/2023 10:44 AM        tpix preset time 600
+9/2/2023 10:54 AM        drive ac_1 -0.5
+9/2/2023 10:54 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 -0.5"
+9/2/2023 10:54 AM        drive nu_post %n
+9/2/2023 10:55 AM        tpix preset time 600
+9/2/2023 11:05 AM        drive ac_1 0
+9/2/2023 11:05 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 0"
+9/2/2023 11:05 AM        drive nu_post %n
+9/2/2023 11:05 AM        tpix preset time 600
+9/2/2023 11:15 AM        drive ac_1 0.5
+9/2/2023 11:15 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 0.5"
+9/2/2023 11:15 AM        drive nu_post %n
+9/2/2023 11:15 AM        tpix preset time 600
+9/2/2023 11:25 AM        drive ac_1 1
+9/2/2023 11:25 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 1"
+9/2/2023 11:25 AM        drive nu_post %n
+9/2/2023 11:25 AM        tpix preset time 600
+9/2/2023 11:35 AM        drive ac_1 1.5
+9/2/2023 11:36 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 1.5"
+9/2/2023 11:36 AM        drive nu_post %n
+9/2/2023 11:36 AM        tpix preset time 600
+9/2/2023 11:46 AM        drive ac_1 2
+9/2/2023 11:46 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 2"
+9/2/2023 11:46 AM        drive nu_post %n
+9/2/2023 11:46 AM        tpix preset time 600
+9/2/2023 11:56 AM        drive ac_1 2.5
+9/2/2023 11:56 AM        scantitle "9_1 Overnight rectangle transverse 2 ac_1 2.5"
+9/2/2023 11:56 AM        drive nu_post %n
+9/2/2023 11:56 AM        tpix preset time 600
+9/2/2023 12:06 PM        drive ac_1 0 ac_2 0
+9/2/2023 12:06 PM        drive ac_2 -2.5
+9/2/2023 12:07 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 -2.5"
+9/2/2023 12:07 PM        drive nu_post %n
+9/2/2023 12:07 PM        tpix preset time 600
+9/2/2023 12:17 PM        drive ac_2 -2
+9/2/2023 12:17 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 -2"
+9/2/2023 12:17 PM        drive nu_post %n
+9/2/2023 12:17 PM        tpix preset time 600
+9/2/2023 12:27 PM        drive ac_2 -1.5
+9/2/2023 12:27 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 -1.5"
+9/2/2023 12:27 PM        drive nu_post %n
+9/2/2023 12:27 PM        tpix preset time 600
+9/2/2023 12:37 PM        drive ac_2 -1
+9/2/2023 12:37 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 -1"
+9/2/2023 12:37 PM        drive nu_post %n
+9/2/2023 12:37 PM        tpix preset time 600
+9/2/2023 12:47 PM        drive ac_2 -0.5
+9/2/2023 12:48 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 -0.5"
+9/2/2023 12:48 PM        drive nu_post %n
+9/2/2023 12:48 PM        tpix preset time 600
+9/2/2023 12:58 PM        drive ac_2 0
+9/2/2023 12:58 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 0"
+9/2/2023 12:58 PM        drive nu_post %n
+9/2/2023 12:58 PM        tpix preset time 600
+9/2/2023 1:08 PM        drive ac_2 0.5
+9/2/2023 1:08 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 0.5"
+9/2/2023 1:08 PM        drive nu_post %n
+9/2/2023 1:08 PM        tpix preset time 600
+9/2/2023 1:18 PM        drive ac_2 1
+9/2/2023 1:18 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 1"
+9/2/2023 1:18 PM        drive nu_post %n
+9/2/2023 1:18 PM        tpix preset time 600
+9/2/2023 1:29 PM        drive ac_2 1.5
+9/2/2023 1:29 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 1.5"
+9/2/2023 1:29 PM        drive nu_post %n
+9/2/2023 1:29 PM        tpix preset time 600
+9/2/2023 1:39 PM        drive ac_2 2
+9/2/2023 1:39 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 2"
+9/2/2023 1:39 PM        drive nu_post %n
+9/2/2023 1:39 PM        tpix preset time 600
+9/2/2023 1:49 PM        drive ac_2 2.5
+9/2/2023 1:49 PM        scantitle "9_1 Overnight rectangle transverse 2 ac_2 2.5"
+9/2/2023 1:49 PM        drive nu_post %n
+9/2/2023 1:49 PM        tpix preset time 600
+9/2/2023 1:59 PM        drive ac_1 0 ac_2 0
+9/2/2023 2:13 PM        drive nu_pre -5
+9/2/2023 2:15 PM        drive ac_2 1.12 nu_pre -5
+9/2/2023 2:15 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 1"
+9/2/2023 2:15 PM        tpix preset time 600
+9/2/2023 2:25 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 2"
+9/2/2023 2:25 PM        tpix preset time 600
+9/2/2023 2:35 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 3"
+9/2/2023 2:35 PM        tpix preset time 600
+9/2/2023 2:45 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 4"
+9/2/2023 2:45 PM        tpix preset time 600
+9/2/2023 2:55 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 5"
+9/2/2023 2:55 PM        tpix preset time 600
+9/2/2023 3:05 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 6"
+9/2/2023 3:05 PM        tpix preset time 600
+9/2/2023 3:16 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 7"
+9/2/2023 3:16 PM        tpix preset time 600
+9/2/2023 3:26 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 8"
+9/2/2023 3:26 PM        tpix preset time 600
+9/2/2023 3:36 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 9"
+9/2/2023 3:36 PM        tpix preset time 600
+9/2/2023 3:46 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS pi on 2 transverse 10"
+9/2/2023 3:46 PM        tpix preset time 600
+9/2/2023 3:56 PM        drive ac_2 0
+9/2/2023 3:56 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 1"
+9/2/2023 3:56 PM        tpix preset time 600
+9/2/2023 4:07 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 2"
+9/2/2023 4:07 PM        tpix preset time 600
+9/2/2023 4:17 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 3"
+9/2/2023 4:17 PM        tpix preset time 600
+9/2/2023 4:27 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 4"
+9/2/2023 4:27 PM        tpix preset time 600
+9/2/2023 4:37 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 5"
+9/2/2023 4:37 PM        tpix preset time 600
+9/2/2023 4:47 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 6"
+9/2/2023 4:47 PM        tpix preset time 600
+9/2/2023 4:57 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 7"
+9/2/2023 4:57 PM        tpix preset time 600
+9/2/2023 5:08 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 8"
+9/2/2023 5:08 PM        tpix preset time 600
+9/2/2023 5:18 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 9"
+9/2/2023 5:18 PM        tpix preset time 600
+9/2/2023 5:28 PM        scantitle "9_2 Day epic fail other spin state rectangle PNAS transverse 10"
+9/2/2023 5:28 PM        tpix preset time 600
+9/2/2023 5:38 PM        drive ac_1 0 ac_2 0
+9/2/2023 5:38 PM        drive ac_1 -2.5
+9/2/2023 5:38 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 -2.5"
+9/2/2023 5:38 PM        tpix preset time 600
+9/2/2023 5:48 PM        drive ac_1 -2
+9/2/2023 5:49 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 -2"
+9/2/2023 5:49 PM        tpix preset time 600
+9/2/2023 5:59 PM        drive ac_1 -1.5
+9/2/2023 5:59 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 -1.5"
+9/2/2023 5:59 PM        tpix preset time 600
+9/2/2023 6:09 PM        drive ac_1 -1
+9/2/2023 6:09 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 -1"
+9/2/2023 6:09 PM        tpix preset time 600
+9/2/2023 6:19 PM        drive ac_1 -0.5
+9/2/2023 6:19 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 -0.5"
+9/2/2023 6:19 PM        tpix preset time 600
+9/2/2023 6:29 PM        drive ac_1 0
+9/2/2023 6:30 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 0"
+9/2/2023 6:30 PM        tpix preset time 600
+9/2/2023 6:40 PM        drive ac_1 0.5
+9/2/2023 6:40 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 0.5"
+9/2/2023 6:40 PM        tpix preset time 600
+9/2/2023 6:50 PM        drive ac_1 1
+9/2/2023 6:50 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 1"
+9/2/2023 6:50 PM        tpix preset time 600
+9/2/2023 7:00 PM        drive ac_1 1.5
+9/2/2023 7:00 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 1.5"
+9/2/2023 7:00 PM        tpix preset time 600
+9/2/2023 7:10 PM        drive ac_1 2
+9/2/2023 7:11 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 2"
+9/2/2023 7:11 PM        tpix preset time 600
+9/2/2023 7:21 PM        drive ac_1 2.5
+9/2/2023 7:21 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_1 2.5"
+9/2/2023 7:21 PM        tpix preset time 600
+9/2/2023 7:31 PM        drive ac_1 0 ac_2 0
+9/2/2023 7:31 PM        drive ac_2 -2.5
+9/2/2023 7:31 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 -2.5"
+9/2/2023 7:31 PM        tpix preset time 600
+9/2/2023 7:41 PM        drive ac_2 -2
+9/2/2023 7:42 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 -2"
+9/2/2023 7:42 PM        tpix preset time 600
+9/2/2023 7:52 PM        drive ac_2 -1.5
+9/2/2023 7:52 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 -1.5"
+9/2/2023 7:52 PM        tpix preset time 600
+9/2/2023 8:02 PM        drive ac_2 -1
+9/2/2023 8:02 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 -1"
+9/2/2023 8:02 PM        tpix preset time 600
+9/2/2023 8:12 PM        drive ac_2 -0.5
+9/2/2023 8:12 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 -0.5"
+9/2/2023 8:12 PM        tpix preset time 600
+9/2/2023 8:22 PM        drive ac_2 0
+9/2/2023 8:23 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 0"
+9/2/2023 8:23 PM        tpix preset time 600
+9/2/2023 8:33 PM        drive ac_2 0.5
+9/2/2023 8:33 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 0.5"
+9/2/2023 8:33 PM        tpix preset time 600
+9/2/2023 8:43 PM        drive ac_2 1
+9/2/2023 8:43 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 1"
+9/2/2023 8:43 PM        tpix preset time 600
+9/2/2023 8:53 PM        drive ac_2 1.5
+9/2/2023 8:53 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 1.5"
+9/2/2023 8:53 PM        tpix preset time 600
+9/2/2023 9:03 PM        drive ac_2 2
+9/2/2023 9:04 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 2"
+9/2/2023 9:04 PM        tpix preset time 600
+9/2/2023 9:14 PM        drive ac_2 2.5
+9/2/2023 9:14 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 1 ac_2 2.5"
+9/2/2023 9:14 PM        tpix preset time 600
+9/2/2023 9:24 PM        drive ac_1 0 ac_2 0
+9/2/2023 9:24 PM        drive ac_1 -2.5
+9/2/2023 9:24 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 2 ac_1 -2.5"
+9/2/2023 9:24 PM        tpix preset time 600
+9/2/2023 9:34 PM        drive ac_1 -2
+9/2/2023 9:35 PM        scantitle "9_2 Day epic fail other spin state rectangle transverse 2 ac_1 -2"
+9/2/2023 9:35 PM        tpix preset time 600
+9/2/2023 9:45 PM        drive ac_1 -1.5
+9/2/2023 9:45 PM        drive ac_1 0 ac_2 0
+9/2/2023 9:55 PM        drive nu_post -5
+9/2/2023 9:55 PM        scantitle "Quick SEMSANS check nu_post -5"
+9/2/2023 9:55 PM        tpix preset time 120
+9/2/2023 9:57 PM        drive nu_post 5
+9/2/2023 9:58 PM        scantitle "Quick SEMSANS check nu_post 5"
+9/2/2023 9:58 PM        tpix preset time 120
+9/2/2023 10:00 PM        drive ac_2 1.12
+9/2/2023 10:00 PM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 1"
+9/2/2023 10:00 PM        drive nu_post -5
+9/2/2023 10:00 PM        tpix preset time 600
+9/2/2023 10:10 PM        drive nu_post 5
+9/2/2023 10:11 PM        tpix preset time 600
+9/2/2023 10:21 PM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 2"
+9/2/2023 10:21 PM        drive nu_post -5
+9/2/2023 10:21 PM        tpix preset time 600
+9/2/2023 10:31 PM        drive nu_post 5
+9/2/2023 10:32 PM        tpix preset time 600
+9/2/2023 10:42 PM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 3"
+9/2/2023 10:42 PM        drive nu_post -5
+9/2/2023 10:42 PM        tpix preset time 600
+9/2/2023 10:52 PM        drive nu_post 5
+9/2/2023 10:52 PM        tpix preset time 600
+9/2/2023 11:02 PM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 4"
+9/2/2023 11:02 PM        drive nu_post -5
+9/2/2023 11:03 PM        tpix preset time 600
+9/2/2023 11:13 PM        drive nu_post 5
+9/2/2023 11:13 PM        tpix preset time 600
+9/2/2023 11:23 PM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 5"
+9/2/2023 11:23 PM        drive nu_post -5
+9/2/2023 11:24 PM        tpix preset time 600
+9/2/2023 11:34 PM        drive nu_post 5
+9/2/2023 11:34 PM        tpix preset time 600
+9/2/2023 11:44 PM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 6"
+9/2/2023 11:44 PM        drive nu_post -5
+9/2/2023 11:44 PM        tpix preset time 600
+9/2/2023 11:55 PM        drive nu_post 5
+9/2/2023 11:55 PM        tpix preset time 600
+9/3/2023 12:05 AM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 7"
+9/3/2023 12:05 AM        drive nu_post -5
+9/3/2023 12:05 AM        tpix preset time 600
+9/3/2023 12:15 AM        drive nu_post 5
+9/3/2023 12:16 AM        tpix preset time 600
+9/3/2023 12:26 AM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 8"
+9/3/2023 12:26 AM        drive nu_post -5
+9/3/2023 12:26 AM        tpix preset time 600
+9/3/2023 12:36 AM        drive nu_post 5
+9/3/2023 12:36 AM        tpix preset time 600
+9/3/2023 12:47 AM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 9"
+9/3/2023 12:47 AM        drive nu_post -5
+9/3/2023 12:47 AM        tpix preset time 600
+9/3/2023 12:57 AM        drive nu_post 5
+9/3/2023 12:57 AM        tpix preset time 600
+9/3/2023 1:07 AM        scantitle "9_2 Overnight rectangle PNAS pi on 2 long 10"
+9/3/2023 1:07 AM        drive nu_post -5
+9/3/2023 1:08 AM        tpix preset time 600
+9/3/2023 1:18 AM        drive nu_post 5
+9/3/2023 1:18 AM        tpix preset time 600
+9/3/2023 1:28 AM        drive ac_2 0
+9/3/2023 1:28 AM        scantitle "9_2 Overnight rectangle PNAS long 1"
+9/3/2023 1:28 AM        drive nu_post -5
+9/3/2023 1:29 AM        tpix preset time 600
+9/3/2023 1:39 AM        drive nu_post 5
+9/3/2023 1:39 AM        tpix preset time 600
+9/3/2023 1:49 AM        scantitle "9_2 Overnight rectangle PNAS long 2"
+9/3/2023 1:49 AM        drive nu_post -5
+9/3/2023 1:49 AM        tpix preset time 600
+9/3/2023 2:00 AM        drive nu_post 5
+9/3/2023 2:00 AM        tpix preset time 600
+9/3/2023 2:10 AM        scantitle "9_2 Overnight rectangle PNAS long 3"
+9/3/2023 2:10 AM        drive nu_post -5
+9/3/2023 2:10 AM        tpix preset time 600
+9/3/2023 2:20 AM        drive nu_post 5
+9/3/2023 2:21 AM        tpix preset time 600
+9/3/2023 2:31 AM        scantitle "9_2 Overnight rectangle PNAS long 4"
+9/3/2023 2:31 AM        drive nu_post -5
+9/3/2023 2:31 AM        tpix preset time 600
+9/3/2023 2:41 AM        drive nu_post 5
+9/3/2023 2:41 AM        tpix preset time 600
+9/3/2023 2:52 AM        scantitle "9_2 Overnight rectangle PNAS long 5"
+9/3/2023 2:52 AM        drive nu_post -5
+9/3/2023 2:52 AM        tpix preset time 600
+9/3/2023 3:02 AM        drive nu_post 5
+9/3/2023 3:02 AM        tpix preset time 600
+9/3/2023 3:12 AM        scantitle "9_2 Overnight rectangle PNAS long 6"
+9/3/2023 3:12 AM        drive nu_post -5
+9/3/2023 3:13 AM        tpix preset time 600
+9/3/2023 3:23 AM        drive nu_post 5
+9/3/2023 3:23 AM        tpix preset time 600
+9/3/2023 3:33 AM        scantitle "9_2 Overnight rectangle PNAS long 7"
+9/3/2023 3:33 AM        drive nu_post -5
+9/3/2023 3:34 AM        tpix preset time 600
+9/3/2023 3:44 AM        drive nu_post 5
+9/3/2023 3:44 AM        tpix preset time 600
+9/3/2023 3:54 AM        scantitle "9_2 Overnight rectangle PNAS long 8"
+9/3/2023 3:54 AM        drive nu_post -5
+9/3/2023 3:54 AM        tpix preset time 600
+9/3/2023 4:05 AM        drive nu_post 5
+9/3/2023 4:05 AM        tpix preset time 600
+9/3/2023 4:15 AM        scantitle "9_2 Overnight rectangle PNAS long 9"
+9/3/2023 4:15 AM        drive nu_post -5
+9/3/2023 4:15 AM        tpix preset time 600
+9/3/2023 4:25 AM        drive nu_post 5
+9/3/2023 4:26 AM        tpix preset time 600
+9/3/2023 4:36 AM        scantitle "9_2 Overnight rectangle PNAS long 10"
+9/3/2023 4:36 AM        drive nu_post -5
+9/3/2023 4:36 AM        tpix preset time 600
+9/3/2023 4:46 AM        drive nu_post 5
+9/3/2023 4:46 AM        tpix preset time 600
+9/3/2023 4:57 AM        drive ac_1 0 ac_2 0
+9/3/2023 4:57 AM        drive ac_1 -2.5
+9/3/2023 4:57 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 -2.5"
+9/3/2023 4:57 AM        drive nu_post -5
+9/3/2023 4:57 AM        tpix preset time 600
+9/3/2023 5:07 AM        drive nu_post 5
+9/3/2023 5:07 AM        tpix preset time 600
+9/3/2023 5:18 AM        drive ac_1 -2
+9/3/2023 5:18 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 -2"
+9/3/2023 5:18 AM        drive nu_post -5
+9/3/2023 5:18 AM        tpix preset time 600
+9/3/2023 5:28 AM        drive nu_post 5
+9/3/2023 5:28 AM        tpix preset time 600
+9/3/2023 5:39 AM        drive ac_1 -1.5
+9/3/2023 5:39 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 -1.5"
+9/3/2023 5:39 AM        drive nu_post -5
+9/3/2023 5:39 AM        tpix preset time 600
+9/3/2023 5:49 AM        drive nu_post 5
+9/3/2023 5:49 AM        tpix preset time 600
+9/3/2023 5:59 AM        drive ac_1 -1
+9/3/2023 6:00 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 -1"
+9/3/2023 6:00 AM        drive nu_post -5
+9/3/2023 6:00 AM        tpix preset time 600
+9/3/2023 6:10 AM        drive nu_post 5
+9/3/2023 6:10 AM        tpix preset time 600
+9/3/2023 6:20 AM        drive ac_1 -0.5
+9/3/2023 6:20 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 -0.5"
+9/3/2023 6:20 AM        drive nu_post -5
+9/3/2023 6:21 AM        tpix preset time 600
+9/3/2023 6:31 AM        drive nu_post 5
+9/3/2023 6:31 AM        tpix preset time 600
+9/3/2023 6:41 AM        drive ac_1 0
+9/3/2023 6:41 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 0"
+9/3/2023 6:41 AM        drive nu_post -5
+9/3/2023 6:42 AM        tpix preset time 600
+9/3/2023 6:52 AM        drive nu_post 5
+9/3/2023 6:52 AM        tpix preset time 600
+9/3/2023 7:02 AM        drive ac_1 0.5
+9/3/2023 7:02 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 0.5"
+9/3/2023 7:02 AM        drive nu_post -5
+9/3/2023 7:03 AM        tpix preset time 600
+9/3/2023 7:13 AM        drive nu_post 5
+9/3/2023 7:13 AM        tpix preset time 600
+9/3/2023 7:23 AM        drive ac_1 1
+9/3/2023 7:23 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 1"
+9/3/2023 7:23 AM        drive nu_post -5
+9/3/2023 7:23 AM        tpix preset time 600
+9/3/2023 7:34 AM        drive nu_post 5
+9/3/2023 7:34 AM        tpix preset time 600
+9/3/2023 7:44 AM        drive ac_1 1.5
+9/3/2023 7:44 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 1.5"
+9/3/2023 7:44 AM        drive nu_post -5
+9/3/2023 7:44 AM        tpix preset time 600
+9/3/2023 7:55 AM        drive nu_post 5
+9/3/2023 7:55 AM        tpix preset time 600
+9/3/2023 8:05 AM        drive ac_1 2
+9/3/2023 8:05 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 2"
+9/3/2023 8:05 AM        drive nu_post -5
+9/3/2023 8:05 AM        tpix preset time 600
+9/3/2023 8:15 AM        drive nu_post 5
+9/3/2023 8:16 AM        tpix preset time 600
+9/3/2023 8:26 AM        drive ac_1 2.5
+9/3/2023 8:26 AM        scantitle "9_2 Overnight rectangle long 1 ac_1 2.5"
+9/3/2023 8:26 AM        drive nu_post -5
+9/3/2023 8:26 AM        tpix preset time 600
+9/3/2023 8:36 AM        drive nu_post 5
+9/3/2023 8:37 AM        tpix preset time 600
+9/3/2023 8:47 AM        drive ac_1 0 ac_2 0
+9/3/2023 8:47 AM        drive ac_2 -2.5
+9/3/2023 8:47 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 -2.5"
+9/3/2023 8:47 AM        drive nu_post -5
+9/3/2023 8:47 AM        tpix preset time 600
+9/3/2023 8:58 AM        drive nu_post 5
+9/3/2023 8:58 AM        tpix preset time 600
+9/3/2023 9:08 AM        drive ac_2 -2
+9/3/2023 9:08 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 -2"
+9/3/2023 9:08 AM        drive nu_post -5
+9/3/2023 9:08 AM        tpix preset time 600
+9/3/2023 9:18 AM        drive nu_post 5
+9/3/2023 9:19 AM        tpix preset time 600
+9/3/2023 9:29 AM        drive ac_2 -1.5
+9/3/2023 9:29 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 -1.5"
+9/3/2023 9:29 AM        drive nu_post -5
+9/3/2023 9:29 AM        tpix preset time 600
+9/3/2023 9:39 AM        drive nu_post 5
+9/3/2023 9:40 AM        tpix preset time 600
+9/3/2023 9:50 AM        drive ac_2 -1
+9/3/2023 9:50 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 -1"
+9/3/2023 9:50 AM        drive nu_post -5
+9/3/2023 9:50 AM        tpix preset time 600
+9/3/2023 10:00 AM        drive nu_post 5
+9/3/2023 10:01 AM        tpix preset time 600
+9/3/2023 10:11 AM        drive ac_2 -0.5
+9/3/2023 10:11 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 -0.5"
+9/3/2023 10:11 AM        drive nu_post -5
+9/3/2023 10:11 AM        tpix preset time 600
+9/3/2023 10:21 AM        drive nu_post 5
+9/3/2023 10:21 AM        tpix preset time 600
+9/3/2023 10:32 AM        drive ac_2 0
+9/3/2023 10:32 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 0"
+9/3/2023 10:32 AM        drive nu_post -5
+9/3/2023 10:32 AM        tpix preset time 600
+9/3/2023 10:42 AM        drive nu_post 5
+9/3/2023 10:42 AM        tpix preset time 600
+9/3/2023 10:53 AM        drive ac_2 0.5
+9/3/2023 10:53 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 0.5"
+9/3/2023 10:53 AM        drive nu_post -5
+9/3/2023 10:53 AM        tpix preset time 600
+9/3/2023 11:03 AM        drive nu_post 5
+9/3/2023 11:03 AM        tpix preset time 600
+9/3/2023 11:13 AM        drive ac_2 1
+9/3/2023 11:14 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 1"
+9/3/2023 11:14 AM        drive nu_post -5
+9/3/2023 11:14 AM        tpix preset time 600
+9/3/2023 11:24 AM        drive nu_post 5
+9/3/2023 11:24 AM        tpix preset time 600
+9/3/2023 11:34 AM        drive ac_2 1.5
+9/3/2023 11:34 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 1.5"
+9/3/2023 11:34 AM        drive nu_post -5
+9/3/2023 11:35 AM        tpix preset time 600
+9/3/2023 11:45 AM        drive nu_post 5
+9/3/2023 11:45 AM        tpix preset time 600
+9/3/2023 11:55 AM        drive ac_2 2
+9/3/2023 11:55 AM        scantitle "9_2 Overnight rectangle long 1 ac_2 2"
+9/3/2023 11:55 AM        drive nu_post -5
+9/3/2023 11:56 AM        tpix preset time 600
+9/3/2023 12:06 PM        drive nu_post 5
+9/3/2023 12:06 PM        tpix preset time 600
+9/3/2023 12:16 PM        drive ac_2 2.5
+9/3/2023 12:16 PM        scantitle "9_2 Overnight rectangle long 1 ac_2 2.5"
+9/3/2023 12:16 PM        drive nu_post -5
+9/3/2023 12:17 PM        tpix preset time 600
+9/3/2023 12:27 PM        drive nu_post 5
+9/3/2023 12:27 PM        tpix preset time 600
+9/3/2023 12:37 PM        drive ac_1 0 ac_2 0
+9/3/2023 12:37 PM        drive ac_1 0 ac_2 0
+9/3/2023 12:37 PM        drive ac_1 -2.5
+9/3/2023 12:38 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 -2.5"
+9/3/2023 12:38 PM        drive nu_post -5
+9/3/2023 12:38 PM        tpix preset time 600
+9/3/2023 12:48 PM        drive nu_post 5
+9/3/2023 12:48 PM        tpix preset time 600
+9/3/2023 12:58 PM        drive ac_1 -2
+9/3/2023 12:58 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 -2"
+9/3/2023 12:58 PM        drive nu_post -5
+9/3/2023 12:59 PM        tpix preset time 600
+9/3/2023 1:09 PM        drive nu_post 5
+9/3/2023 1:09 PM        tpix preset time 600
+9/3/2023 1:19 PM        drive ac_1 -1.5
+9/3/2023 1:19 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 -1.5"
+9/3/2023 1:19 PM        drive nu_post -5
+9/3/2023 1:20 PM        tpix preset time 600
+9/3/2023 1:30 PM        drive nu_post 5
+9/3/2023 1:30 PM        tpix preset time 600
+9/3/2023 1:40 PM        drive ac_1 -1
+9/3/2023 1:40 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 -1"
+9/3/2023 1:40 PM        drive nu_post -5
+9/3/2023 1:41 PM        tpix preset time 600
+9/3/2023 1:51 PM        drive nu_post 5
+9/3/2023 1:51 PM        tpix preset time 600
+9/3/2023 2:01 PM        drive ac_1 -0.5
+9/3/2023 2:01 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 -0.5"
+9/3/2023 2:01 PM        drive nu_post -5
+9/3/2023 2:01 PM        tpix preset time 600
+9/3/2023 2:12 PM        drive nu_post 5
+9/3/2023 2:12 PM        tpix preset time 600
+9/3/2023 2:22 PM        drive ac_1 0
+9/3/2023 2:22 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 0"
+9/3/2023 2:22 PM        drive nu_post -5
+9/3/2023 2:22 PM        tpix preset time 600
+9/3/2023 2:33 PM        drive nu_post 5
+9/3/2023 2:33 PM        tpix preset time 600
+9/3/2023 2:43 PM        drive ac_1 0.5
+9/3/2023 2:43 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 0.5"
+9/3/2023 2:43 PM        drive nu_post -5
+9/3/2023 2:43 PM        tpix preset time 600
+9/3/2023 2:53 PM        drive nu_post 5
+9/3/2023 2:54 PM        tpix preset time 600
+9/3/2023 3:04 PM        drive ac_1 1
+9/3/2023 3:04 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 1"
+9/3/2023 3:04 PM        drive nu_post -5
+9/3/2023 3:04 PM        tpix preset time 600
+9/3/2023 3:14 PM        drive nu_post 5
+9/3/2023 3:15 PM        tpix preset time 600
+9/3/2023 3:25 PM        drive ac_1 1.5
+9/3/2023 3:25 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 1.5"
+9/3/2023 3:25 PM        drive nu_post -5
+9/3/2023 3:25 PM        tpix preset time 600
+9/3/2023 3:35 PM        drive nu_post 5
+9/3/2023 3:36 PM        tpix preset time 600
+9/3/2023 3:46 PM        drive ac_1 2
+9/3/2023 3:46 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 2"
+9/3/2023 3:46 PM        drive nu_post -5
+9/3/2023 3:46 PM        tpix preset time 600
+9/3/2023 3:56 PM        drive nu_post 5
+9/3/2023 3:56 PM        tpix preset time 600
+9/3/2023 4:07 PM        drive ac_1 2.5
+9/3/2023 4:07 PM        scantitle "9_2 Overnight rectangle long 2 ac_1 2.5"
+9/3/2023 4:07 PM        drive nu_post -5
+9/3/2023 4:07 PM        tpix preset time 600
+9/3/2023 4:17 PM        drive nu_post 5
+9/3/2023 4:17 PM        tpix preset time 600
+9/3/2023 4:28 PM        drive ac_1 0 ac_2 0
+9/3/2023 4:28 PM        drive ac_2 -2.5
+9/3/2023 4:28 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 -2.5"
+9/3/2023 4:28 PM        drive nu_post -5
+9/3/2023 4:28 PM        tpix preset time 600
+9/3/2023 4:38 PM        drive nu_post 5
+9/3/2023 4:39 PM        tpix preset time 600
+9/3/2023 4:49 PM        drive ac_2 -2
+9/3/2023 4:49 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 -2"
+9/3/2023 4:49 PM        drive nu_post -5
+9/3/2023 4:49 PM        tpix preset time 600
+9/3/2023 4:59 PM        drive nu_post 5
+9/3/2023 4:59 PM        tpix preset time 600
+9/3/2023 5:10 PM        drive ac_2 -1.5
+9/3/2023 5:10 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 -1.5"
+9/3/2023 5:10 PM        drive nu_post -5
+9/3/2023 5:10 PM        tpix preset time 600
+9/3/2023 5:20 PM        drive nu_post 5
+9/3/2023 5:20 PM        tpix preset time 600
+9/3/2023 5:31 PM        drive ac_2 -1
+9/3/2023 5:31 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 -1"
+9/3/2023 5:31 PM        drive nu_post -5
+9/3/2023 5:31 PM        tpix preset time 600
+9/3/2023 5:41 PM        drive nu_post 5
+9/3/2023 5:41 PM        tpix preset time 600
+9/3/2023 5:51 PM        drive ac_2 -0.5
+9/3/2023 5:52 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 -0.5"
+9/3/2023 5:52 PM        drive nu_post -5
+9/3/2023 5:52 PM        tpix preset time 600
+9/3/2023 6:02 PM        drive nu_post 5
+9/3/2023 6:02 PM        tpix preset time 600
+9/3/2023 6:12 PM        drive ac_2 0
+9/3/2023 6:13 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 0"
+9/3/2023 6:13 PM        drive nu_post -5
+9/3/2023 6:13 PM        tpix preset time 600
+9/3/2023 6:23 PM        drive nu_post 5
+9/3/2023 6:23 PM        tpix preset time 600
+9/3/2023 6:33 PM        drive ac_2 0.5
+9/3/2023 6:33 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 0.5"
+9/3/2023 6:33 PM        drive nu_post -5
+9/3/2023 6:34 PM        tpix preset time 600
+9/3/2023 6:44 PM        drive nu_post 5
+9/3/2023 6:44 PM        tpix preset time 600
+9/3/2023 6:54 PM        drive ac_2 1
+9/3/2023 6:54 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 1"
+9/3/2023 6:54 PM        drive nu_post -5
+9/3/2023 6:55 PM        tpix preset time 600
+9/3/2023 7:05 PM        drive nu_post 5
+9/3/2023 7:05 PM        tpix preset time 600
+9/3/2023 7:15 PM        drive ac_2 1.5
+9/3/2023 7:15 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 1.5"
+9/3/2023 7:15 PM        drive nu_post -5
+9/3/2023 7:15 PM        tpix preset time 600
+9/3/2023 7:26 PM        drive nu_post 5
+9/3/2023 7:26 PM        tpix preset time 600
+9/3/2023 7:36 PM        drive ac_2 2
+9/3/2023 7:36 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 2"
+9/3/2023 7:36 PM        drive nu_post -5
+9/3/2023 7:36 PM        tpix preset time 600
+9/3/2023 7:47 PM        drive nu_post 5
+9/3/2023 7:47 PM        tpix preset time 600
+9/3/2023 7:57 PM        drive ac_2 2.5
+9/3/2023 7:57 PM        scantitle "9_2 Overnight rectangle long 2 ac_2 2.5"
+9/3/2023 7:57 PM        drive nu_post -5
+9/3/2023 7:57 PM        tpix preset time 600
+9/3/2023 8:07 PM        drive nu_post 5
+9/3/2023 8:08 PM        tpix preset time 600
+9/3/2023 8:18 PM        drive ac_1 0 ac_2 0
+9/3/2023 8:26 PM        drive nu_post -5
+9/3/2023 8:26 PM        scantitle "Quick triangle SEMSANS check nu_post -5"
+9/3/2023 8:26 PM        tpix preset time 120
+9/3/2023 8:28 PM        drive nu_post 5
+9/3/2023 8:28 PM        scantitle "Quick triangle SEMSANS check nu_post 5"
+9/3/2023 8:28 PM        tpix preset time 120
+9/3/2023 8:30 PM        drive ac_2 1.12
+9/3/2023 8:31 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 1"
+9/3/2023 8:31 PM        drive nu_post -5
+9/3/2023 8:31 PM        tpix preset time 600
+9/3/2023 8:41 PM        drive nu_post 5
+9/3/2023 8:41 PM        tpix preset time 600
+9/3/2023 8:51 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 2"
+9/3/2023 8:51 PM        drive nu_post -5
+9/3/2023 8:52 PM        tpix preset time 600
+9/3/2023 9:02 PM        drive nu_post 5
+9/3/2023 9:02 PM        tpix preset time 600
+9/3/2023 9:12 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 3"
+9/3/2023 9:12 PM        drive nu_post -5
+9/3/2023 9:12 PM        tpix preset time 600
+9/3/2023 9:23 PM        drive nu_post 5
+9/3/2023 9:23 PM        tpix preset time 600
+9/3/2023 9:33 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 4"
+9/3/2023 9:33 PM        drive nu_post -5
+9/3/2023 9:33 PM        tpix preset time 600
+9/3/2023 9:43 PM        drive nu_post 5
+9/3/2023 9:44 PM        tpix preset time 600
+9/3/2023 9:54 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 5"
+9/3/2023 9:54 PM        drive nu_post -5
+9/3/2023 9:54 PM        tpix preset time 600
+9/3/2023 10:04 PM        drive nu_post 5
+9/3/2023 10:05 PM        tpix preset time 600
+9/3/2023 10:15 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 6"
+9/3/2023 10:15 PM        drive nu_post -5
+9/3/2023 10:15 PM        tpix preset time 600
+9/3/2023 10:25 PM        drive nu_post 5
+9/3/2023 10:25 PM        tpix preset time 600
+9/3/2023 10:36 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 7"
+9/3/2023 10:36 PM        drive nu_post -5
+9/3/2023 10:36 PM        tpix preset time 600
+9/3/2023 10:46 PM        drive nu_post 5
+9/3/2023 10:46 PM        tpix preset time 600
+9/3/2023 10:56 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 8"
+9/3/2023 10:56 PM        drive nu_post -5
+9/3/2023 10:57 PM        tpix preset time 600
+9/3/2023 11:07 PM        drive nu_post 5
+9/3/2023 11:07 PM        tpix preset time 600
+9/3/2023 11:17 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 9"
+9/3/2023 11:17 PM        drive nu_post -5
+9/3/2023 11:17 PM        tpix preset time 600
+9/3/2023 11:28 PM        drive nu_post 5
+9/3/2023 11:28 PM        tpix preset time 600
+9/3/2023 11:38 PM        scantitle "9_3 Overnight triangle PNAS pi on 2 long 10"
+9/3/2023 11:38 PM        drive nu_post -5
+9/3/2023 11:38 PM        tpix preset time 600
+9/3/2023 11:48 PM        drive nu_post 5
+9/3/2023 11:49 PM        tpix preset time 600
+9/3/2023 11:59 PM        drive ac_2 0
+9/3/2023 11:59 PM        scantitle "9_2 Overnight triangle PNAS long 1"
+9/3/2023 11:59 PM        drive nu_post -5
+9/3/2023 11:59 PM        tpix preset time 600
+9/4/2023 12:09 AM        drive nu_post 5
+9/4/2023 12:10 AM        tpix preset time 600
+9/4/2023 12:20 AM        scantitle "9_2 Overnight triangle PNAS long 2"
+9/4/2023 12:20 AM        drive nu_post -5
+9/4/2023 12:20 AM        tpix preset time 600
+9/4/2023 12:30 AM        drive nu_post 5
+9/4/2023 12:30 AM        tpix preset time 600
+9/4/2023 12:41 AM        scantitle "9_2 Overnight triangle PNAS long 3"
+9/4/2023 12:41 AM        drive nu_post -5
+9/4/2023 12:41 AM        tpix preset time 600
+9/4/2023 12:51 AM        drive nu_post 5
+9/4/2023 12:51 AM        tpix preset time 600
+9/4/2023 1:01 AM        scantitle "9_2 Overnight triangle PNAS long 4"
+9/4/2023 1:01 AM        drive nu_post -5
+9/4/2023 1:02 AM        tpix preset time 600
+9/4/2023 1:12 AM        drive nu_post 5
+9/4/2023 1:12 AM        tpix preset time 600
+9/4/2023 1:22 AM        scantitle "9_2 Overnight triangle PNAS long 5"
+9/4/2023 1:22 AM        drive nu_post -5
+9/4/2023 1:23 AM        tpix preset time 600
+9/4/2023 1:33 AM        drive nu_post 5
+9/4/2023 1:33 AM        tpix preset time 600
+9/4/2023 1:43 AM        scantitle "9_2 Overnight triangle PNAS long 6"
+9/4/2023 1:43 AM        drive nu_post -5
+9/4/2023 1:43 AM        tpix preset time 600
+9/4/2023 1:54 AM        drive nu_post 5
+9/4/2023 1:54 AM        tpix preset time 600
+9/4/2023 2:04 AM        scantitle "9_2 Overnight triangle PNAS long 7"
+9/4/2023 2:04 AM        drive nu_post -5
+9/4/2023 2:04 AM        tpix preset time 600
+9/4/2023 2:14 AM        drive nu_post 5
+9/4/2023 2:15 AM        tpix preset time 600
+9/4/2023 2:25 AM        scantitle "9_2 Overnight triangle PNAS long 8"
+9/4/2023 2:25 AM        drive nu_post -5
+9/4/2023 2:25 AM        tpix preset time 600
+9/4/2023 2:35 AM        drive nu_post 5
+9/4/2023 2:35 AM        tpix preset time 600
+9/4/2023 2:46 AM        scantitle "9_2 Overnight triangle PNAS long 9"
+9/4/2023 2:46 AM        drive nu_post -5
+9/4/2023 2:46 AM        tpix preset time 600
+9/4/2023 2:56 AM        drive nu_post 5
+9/4/2023 2:56 AM        tpix preset time 600
+9/4/2023 3:06 AM        scantitle "9_2 Overnight triangle PNAS long 10"
+9/4/2023 3:06 AM        drive nu_post -5
+9/4/2023 3:07 AM        tpix preset time 600
+9/4/2023 3:17 AM        drive nu_post 5
+9/4/2023 3:17 AM        tpix preset time 600
+9/4/2023 3:27 AM        drive ac_1 0 ac_2 0
+9/4/2023 3:27 AM        drive ac_1 -2.5
+9/4/2023 3:27 AM        scantitle "9_2 Overnight triangle long 1 ac_1 -2.5"
+9/4/2023 3:27 AM        drive nu_post -5
+9/4/2023 3:28 AM        tpix preset time 600
+9/4/2023 3:38 AM        drive nu_post 5
+9/4/2023 3:38 AM        tpix preset time 600
+9/4/2023 3:48 AM        drive ac_1 -2
+9/4/2023 3:48 AM        scantitle "9_2 Overnight triangle long 1 ac_1 -2"
+9/4/2023 3:48 AM        drive nu_post -5
+9/4/2023 3:49 AM        tpix preset time 600
+9/4/2023 3:59 AM        drive nu_post 5
+9/4/2023 3:59 AM        tpix preset time 600
+9/4/2023 4:09 AM        drive ac_1 -1.5
+9/4/2023 4:09 AM        scantitle "9_2 Overnight triangle long 1 ac_1 -1.5"
+9/4/2023 4:09 AM        drive nu_post -5
+9/4/2023 4:09 AM        tpix preset time 600
+9/4/2023 4:20 AM        drive nu_post 5
+9/4/2023 4:20 AM        tpix preset time 600
+9/4/2023 4:30 AM        drive ac_1 -1
+9/4/2023 4:30 AM        scantitle "9_2 Overnight triangle long 1 ac_1 -1"
+9/4/2023 4:30 AM        drive nu_post -5
+9/4/2023 4:30 AM        tpix preset time 600
+9/4/2023 4:41 AM        drive nu_post 5
+9/4/2023 4:41 AM        tpix preset time 600
+9/4/2023 4:51 AM        drive ac_1 -0.5
+9/4/2023 4:51 AM        scantitle "9_2 Overnight triangle long 1 ac_1 -0.5"
+9/4/2023 4:51 AM        drive nu_post -5
+9/4/2023 4:51 AM        tpix preset time 600
+9/4/2023 5:01 AM        drive nu_post 5
+9/4/2023 5:02 AM        tpix preset time 600
+9/4/2023 5:12 AM        drive ac_1 0
+9/4/2023 5:12 AM        scantitle "9_2 Overnight triangle long 1 ac_1 0"
+9/4/2023 5:12 AM        drive nu_post -5
+9/4/2023 5:12 AM        tpix preset time 600
+9/4/2023 5:22 AM        drive nu_post 5
+9/4/2023 5:23 AM        tpix preset time 600
+9/4/2023 5:33 AM        drive ac_1 0.5
+9/4/2023 5:33 AM        scantitle "9_2 Overnight triangle long 1 ac_1 0.5"
+9/4/2023 5:33 AM        drive nu_post -5
+9/4/2023 5:33 AM        tpix preset time 600
+9/4/2023 5:43 AM        drive nu_post 5
+9/4/2023 5:44 AM        tpix preset time 600
+9/4/2023 5:54 AM        drive ac_1 1
+9/4/2023 5:54 AM        scantitle "9_2 Overnight triangle long 1 ac_1 1"
+9/4/2023 5:54 AM        drive nu_post -5
+9/4/2023 5:54 AM        tpix preset time 600
+9/4/2023 6:04 AM        drive nu_post 5
+9/4/2023 6:04 AM        tpix preset time 600
+9/4/2023 6:15 AM        drive ac_1 1.5
+9/4/2023 6:15 AM        scantitle "9_2 Overnight triangle long 1 ac_1 1.5"
+9/4/2023 6:15 AM        drive nu_post -5
+9/4/2023 6:15 AM        tpix preset time 600
+9/4/2023 6:25 AM        drive nu_post 5
+9/4/2023 6:25 AM        tpix preset time 600
+9/4/2023 6:36 AM        drive ac_1 2
+9/4/2023 6:36 AM        scantitle "9_2 Overnight triangle long 1 ac_1 2"
+9/4/2023 6:36 AM        drive nu_post -5
+9/4/2023 6:36 AM        tpix preset time 600
+9/4/2023 6:46 AM        drive nu_post 5
+9/4/2023 6:46 AM        tpix preset time 600
+9/4/2023 6:56 AM        drive ac_1 2.5
+9/4/2023 6:57 AM        scantitle "9_2 Overnight triangle long 1 ac_1 2.5"
+9/4/2023 6:57 AM        drive nu_post -5
+9/4/2023 6:57 AM        tpix preset time 600
+9/4/2023 7:07 AM        drive nu_post 5
+9/4/2023 7:07 AM        tpix preset time 600
+9/4/2023 7:17 AM        drive ac_1 0 ac_2 0
+9/4/2023 7:18 AM        drive ac_2 -2.5
+9/4/2023 7:18 AM        scantitle "9_2 Overnight triangle long 1 ac_2 -2.5"
+9/4/2023 7:18 AM        drive nu_post -5
+9/4/2023 7:18 AM        tpix preset time 600
+9/4/2023 7:28 AM        drive nu_post 5
+9/4/2023 7:28 AM        tpix preset time 600
+9/4/2023 7:39 AM        drive ac_2 -2
+9/4/2023 7:39 AM        scantitle "9_2 Overnight triangle long 1 ac_2 -2"
+9/4/2023 7:39 AM        drive nu_post -5
+9/4/2023 7:39 AM        tpix preset time 600
+9/4/2023 7:49 AM        drive nu_post 5
+9/4/2023 7:49 AM        tpix preset time 600
+9/4/2023 7:59 AM        drive ac_2 -1.5
+9/4/2023 8:00 AM        scantitle "9_2 Overnight triangle long 1 ac_2 -1.5"
+9/4/2023 8:00 AM        drive nu_post -5
+9/4/2023 8:00 AM        tpix preset time 600
+9/4/2023 8:10 AM        drive nu_post 5
+9/4/2023 8:10 AM        tpix preset time 600
+9/4/2023 8:20 AM        drive ac_2 -1
+9/4/2023 8:20 AM        scantitle "9_2 Overnight triangle long 1 ac_2 -1"
+9/4/2023 8:20 AM        drive nu_post -5
+9/4/2023 8:21 AM        tpix preset time 600
+9/4/2023 8:31 AM        drive nu_post 5
+9/4/2023 8:31 AM        tpix preset time 600
+9/4/2023 8:41 AM        drive ac_2 -0.5
+9/4/2023 8:41 AM        scantitle "9_2 Overnight triangle long 1 ac_2 -0.5"
+9/4/2023 8:41 AM        drive nu_post -5
+9/4/2023 8:42 AM        tpix preset time 600
+9/4/2023 8:52 AM        drive nu_post 5
+9/4/2023 8:52 AM        tpix preset time 600
+9/4/2023 9:02 AM        drive ac_2 0
+9/4/2023 9:02 AM        scantitle "9_2 Overnight triangle long 1 ac_2 0"
+9/4/2023 9:02 AM        drive nu_post -5
+9/4/2023 9:03 AM        tpix preset time 600
+9/4/2023 9:13 AM        drive nu_post 5
+9/4/2023 9:13 AM        tpix preset time 600
+9/4/2023 9:23 AM        drive ac_2 0.5
+9/4/2023 9:23 AM        scantitle "9_2 Overnight triangle long 1 ac_2 0.5"
+9/4/2023 9:23 AM        drive nu_post -5
+9/4/2023 9:23 AM        tpix preset time 600
+9/4/2023 9:34 AM        drive nu_post 5
+9/4/2023 9:34 AM        tpix preset time 600
+9/4/2023 9:44 AM        drive ac_2 1
+9/4/2023 9:44 AM        scantitle "9_2 Overnight triangle long 1 ac_2 1"
+9/4/2023 9:44 AM        drive nu_post -5
+9/4/2023 9:44 AM        tpix preset time 600
+9/4/2023 9:55 AM        drive nu_post 5
+9/4/2023 9:55 AM        tpix preset time 600
+9/4/2023 10:05 AM        drive ac_2 1.5
+9/4/2023 10:05 AM        scantitle "9_2 Overnight triangle long 1 ac_2 1.5"
+9/4/2023 10:05 AM        drive nu_post -5
+9/4/2023 10:05 AM        tpix preset time 600
+9/4/2023 10:15 AM        drive nu_post 5
+9/4/2023 10:16 AM        tpix preset time 600
+9/4/2023 10:26 AM        drive ac_2 2
+9/4/2023 10:26 AM        scantitle "9_2 Overnight triangle long 1 ac_2 2"
+9/4/2023 10:26 AM        drive nu_post -5
+9/4/2023 10:26 AM        tpix preset time 600
+9/4/2023 10:36 AM        drive nu_post 5
+9/4/2023 10:37 AM        tpix preset time 600
+9/4/2023 10:47 AM        drive ac_2 2.5
+9/4/2023 10:47 AM        scantitle "9_2 Overnight triangle long 1 ac_2 2.5"
+9/4/2023 10:47 AM        drive nu_post -5
+9/4/2023 10:47 AM        tpix preset time 600
+9/4/2023 10:57 AM        drive nu_post 5
+9/4/2023 10:58 AM        tpix preset time 600
+9/4/2023 11:08 AM        drive ac_1 0 ac_2 0
+9/4/2023 11:08 AM        drive ac_1 0 ac_2 0
+9/4/2023 11:08 AM        drive ac_1 -2.5
+9/4/2023 11:08 AM        scantitle "9_2 Overnight triangle long 2 ac_1 -2.5"
+9/4/2023 11:08 AM        drive nu_post -5
+9/4/2023 11:08 AM        tpix preset time 600
+9/4/2023 11:19 AM        drive nu_post 5
+9/4/2023 11:30 AM        drive ac_1 0
+9/4/2023 11:35 AM        scantitle "Quick SEMSANS check nu_pre -5"
+9/4/2023 11:35 AM        drive nu_pre -5
+9/4/2023 11:35 AM        tpix preset time 120
+9/4/2023 11:37 AM        scantitle "Quick SEMSANS check nu_pre 5"
+9/4/2023 11:37 AM        drive nu_pre 5
+9/4/2023 11:37 AM        tpix preset time 120
+9/4/2023 11:39 AM        drive ac_2 1.12
+9/4/2023 11:39 AM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 1"
+9/4/2023 11:39 AM        drive nu_pre -5
+9/4/2023 11:40 AM        tpix preset time 600
+9/4/2023 11:50 AM        drive nu_pre 5
+9/4/2023 11:50 AM        tpix preset time 600
+9/4/2023 12:00 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 2"
+9/4/2023 12:00 PM        drive nu_pre -5
+9/4/2023 12:00 PM        tpix preset time 600
+9/4/2023 12:11 PM        drive nu_pre 5
+9/4/2023 12:11 PM        tpix preset time 600
+9/4/2023 12:21 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 3"
+9/4/2023 12:21 PM        drive nu_pre -5
+9/4/2023 12:21 PM        tpix preset time 600
+9/4/2023 12:31 PM        drive nu_pre 5
+9/4/2023 12:32 PM        tpix preset time 600
+9/4/2023 12:42 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 4"
+9/4/2023 12:42 PM        drive nu_pre -5
+9/4/2023 12:42 PM        tpix preset time 600
+9/4/2023 12:52 PM        drive nu_pre 5
+9/4/2023 12:52 PM        tpix preset time 600
+9/4/2023 1:03 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 5"
+9/4/2023 1:03 PM        drive nu_pre -5
+9/4/2023 1:03 PM        tpix preset time 600
+9/4/2023 1:13 PM        drive nu_pre 5
+9/4/2023 1:13 PM        tpix preset time 600
+9/4/2023 1:23 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 6"
+9/4/2023 1:24 PM        drive nu_pre -5
+9/4/2023 1:24 PM        tpix preset time 600
+9/4/2023 1:34 PM        drive nu_pre 5
+9/4/2023 1:34 PM        tpix preset time 600
+9/4/2023 1:44 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 7"
+9/4/2023 1:44 PM        drive nu_pre -5
+9/4/2023 1:45 PM        tpix preset time 600
+9/4/2023 1:55 PM        drive nu_pre 5
+9/4/2023 1:55 PM        tpix preset time 600
+9/4/2023 2:05 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 8"
+9/4/2023 2:05 PM        drive nu_pre -5
+9/4/2023 2:05 PM        tpix preset time 600
+9/4/2023 2:16 PM        drive nu_pre 5
+9/4/2023 2:16 PM        tpix preset time 600
+9/4/2023 2:26 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 9"
+9/4/2023 2:26 PM        drive nu_pre -5
+9/4/2023 2:26 PM        tpix preset time 600
+9/4/2023 2:36 PM        drive nu_pre 5
+9/4/2023 2:37 PM        tpix preset time 600
+9/4/2023 2:47 PM        scantitle "9_4 Day triangle PNAS pi on 2 transverse 10"
+9/4/2023 2:47 PM        drive nu_pre -5
+9/4/2023 2:47 PM        tpix preset time 600
+9/4/2023 2:57 PM        drive nu_pre 5
+9/4/2023 2:57 PM        tpix preset time 600
+9/4/2023 3:08 PM        drive ac_2 0
+9/4/2023 3:08 PM        scantitle "9_4 Day triangle PNAS transverse 1"
+9/4/2023 3:08 PM        drive nu_pre -5
+9/4/2023 3:08 PM        tpix preset time 600
+9/4/2023 3:18 PM        drive nu_pre 5
+9/4/2023 3:18 PM        tpix preset time 600
+9/4/2023 3:29 PM        scantitle "9_4 Day triangle PNAS transverse 2"
+9/4/2023 3:29 PM        drive nu_pre -5
+9/4/2023 3:29 PM        tpix preset time 600
+9/4/2023 3:39 PM        drive nu_pre 5
+9/4/2023 3:39 PM        tpix preset time 600
+9/4/2023 3:49 PM        scantitle "9_4 Day triangle PNAS transverse 3"
+9/4/2023 3:49 PM        drive nu_pre -5
+9/4/2023 3:50 PM        tpix preset time 600
+9/4/2023 4:00 PM        drive nu_pre 5
+9/4/2023 4:00 PM        tpix preset time 600
+9/4/2023 4:10 PM        scantitle "9_4 Day triangle PNAS transverse 4"
+9/4/2023 4:10 PM        drive nu_pre -5
+9/4/2023 4:10 PM        tpix preset time 600
+9/4/2023 4:21 PM        drive nu_pre 5
+9/4/2023 4:21 PM        tpix preset time 600
+9/4/2023 4:31 PM        scantitle "9_4 Day triangle PNAS transverse 5"
+9/4/2023 4:31 PM        drive nu_pre -5
+9/4/2023 4:31 PM        tpix preset time 600
+9/4/2023 4:41 PM        drive nu_pre 5
+9/4/2023 4:42 PM        tpix preset time 600
+9/4/2023 4:52 PM        scantitle "9_4 Day triangle PNAS transverse 6"
+9/4/2023 4:52 PM        drive nu_pre -5
+9/4/2023 4:52 PM        tpix preset time 600
+9/4/2023 5:02 PM        drive nu_pre 5
+9/4/2023 5:02 PM        tpix preset time 600
+9/4/2023 5:13 PM        scantitle "9_4 Day triangle PNAS transverse 7"
+9/4/2023 5:13 PM        drive nu_pre -5
+9/4/2023 5:13 PM        tpix preset time 600
+9/4/2023 5:23 PM        drive nu_pre 5
+9/4/2023 5:23 PM        tpix preset time 600
+9/4/2023 5:33 PM        scantitle "9_4 Day triangle PNAS transverse 8"
+9/4/2023 5:33 PM        drive nu_pre -5
+9/4/2023 5:34 PM        tpix preset time 600
+9/4/2023 5:44 PM        drive nu_pre 5
+9/4/2023 5:44 PM        tpix preset time 600
+9/4/2023 5:54 PM        scantitle "9_4 Day triangle PNAS transverse 9"
+9/4/2023 5:54 PM        drive nu_pre -5
+9/4/2023 5:55 PM        tpix preset time 600
+9/4/2023 6:05 PM        drive nu_pre 5
+9/4/2023 6:05 PM        tpix preset time 600
+9/4/2023 6:15 PM        scantitle "9_4 Day triangle PNAS transverse 10"
+9/4/2023 6:15 PM        drive nu_pre -5
+9/4/2023 6:15 PM        tpix preset time 600
+9/4/2023 6:26 PM        drive nu_pre 5
+9/4/2023 6:26 PM        tpix preset time 600
+9/4/2023 6:36 PM        drive ac_1 0 ac_2 0
+9/4/2023 6:36 PM        drive ac_1 -2.5
+9/4/2023 6:36 PM        scantitle "9_4 Day triangle transverse 1 ac_1 -2.5"
+9/4/2023 6:36 PM        drive nu_pre -5
+9/4/2023 6:36 PM        tpix preset time 600
+9/4/2023 6:47 PM        drive nu_pre 5
+9/4/2023 6:47 PM        tpix preset time 600
+9/4/2023 6:57 PM        drive ac_1 -2
+9/4/2023 6:57 PM        scantitle "9_4 Day triangle transverse 1 ac_1 -2"
+9/4/2023 6:57 PM        drive nu_pre -5
+9/4/2023 6:57 PM        tpix preset time 600
+9/4/2023 7:08 PM        drive nu_pre 5
+9/4/2023 7:08 PM        tpix preset time 600
+9/4/2023 7:18 PM        drive ac_1 -1.5
+9/4/2023 7:18 PM        scantitle "9_4 Day triangle transverse 1 ac_1 -1.5"
+9/4/2023 7:18 PM        drive nu_pre -5
+9/4/2023 7:18 PM        tpix preset time 600
+9/4/2023 7:28 PM        drive nu_pre 5
+9/4/2023 7:29 PM        tpix preset time 600
+9/4/2023 7:39 PM        drive ac_1 -1
+9/4/2023 7:39 PM        scantitle "9_4 Day triangle transverse 1 ac_1 -1"
+9/4/2023 7:39 PM        drive nu_pre -5
+9/4/2023 7:39 PM        tpix preset time 600
+9/4/2023 7:49 PM        drive nu_pre 5
+9/4/2023 7:50 PM        tpix preset time 600
+9/4/2023 8:00 PM        drive ac_1 -0.5
+9/4/2023 8:00 PM        scantitle "9_4 Day triangle transverse 1 ac_1 -0.5"
+9/4/2023 8:00 PM        drive nu_pre -5
+9/4/2023 8:00 PM        tpix preset time 600
+9/4/2023 8:10 PM        drive nu_pre 5
+9/4/2023 8:11 PM        tpix preset time 600
+9/4/2023 8:21 PM        drive ac_1 0
+9/4/2023 8:21 PM        scantitle "9_4 Day triangle transverse 1 ac_1 0"
+9/4/2023 8:21 PM        drive nu_pre -5
+9/4/2023 8:21 PM        tpix preset time 600
+9/4/2023 8:31 PM        drive nu_pre 5
+9/4/2023 8:31 PM        tpix preset time 600
+9/4/2023 8:42 PM        drive ac_1 0.5
+9/4/2023 8:42 PM        scantitle "9_4 Day triangle transverse 1 ac_1 0.5"
+9/4/2023 8:42 PM        drive nu_pre -5
+9/4/2023 8:42 PM        tpix preset time 600
+9/4/2023 8:52 PM        drive nu_pre 5
+9/4/2023 8:52 PM        tpix preset time 600
+9/4/2023 9:03 PM        drive ac_1 1
+9/4/2023 9:03 PM        scantitle "9_4 Day triangle transverse 1 ac_1 1"
+9/4/2023 9:03 PM        drive nu_pre -5
+9/4/2023 9:03 PM        tpix preset time 600
+9/4/2023 9:13 PM        drive nu_pre 5
+9/4/2023 9:13 PM        tpix preset time 600
+9/4/2023 9:23 PM        drive ac_1 1.5
+9/4/2023 9:24 PM        scantitle "9_4 Day triangle transverse 1 ac_1 1.5"
+9/4/2023 9:24 PM        drive nu_pre -5
+9/4/2023 9:24 PM        tpix preset time 600
+9/4/2023 9:34 PM        drive nu_pre 5
+9/4/2023 9:34 PM        tpix preset time 600
+9/4/2023 9:44 PM        drive ac_1 2
+9/4/2023 9:44 PM        scantitle "9_4 Day triangle transverse 1 ac_1 2"
+9/4/2023 9:44 PM        drive nu_pre -5
+9/4/2023 9:45 PM        tpix preset time 600
+9/4/2023 9:55 PM        drive nu_pre 5
+9/4/2023 9:55 PM        tpix preset time 600
+9/4/2023 10:05 PM        drive ac_1 2.5
+9/4/2023 10:05 PM        scantitle "9_4 Day triangle transverse 1 ac_1 2.5"
+9/4/2023 10:05 PM        drive nu_pre -5
+9/4/2023 10:06 PM        tpix preset time 600
+9/4/2023 10:16 PM        drive nu_pre 5
+9/4/2023 10:16 PM        tpix preset time 600
+9/4/2023 10:26 PM        drive ac_1 0 ac_2 0
+9/4/2023 10:26 PM        drive ac_2 -2.5
+9/4/2023 10:27 PM        scantitle "9_4 Day triangle transverse 1 ac_2 -2.5"
+9/4/2023 10:27 PM        drive nu_pre -5
+9/4/2023 10:27 PM        tpix preset time 600
+9/4/2023 10:37 PM        drive nu_pre 5
+9/4/2023 10:37 PM        tpix preset time 600
+9/4/2023 10:47 PM        drive ac_2 -2
+9/4/2023 10:47 PM        scantitle "9_4 Day triangle transverse 1 ac_2 -2"
+9/4/2023 10:47 PM        drive nu_pre -5
+9/4/2023 10:48 PM        tpix preset time 600
+9/4/2023 10:58 PM        drive nu_pre 5
+9/4/2023 10:58 PM        tpix preset time 600
+9/4/2023 11:08 PM        drive ac_2 -1.5
+9/4/2023 11:08 PM        scantitle "9_4 Day triangle transverse 1 ac_2 -1.5"
+9/4/2023 11:08 PM        drive nu_pre -5
+9/4/2023 11:09 PM        tpix preset time 600
+9/4/2023 11:19 PM        drive nu_pre 5
+9/4/2023 11:19 PM        tpix preset time 600
+9/4/2023 11:29 PM        drive ac_2 -1
+9/4/2023 11:29 PM        scantitle "9_4 Day triangle transverse 1 ac_2 -1"
+9/4/2023 11:29 PM        drive nu_pre -5
+9/4/2023 11:30 PM        tpix preset time 600
+9/4/2023 11:40 PM        drive nu_pre 5
+9/4/2023 11:40 PM        tpix preset time 600
+9/4/2023 11:50 PM        drive ac_2 -0.5
+9/4/2023 11:50 PM        scantitle "9_4 Day triangle transverse 1 ac_2 -0.5"
+9/4/2023 11:50 PM        drive nu_pre -5
+9/4/2023 11:51 PM        tpix preset time 600
+9/5/2023 12:01 AM        drive nu_pre 5
+9/5/2023 12:01 AM        tpix preset time 600
+9/5/2023 12:11 AM        drive ac_2 0
+9/5/2023 12:11 AM        scantitle "9_4 Day triangle transverse 1 ac_2 0"
+9/5/2023 12:11 AM        drive nu_pre -5
+9/5/2023 12:11 AM        tpix preset time 600
+9/5/2023 12:22 AM        drive nu_pre 5
+9/5/2023 12:22 AM        tpix preset time 600
+9/5/2023 12:32 AM        drive ac_2 0.5
+9/5/2023 12:32 AM        scantitle "9_4 Day triangle transverse 1 ac_2 0.5"
+9/5/2023 12:32 AM        drive nu_pre -5
+9/5/2023 12:32 AM        tpix preset time 600
+9/5/2023 12:42 AM        drive nu_pre 5
+9/5/2023 12:43 AM        tpix preset time 600
+9/5/2023 12:53 AM        drive ac_2 1
+9/5/2023 12:53 AM        scantitle "9_4 Day triangle transverse 1 ac_2 1"
+9/5/2023 12:53 AM        drive nu_pre -5
+9/5/2023 12:53 AM        tpix preset time 600
+9/5/2023 1:03 AM        drive nu_pre 5
+9/5/2023 1:04 AM        tpix preset time 600
+9/5/2023 1:14 AM        drive ac_2 1.5
+9/5/2023 1:14 AM        scantitle "9_4 Day triangle transverse 1 ac_2 1.5"
+9/5/2023 1:14 AM        drive nu_pre -5
+9/5/2023 1:14 AM        tpix preset time 600
+9/5/2023 1:24 AM        drive nu_pre 5
+9/5/2023 1:25 AM        tpix preset time 600
+9/5/2023 1:35 AM        drive ac_2 2
+9/5/2023 1:35 AM        scantitle "9_4 Day triangle transverse 1 ac_2 2"
+9/5/2023 1:35 AM        drive nu_pre -5
+9/5/2023 1:35 AM        tpix preset time 600
+9/5/2023 1:45 AM        drive nu_pre 5
+9/5/2023 1:45 AM        tpix preset time 600
+9/5/2023 1:56 AM        drive ac_2 2.5
+9/5/2023 1:56 AM        scantitle "9_4 Day triangle transverse 1 ac_2 2.5"
+9/5/2023 1:56 AM        drive nu_pre -5
+9/5/2023 1:56 AM        tpix preset time 600
+9/5/2023 2:06 AM        drive nu_pre 5
+9/5/2023 2:06 AM        tpix preset time 600
+9/5/2023 2:17 AM        drive ac_1 0 ac_2 0
+9/5/2023 2:17 AM        drive ac_1 0 ac_2 0
+9/5/2023 2:17 AM        drive ac_1 -2.5
+9/5/2023 2:17 AM        scantitle "9_4 Day triangle transverse 2 ac_1 -2.5"
+9/5/2023 2:17 AM        drive nu_pre -5
+9/5/2023 2:17 AM        tpix preset time 600
+9/5/2023 2:27 AM        drive nu_pre 5
+9/5/2023 2:28 AM        tpix preset time 600
+9/5/2023 2:38 AM        drive ac_1 -2
+9/5/2023 2:38 AM        scantitle "9_4 Day triangle transverse 2 ac_1 -2"
+9/5/2023 2:38 AM        drive nu_pre -5
+9/5/2023 2:38 AM        tpix preset time 600
+9/5/2023 2:48 AM        drive nu_pre 5
+9/5/2023 2:49 AM        tpix preset time 600
+9/5/2023 2:59 AM        drive ac_1 -1.5
+9/5/2023 2:59 AM        scantitle "9_4 Day triangle transverse 2 ac_1 -1.5"
+9/5/2023 2:59 AM        drive nu_pre -5
+9/5/2023 2:59 AM        tpix preset time 600
+9/5/2023 3:09 AM        drive nu_pre 5
+9/5/2023 3:09 AM        tpix preset time 600
+9/5/2023 3:20 AM        drive ac_1 -1
+9/5/2023 3:20 AM        scantitle "9_4 Day triangle transverse 2 ac_1 -1"
+9/5/2023 3:20 AM        drive nu_pre -5
+9/5/2023 3:20 AM        tpix preset time 600
+9/5/2023 3:30 AM        drive nu_pre 5
+9/5/2023 3:30 AM        tpix preset time 600
+9/5/2023 3:41 AM        drive ac_1 -0.5
+9/5/2023 3:41 AM        scantitle "9_4 Day triangle transverse 2 ac_1 -0.5"
+9/5/2023 3:41 AM        drive nu_pre -5
+9/5/2023 3:41 AM        tpix preset time 600
+9/5/2023 3:51 AM        drive nu_pre 5
+9/5/2023 3:51 AM        tpix preset time 600
+9/5/2023 4:01 AM        drive ac_1 0
+9/5/2023 4:02 AM        scantitle "9_4 Day triangle transverse 2 ac_1 0"
+9/5/2023 4:02 AM        drive nu_pre -5
+9/5/2023 4:02 AM        tpix preset time 600
+9/5/2023 4:12 AM        drive nu_pre 5
+9/5/2023 4:12 AM        tpix preset time 600
+9/5/2023 4:22 AM        drive ac_1 0.5
+9/5/2023 4:22 AM        scantitle "9_4 Day triangle transverse 2 ac_1 0.5"
+9/5/2023 4:22 AM        drive nu_pre -5
+9/5/2023 4:23 AM        tpix preset time 600
+9/5/2023 4:33 AM        drive nu_pre 5
+9/5/2023 4:33 AM        tpix preset time 600
+9/5/2023 4:43 AM        drive ac_1 1
+9/5/2023 4:43 AM        scantitle "9_4 Day triangle transverse 2 ac_1 1"
+9/5/2023 4:43 AM        drive nu_pre -5
+9/5/2023 4:44 AM        tpix preset time 600
+9/5/2023 4:54 AM        drive nu_pre 5
+9/5/2023 4:54 AM        tpix preset time 600
+9/5/2023 5:04 AM        drive ac_1 1.5
+9/5/2023 5:04 AM        scantitle "9_4 Day triangle transverse 2 ac_1 1.5"
+9/5/2023 5:04 AM        drive nu_pre -5
+9/5/2023 5:05 AM        tpix preset time 600
+9/5/2023 5:15 AM        drive nu_pre 5
+9/5/2023 5:15 AM        tpix preset time 600
+9/5/2023 5:25 AM        drive ac_1 2
+9/5/2023 5:25 AM        scantitle "9_4 Day triangle transverse 2 ac_1 2"
+9/5/2023 5:25 AM        drive nu_pre -5
+9/5/2023 5:25 AM        tpix preset time 600
+9/5/2023 5:36 AM        drive nu_pre 5
+9/5/2023 5:36 AM        tpix preset time 600
+9/5/2023 5:46 AM        drive ac_1 2.5
+9/5/2023 5:46 AM        scantitle "9_4 Day triangle transverse 2 ac_1 2.5"
+9/5/2023 5:46 AM        drive nu_pre -5
+9/5/2023 5:46 AM        tpix preset time 600
+9/5/2023 5:57 AM        drive nu_pre 5
+9/5/2023 5:57 AM        tpix preset time 600
+9/5/2023 6:07 AM        drive ac_1 0 ac_2 0
+9/5/2023 6:07 AM        drive ac_2 -2.5
+9/5/2023 6:07 AM        scantitle "9_4 Day triangle transverse 2 ac_2 -2.5"
+9/5/2023 6:07 AM        drive nu_pre -5
+9/5/2023 6:08 AM        tpix preset time 600
+9/5/2023 6:18 AM        drive nu_pre 5
+9/5/2023 6:18 AM        tpix preset time 600
+9/5/2023 6:28 AM        drive ac_2 -2
+9/5/2023 6:28 AM        scantitle "9_4 Day triangle transverse 2 ac_2 -2"
+9/5/2023 6:28 AM        drive nu_pre -5
+9/5/2023 6:28 AM        tpix preset time 600
+9/5/2023 6:39 AM        drive nu_pre 5
+9/5/2023 6:39 AM        tpix preset time 600
+9/5/2023 6:49 AM        drive ac_2 -1.5
+9/5/2023 6:49 AM        scantitle "9_4 Day triangle transverse 2 ac_2 -1.5"
+9/5/2023 6:49 AM        drive nu_pre -5
+9/5/2023 6:49 AM        tpix preset time 600
+9/5/2023 7:00 AM        drive nu_pre 5
+9/5/2023 7:00 AM        tpix preset time 600
+9/5/2023 7:10 AM        drive ac_2 -1
+9/5/2023 7:10 AM        scantitle "9_4 Day triangle transverse 2 ac_2 -1"
+9/5/2023 7:10 AM        drive nu_pre -5
+9/5/2023 7:10 AM        tpix preset time 600
+9/5/2023 7:20 AM        drive nu_pre 5
+9/5/2023 7:21 AM        tpix preset time 600
+9/5/2023 7:31 AM        drive ac_2 -0.5
+9/5/2023 7:31 AM        scantitle "9_4 Day triangle transverse 2 ac_2 -0.5"
+9/5/2023 7:31 AM        drive nu_pre -5
+9/5/2023 7:31 AM        tpix preset time 600
+9/5/2023 7:41 AM        drive nu_pre 5
+9/5/2023 7:42 AM        tpix preset time 600
+9/5/2023 7:52 AM        drive ac_2 0
+9/5/2023 7:52 AM        scantitle "9_4 Day triangle transverse 2 ac_2 0"
+9/5/2023 7:52 AM        drive nu_pre -5
+9/5/2023 7:52 AM        tpix preset time 600
+9/5/2023 8:02 AM        drive nu_pre 5
+9/5/2023 8:03 AM        tpix preset time 600
+9/5/2023 8:13 AM        drive ac_2 0.5
+9/5/2023 8:13 AM        scantitle "9_4 Day triangle transverse 2 ac_2 0.5"
+9/5/2023 8:13 AM        drive nu_pre -5
+9/5/2023 8:13 AM        tpix preset time 600
+9/5/2023 8:23 AM        drive nu_pre 5
+9/5/2023 8:23 AM        tpix preset time 600
+9/5/2023 8:34 AM        drive ac_2 1
+9/5/2023 8:34 AM        scantitle "9_4 Day triangle transverse 2 ac_2 1"
+9/5/2023 8:34 AM        drive nu_pre -5
+9/5/2023 8:34 AM        tpix preset time 600
+9/5/2023 8:44 AM        drive nu_pre 5
+9/5/2023 8:44 AM        tpix preset time 600
+9/5/2023 8:55 AM        drive ac_2 1.5
+9/5/2023 8:55 AM        scantitle "9_4 Day triangle transverse 2 ac_2 1.5"
+9/5/2023 8:55 AM        drive nu_pre -5
+9/5/2023 8:55 AM        tpix preset time 600
+9/5/2023 9:05 AM        drive nu_pre 5
+9/5/2023 9:05 AM        tpix preset time 600
+9/5/2023 9:15 AM        drive ac_2 2
+9/5/2023 9:16 AM        scantitle "9_4 Day triangle transverse 2 ac_2 2"
+9/5/2023 9:16 AM        drive nu_pre -5
+9/5/2023 9:16 AM        tpix preset time 600
+9/5/2023 9:26 AM        drive nu_pre 5
+9/5/2023 9:26 AM        tpix preset time 600
+9/5/2023 9:36 AM        drive ac_2 2.5
+9/5/2023 9:36 AM        scantitle "9_4 Day triangle transverse 2 ac_2 2.5"
+9/5/2023 9:36 AM        drive nu_pre -5
+9/5/2023 9:37 AM        tpix preset time 600
+9/5/2023 9:47 AM        drive nu_pre 5
+9/5/2023 9:47 AM        tpix preset time 600
+9/5/2023 9:57 AM        drive ac_1 0 ac_2 0
+9/5/2023 9:57 AM        drive ac_1 0 ac_2 0
+9/5/2023 9:58 AM        drive ac_1 -2.5
+9/5/2023 9:58 AM        scantitle "9_4 Day triangle transverse 3 ac_1 -2.5"
+9/5/2023 9:58 AM        drive nu_pre -5
+9/5/2023 9:58 AM        tpix preset time 600
+9/5/2023 10:08 AM        drive nu_pre 5
+9/5/2023 10:08 AM        tpix preset time 600
+9/5/2023 10:19 AM        drive ac_1 -2
+9/5/2023 10:19 AM        scantitle "9_4 Day triangle transverse 3 ac_1 -2"
+9/5/2023 10:19 AM        drive nu_pre -5
+9/5/2023 10:19 AM        tpix preset time 600
+9/5/2023 10:29 AM        drive nu_pre 5
+9/5/2023 10:29 AM        tpix preset time 600
+9/5/2023 10:39 AM        drive ac_1 -1.5
+9/5/2023 10:40 AM        scantitle "9_4 Day triangle transverse 3 ac_1 -1.5"
+9/5/2023 10:40 AM        drive nu_pre -5
+9/5/2023 10:40 AM        tpix preset time 600
+9/5/2023 10:50 AM        drive nu_pre 5
+9/5/2023 10:50 AM        tpix preset time 600
+9/5/2023 11:00 AM        drive ac_1 -1
+9/5/2023 11:00 AM        scantitle "9_4 Day triangle transverse 3 ac_1 -1"
+9/5/2023 11:00 AM        drive nu_pre -5
+9/5/2023 11:01 AM        tpix preset time 600
+9/5/2023 11:11 AM        drive nu_pre 5
+9/5/2023 11:11 AM        tpix preset time 600
+9/5/2023 11:21 AM        drive ac_1 -0.5
+9/5/2023 11:21 AM        scantitle "9_4 Day triangle transverse 3 ac_1 -0.5"
+9/5/2023 11:21 AM        drive nu_pre -5
+9/5/2023 11:22 AM        tpix preset time 600
+9/5/2023 11:32 AM        drive nu_pre 5
+9/5/2023 11:32 AM        tpix preset time 600
+9/5/2023 11:42 AM        drive ac_1 0
+9/5/2023 11:42 AM        scantitle "9_4 Day triangle transverse 3 ac_1 0"
+9/5/2023 11:42 AM        drive nu_pre -5
+9/5/2023 11:43 AM        tpix preset time 600
+9/5/2023 11:53 AM        drive nu_pre 5
+9/5/2023 11:53 AM        tpix preset time 600
+9/5/2023 12:03 PM        drive ac_1 0.5
+9/5/2023 12:03 PM        scantitle "9_4 Day triangle transverse 3 ac_1 0.5"
+9/5/2023 12:03 PM        drive nu_pre -5
+9/5/2023 12:03 PM        tpix preset time 600
+9/5/2023 12:14 PM        drive nu_pre 5
+9/5/2023 12:14 PM        tpix preset time 600
+9/5/2023 12:24 PM        drive ac_1 1
+9/5/2023 12:24 PM        scantitle "9_4 Day triangle transverse 3 ac_1 1"
+9/5/2023 12:24 PM        drive nu_pre -5
+9/5/2023 12:24 PM        tpix preset time 600
+9/5/2023 12:35 PM        drive nu_pre 5
+9/5/2023 12:35 PM        tpix preset time 600
+9/5/2023 12:45 PM        drive ac_1 1.5
+9/5/2023 12:45 PM        scantitle "9_4 Day triangle transverse 3 ac_1 1.5"
+9/5/2023 12:45 PM        drive nu_pre -5
+9/5/2023 12:45 PM        tpix preset time 600
+9/5/2023 12:55 PM        drive nu_pre 5
+9/5/2023 12:56 PM        tpix preset time 600
+9/5/2023 1:06 PM        drive ac_1 2
+9/5/2023 1:06 PM        scantitle "9_4 Day triangle transverse 3 ac_1 2"
+9/5/2023 1:06 PM        drive nu_pre -5
+9/5/2023 1:06 PM        tpix preset time 600
+9/5/2023 1:16 PM        drive nu_pre 5
+9/5/2023 1:17 PM        tpix preset time 600
+9/5/2023 1:27 PM        drive ac_1 2.5
+9/5/2023 1:27 PM        scantitle "9_4 Day triangle transverse 3 ac_1 2.5"
+9/5/2023 1:27 PM        drive nu_pre -5
+9/5/2023 1:27 PM        tpix preset time 600
+9/5/2023 1:37 PM        drive nu_pre 5
+9/5/2023 1:48 PM        drive ac_2 0 ac_1 0
+9/5/2023 1:48 PM        drive a_1 -2.5
+9/5/2023 1:48 PM        scantitle "Quick ac_1 -2.5 nu -5 period transverse rectangle"
+9/5/2023 1:48 PM        drive nu_pre -5
+9/5/2023 1:48 PM        tpix preset time 120
+9/5/2023 1:49 PM        drive ac_2 0 ac_1 0
+9/5/2023 1:49 PM        drive ac_1 -2.5
+9/5/2023 1:49 PM        scantitle "Quick ac_1 -2.5 nu -5 period transverse rectangle"
+9/5/2023 1:49 PM        drive nu_pre -5
+9/5/2023 1:49 PM        tpix preset time 120
+9/5/2023 1:51 PM        drive ac_1 -2.5
+9/5/2023 1:51 PM        scantitle "Quick ac_1 -2.5 nu 5 period transverse rectangle"
+9/5/2023 1:51 PM        drive nu_pre 5
+9/5/2023 1:51 PM        tpix preset time 120
+9/5/2023 1:54 PM        drive ac_1 -2
+9/5/2023 1:54 PM        scantitle "Quick ac_1 -2 nu -5 period transverse rectangle"
+9/5/2023 1:54 PM        drive nu_pre -5
+9/5/2023 1:54 PM        tpix preset time 120
+9/5/2023 1:56 PM        drive ac_1 -2
+9/5/2023 1:56 PM        scantitle "Quick ac_1 -2 nu 5 period transverse rectangle"
+9/5/2023 1:56 PM        drive nu_pre 5
+9/5/2023 1:56 PM        tpix preset time 120
+9/5/2023 1:59 PM        drive ac_1 -1.5
+9/5/2023 1:59 PM        scantitle "Quick ac_1 -1.5 nu -5 period transverse rectangle"
+9/5/2023 1:59 PM        drive nu_pre -5
+9/5/2023 1:59 PM        tpix preset time 120
+9/5/2023 2:01 PM        drive ac_1 -1.5
+9/5/2023 2:01 PM        scantitle "Quick ac_1 -1.5 nu 5 period transverse rectangle"
+9/5/2023 2:01 PM        drive nu_pre 5
+9/5/2023 2:01 PM        tpix preset time 120
+9/5/2023 2:04 PM        drive ac_1 -1
+9/5/2023 2:04 PM        scantitle "Quick ac_1 -1 nu -5 period transverse rectangle"
+9/5/2023 2:04 PM        drive nu_pre -5
+9/5/2023 2:04 PM        tpix preset time 120
+9/5/2023 2:06 PM        drive ac_1 -1
+9/5/2023 2:06 PM        scantitle "Quick ac_1 -1 nu 5 period transverse rectangle"
+9/5/2023 2:06 PM        drive nu_pre 5
+9/5/2023 2:06 PM        tpix preset time 120
+9/5/2023 2:09 PM        drive ac_1 -0.5
+9/5/2023 2:09 PM        scantitle "Quick ac_1 -0.5 nu -5 period transverse rectangle"
+9/5/2023 2:09 PM        drive nu_pre -5
+9/5/2023 2:09 PM        tpix preset time 120
+9/5/2023 2:11 PM        drive ac_1 -0.5
+9/5/2023 2:11 PM        scantitle "Quick ac_1 -0.5 nu 5 period transverse rectangle"
+9/5/2023 2:11 PM        drive nu_pre 5
+9/5/2023 2:11 PM        tpix preset time 120
+9/5/2023 2:14 PM        drive ac_1 0
+9/5/2023 2:14 PM        scantitle "Quick ac_1 0 nu -5 period transverse rectangle"
+9/5/2023 2:14 PM        drive nu_pre -5
+9/5/2023 2:14 PM        tpix preset time 120
+9/5/2023 2:16 PM        drive ac_1 0
+9/5/2023 2:16 PM        scantitle "Quick ac_1 0 nu 5 period transverse rectangle"
+9/5/2023 2:16 PM        drive nu_pre 5
+9/5/2023 2:16 PM        tpix preset time 120
+9/5/2023 2:19 PM        drive ac_1 0.5
+9/5/2023 2:19 PM        scantitle "Quick ac_1 0.5 nu -5 period transverse rectangle"
+9/5/2023 2:19 PM        drive nu_pre -5
+9/5/2023 2:19 PM        tpix preset time 120
+9/5/2023 2:21 PM        drive ac_1 0.5
+9/5/2023 2:21 PM        scantitle "Quick ac_1 0.5 nu 5 period transverse rectangle"
+9/5/2023 2:21 PM        drive nu_pre 5
+9/5/2023 2:21 PM        tpix preset time 120
+9/5/2023 2:24 PM        drive ac_1 1
+9/5/2023 2:24 PM        scantitle "Quick ac_1 1 nu -5 period transverse rectangle"
+9/5/2023 2:24 PM        drive nu_pre -5
+9/5/2023 2:24 PM        tpix preset time 120
+9/5/2023 2:26 PM        drive ac_1 1
+9/5/2023 2:26 PM        scantitle "Quick ac_1 1 nu 5 period transverse rectangle"
+9/5/2023 2:26 PM        drive nu_pre 5
+9/5/2023 2:26 PM        tpix preset time 120
+9/5/2023 2:29 PM        drive ac_1 1.5
+9/5/2023 2:29 PM        scantitle "Quick ac_1 1.5 nu -5 period transverse rectangle"
+9/5/2023 2:29 PM        drive nu_pre -5
+9/5/2023 2:29 PM        tpix preset time 120
+9/5/2023 2:31 PM        drive ac_1 1.5
+9/5/2023 2:31 PM        scantitle "Quick ac_1 1.5 nu 5 period transverse rectangle"
+9/5/2023 2:31 PM        drive nu_pre 5
+9/5/2023 2:31 PM        tpix preset time 120
+9/5/2023 2:34 PM        drive ac_1 2
+9/5/2023 2:34 PM        scantitle "Quick ac_1 2 nu -5 period transverse rectangle"
+9/5/2023 2:34 PM        drive nu_pre -5
+9/5/2023 2:34 PM        tpix preset time 120
+9/5/2023 2:36 PM        drive ac_1 2
+9/5/2023 2:36 PM        scantitle "Quick ac_1 2 nu 5 period transverse rectangle"
+9/5/2023 2:36 PM        drive nu_pre 5
+9/5/2023 2:36 PM        tpix preset time 120
+9/5/2023 2:39 PM        drive ac_1 2.5
+9/5/2023 2:39 PM        scantitle "Quick ac_1 2.5 nu -5 period transverse rectangle"
+9/5/2023 2:39 PM        drive nu_pre -5
+9/5/2023 2:39 PM        tpix preset time 120
+9/5/2023 2:41 PM        drive ac_1 2.5
+9/5/2023 2:41 PM        scantitle "Quick ac_1 2.5 nu 5 period transverse rectangle"
+9/5/2023 2:41 PM        drive nu_pre 5
+9/5/2023 2:41 PM        tpix preset time 120
+9/5/2023 3:58 PM        drive ac_1 0
+9/5/2023 4:04 PM        drive ac_1 1.12 ac_2 1.12
+9/5/2023 4:04 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 1 ac_1 pi on 2"
+9/5/2023 4:04 PM        drive nu_pre -5
+9/5/2023 4:04 PM        tpix preset time 600
+9/5/2023 4:07 PM        drive ac_1 1.12 ac_2 1.12
+9/5/2023 4:08 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 1 ac_1 pi on 2"
+9/5/2023 4:08 PM        drive nu_pre -5
+9/5/2023 4:08 PM        tpix preset time 600
+9/5/2023 4:18 PM        drive nu_pre 5
+9/5/2023 4:18 PM        tpix preset time 600
+9/5/2023 4:28 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 2 ac_1 pi on 2"
+9/5/2023 4:28 PM        drive nu_pre -5
+9/5/2023 4:28 PM        tpix preset time 600
+9/5/2023 4:39 PM        drive nu_pre 5
+9/5/2023 4:39 PM        tpix preset time 600
+9/5/2023 4:49 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 3 ac_1 pi on 2"
+9/5/2023 4:49 PM        drive nu_pre -5
+9/5/2023 4:49 PM        tpix preset time 600
+9/5/2023 4:59 PM        drive nu_pre 5
+9/5/2023 5:00 PM        tpix preset time 600
+9/5/2023 5:10 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 4 ac_1 pi on 2"
+9/5/2023 5:10 PM        drive nu_pre -5
+9/5/2023 5:10 PM        tpix preset time 600
+9/5/2023 5:20 PM        drive nu_pre 5
+9/5/2023 5:21 PM        tpix preset time 600
+9/5/2023 5:31 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 5 ac_1 pi on 2"
+9/5/2023 5:31 PM        drive nu_pre -5
+9/5/2023 5:31 PM        tpix preset time 600
+9/5/2023 5:41 PM        drive nu_pre 5
+9/5/2023 5:41 PM        tpix preset time 600
+9/5/2023 5:52 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 6 ac_1 pi on 2"
+9/5/2023 5:52 PM        drive nu_pre -5
+9/5/2023 5:52 PM        tpix preset time 600
+9/5/2023 6:02 PM        drive nu_pre 5
+9/5/2023 6:02 PM        tpix preset time 600
+9/5/2023 6:12 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 7 ac_1 pi on 2"
+9/5/2023 6:12 PM        drive nu_pre -5
+9/5/2023 6:13 PM        tpix preset time 600
+9/5/2023 6:23 PM        drive nu_pre 5
+9/5/2023 6:23 PM        tpix preset time 600
+9/5/2023 6:33 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 8 ac_1 pi on 2"
+9/5/2023 6:33 PM        drive nu_pre -5
+9/5/2023 6:33 PM        tpix preset time 600
+9/5/2023 6:44 PM        drive nu_pre 5
+9/5/2023 6:44 PM        tpix preset time 600
+9/5/2023 6:54 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 9 ac_1 pi on 2"
+9/5/2023 6:54 PM        drive nu_pre -5
+9/5/2023 6:54 PM        tpix preset time 600
+9/5/2023 7:04 PM        drive nu_pre 5
+9/5/2023 7:05 PM        tpix preset time 600
+9/5/2023 7:15 PM        scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse 10 ac_1 pi on 2"
+9/5/2023 7:15 PM        drive nu_pre -5
+9/5/2023 7:15 PM        tpix preset time 600
+9/5/2023 7:25 PM        drive nu_pre 5
+9/5/2023 7:26 PM        tpix preset time 600
+9/5/2023 7:36 PM        drive ac_2 0
+9/5/2023 7:36 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 1 ac_1 pi on 2"
+9/5/2023 7:36 PM        drive nu_pre -5
+9/5/2023 7:36 PM        tpix preset time 600
+9/5/2023 7:46 PM        drive nu_pre 5
+9/5/2023 7:46 PM        tpix preset time 600
+9/5/2023 7:57 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 2 ac_1 pi on 2"
+9/5/2023 7:57 PM        drive nu_pre -5
+9/5/2023 7:57 PM        tpix preset time 600
+9/5/2023 8:07 PM        drive nu_pre 5
+9/5/2023 8:07 PM        tpix preset time 600
+9/5/2023 8:17 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 3 ac_1 pi on 2"
+9/5/2023 8:17 PM        drive nu_pre -5
+9/5/2023 8:18 PM        tpix preset time 600
+9/5/2023 8:28 PM        drive nu_pre 5
+9/5/2023 8:28 PM        tpix preset time 600
+9/5/2023 8:38 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 4 ac_1 pi on 2"
+9/5/2023 8:38 PM        drive nu_pre -5
+9/5/2023 8:39 PM        tpix preset time 600
+9/5/2023 8:49 PM        drive nu_pre 5
+9/5/2023 8:49 PM        tpix preset time 600
+9/5/2023 8:59 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 5 ac_1 pi on 2"
+9/5/2023 8:59 PM        drive nu_pre -5
+9/5/2023 8:59 PM        tpix preset time 600
+9/5/2023 9:10 PM        drive nu_pre 5
+9/5/2023 9:10 PM        tpix preset time 600
+9/5/2023 9:20 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 6 ac_1 pi on 2"
+9/5/2023 9:20 PM        drive nu_pre -5
+9/5/2023 9:20 PM        tpix preset time 600
+9/5/2023 9:30 PM        drive nu_pre 5
+9/5/2023 9:31 PM        tpix preset time 600
+9/5/2023 9:41 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 7 ac_1 pi on 2"
+9/5/2023 9:41 PM        drive nu_pre -5
+9/5/2023 9:41 PM        tpix preset time 600
+9/5/2023 9:51 PM        drive nu_pre 5
+9/5/2023 9:51 PM        tpix preset time 600
+9/5/2023 10:02 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 8 ac_1 pi on 2"
+9/5/2023 10:02 PM        drive nu_pre -5
+9/5/2023 10:02 PM        tpix preset time 600
+9/5/2023 10:12 PM        drive nu_pre 5
+9/5/2023 10:12 PM        tpix preset time 600
+9/5/2023 10:22 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 9 ac_1 pi on 2"
+9/5/2023 10:22 PM        drive nu_pre -5
+9/5/2023 10:23 PM        tpix preset time 600
+9/5/2023 10:33 PM        drive nu_pre 5
+9/5/2023 10:33 PM        tpix preset time 600
+9/5/2023 10:43 PM        scantitle "9_5 Afternoon rectangle PNAS transverse 10 ac_1 pi on 2"
+9/5/2023 10:43 PM        drive nu_pre -5
+9/5/2023 10:44 PM        tpix preset time 600
+9/5/2023 10:54 PM        drive nu_pre 5
+9/5/2023 10:54 PM        tpix preset time 600
+9/5/2023 11:04 PM        drive ac_2 0
+9/5/2023 11:04 PM        drive ac_2 -2.5
+9/5/2023 11:04 PM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 -2.5 ac_1 pi on pi on 2"
+9/5/2023 11:04 PM        drive nu_pre -5
+9/5/2023 11:05 PM        tpix preset time 600
+9/5/2023 11:15 PM        drive nu_pre 5
+9/5/2023 11:15 PM        tpix preset time 600
+9/5/2023 11:25 PM        drive ac_2 -2
+9/5/2023 11:25 PM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 -2 ac_1 pi on pi on 2"
+9/5/2023 11:25 PM        drive nu_pre -5
+9/5/2023 11:26 PM        tpix preset time 600
+9/5/2023 11:36 PM        drive nu_pre 5
+9/5/2023 11:36 PM        tpix preset time 600
+9/5/2023 11:46 PM        drive ac_2 -1.5
+9/5/2023 11:46 PM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 -1.5 ac_1 pi on pi on 2"
+9/5/2023 11:46 PM        drive nu_pre -5
+9/5/2023 11:46 PM        tpix preset time 600
+9/5/2023 11:57 PM        drive nu_pre 5
+9/5/2023 11:57 PM        tpix preset time 600
+9/6/2023 12:07 AM        drive ac_2 -1
+9/6/2023 12:07 AM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 -1 ac_1 pi on pi on 2"
+9/6/2023 12:07 AM        drive nu_pre -5
+9/6/2023 12:07 AM        tpix preset time 600
+9/6/2023 12:18 AM        drive nu_pre 5
+9/6/2023 12:18 AM        tpix preset time 600
+9/6/2023 12:28 AM        drive ac_2 -0.5
+9/6/2023 12:28 AM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 -0.5 ac_1 pi on pi on 2"
+9/6/2023 12:28 AM        drive nu_pre -5
+9/6/2023 12:28 AM        tpix preset time 600
+9/6/2023 12:38 AM        drive nu_pre 5
+9/6/2023 12:39 AM        tpix preset time 600
+9/6/2023 12:49 AM        drive ac_2 0
+9/6/2023 12:49 AM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 0 ac_1 pi on pi on 2"
+9/6/2023 12:49 AM        drive nu_pre -5
+9/6/2023 12:49 AM        tpix preset time 600
+9/6/2023 12:59 AM        drive nu_pre 5
+9/6/2023 1:00 AM        tpix preset time 600
+9/6/2023 1:10 AM        drive ac_2 0.5
+9/6/2023 1:10 AM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 0.5 ac_1 pi on pi on 2"
+9/6/2023 1:10 AM        drive nu_pre -5
+9/6/2023 1:10 AM        tpix preset time 600
+9/6/2023 1:20 AM        drive nu_pre 5
+9/6/2023 1:21 AM        tpix preset time 600
+9/6/2023 1:31 AM        drive ac_2 1
+9/6/2023 1:31 AM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 1 ac_1 pi on pi on 2"
+9/6/2023 1:31 AM        drive nu_pre -5
+9/6/2023 1:31 AM        tpix preset time 600
+9/6/2023 1:41 AM        drive nu_pre 5
+9/6/2023 1:41 AM        tpix preset time 600
+9/6/2023 1:52 AM        drive ac_2 1.5
+9/6/2023 1:52 AM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 1.5 ac_1 pi on pi on 2"
+9/6/2023 1:52 AM        drive nu_pre -5
+9/6/2023 1:52 AM        tpix preset time 600
+9/6/2023 2:02 AM        drive nu_pre 5
+9/6/2023 2:02 AM        tpix preset time 600
+9/6/2023 2:13 AM        drive ac_2 2
+9/6/2023 2:13 AM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 2 ac_1 pi on pi on 2"
+9/6/2023 2:13 AM        drive nu_pre -5
+9/6/2023 2:13 AM        tpix preset time 600
+9/6/2023 2:23 AM        drive nu_pre 5
+9/6/2023 2:23 AM        tpix preset time 600
+9/6/2023 2:33 AM        drive ac_2 2.5
+9/6/2023 2:34 AM        scantitle "9_5 Afternoon rectangle transverse 1 ac_2 2.5 ac_1 pi on pi on 2"
+9/6/2023 2:34 AM        drive nu_pre -5
+9/6/2023 2:34 AM        tpix preset time 600
+9/6/2023 2:44 AM        drive nu_pre 5
+9/6/2023 2:44 AM        tpix preset time 600
+9/6/2023 2:54 AM        drive ac_2 0
+9/6/2023 2:55 AM        drive ac_2 -2.5
+9/6/2023 2:55 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 -2.5 ac_1 pi on pi on 2"
+9/6/2023 2:55 AM        drive nu_pre -5
+9/6/2023 2:55 AM        tpix preset time 600
+9/6/2023 3:05 AM        drive nu_pre 5
+9/6/2023 3:05 AM        tpix preset time 600
+9/6/2023 3:16 AM        drive ac_2 -2
+9/6/2023 3:16 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 -2 ac_1 pi on pi on 2"
+9/6/2023 3:16 AM        drive nu_pre -5
+9/6/2023 3:16 AM        tpix preset time 600
+9/6/2023 3:26 AM        drive nu_pre 5
+9/6/2023 3:26 AM        tpix preset time 600
+9/6/2023 3:36 AM        drive ac_2 -1.5
+9/6/2023 3:37 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 -1.5 ac_1 pi on pi on 2"
+9/6/2023 3:37 AM        drive nu_pre -5
+9/6/2023 3:37 AM        tpix preset time 600
+9/6/2023 3:47 AM        drive nu_pre 5
+9/6/2023 3:47 AM        tpix preset time 600
+9/6/2023 3:57 AM        drive ac_2 -1
+9/6/2023 3:57 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 -1 ac_1 pi on pi on 2"
+9/6/2023 3:57 AM        drive nu_pre -5
+9/6/2023 3:58 AM        tpix preset time 600
+9/6/2023 4:08 AM        drive nu_pre 5
+9/6/2023 4:08 AM        tpix preset time 600
+9/6/2023 4:18 AM        drive ac_2 -0.5
+9/6/2023 4:18 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 -0.5 ac_1 pi on pi on 2"
+9/6/2023 4:18 AM        drive nu_pre -5
+9/6/2023 4:19 AM        tpix preset time 600
+9/6/2023 4:29 AM        drive nu_pre 5
+9/6/2023 4:29 AM        tpix preset time 600
+9/6/2023 4:39 AM        drive ac_2 0
+9/6/2023 4:39 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 0 ac_1 pi on pi on 2"
+9/6/2023 4:39 AM        drive nu_pre -5
+9/6/2023 4:40 AM        tpix preset time 600
+9/6/2023 4:50 AM        drive nu_pre 5
+9/6/2023 4:50 AM        tpix preset time 600
+9/6/2023 5:00 AM        drive ac_2 0.5
+9/6/2023 5:00 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 0.5 ac_1 pi on pi on 2"
+9/6/2023 5:00 AM        drive nu_pre -5
+9/6/2023 5:00 AM        tpix preset time 600
+9/6/2023 5:11 AM        drive nu_pre 5
+9/6/2023 5:11 AM        tpix preset time 600
+9/6/2023 5:21 AM        drive ac_2 1
+9/6/2023 5:21 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 1 ac_1 pi on pi on 2"
+9/6/2023 5:21 AM        drive nu_pre -5
+9/6/2023 5:21 AM        tpix preset time 600
+9/6/2023 5:32 AM        drive nu_pre 5
+9/6/2023 5:32 AM        tpix preset time 600
+9/6/2023 5:42 AM        drive ac_2 1.5
+9/6/2023 5:42 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 1.5 ac_1 pi on pi on 2"
+9/6/2023 5:42 AM        drive nu_pre -5
+9/6/2023 5:42 AM        tpix preset time 600
+9/6/2023 5:52 AM        drive nu_pre 5
+9/6/2023 5:53 AM        tpix preset time 600
+9/6/2023 6:03 AM        drive ac_2 2
+9/6/2023 6:03 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 2 ac_1 pi on pi on 2"
+9/6/2023 6:03 AM        drive nu_pre -5
+9/6/2023 6:03 AM        tpix preset time 600
+9/6/2023 6:13 AM        drive nu_pre 5
+9/6/2023 6:14 AM        tpix preset time 600
+9/6/2023 6:24 AM        drive ac_2 2.5
+9/6/2023 6:24 AM        scantitle "9_5 Afternoon rectangle transverse 2 ac_2 2.5 ac_1 pi on pi on 2"
+9/6/2023 6:24 AM        drive nu_pre -5
+9/6/2023 6:24 AM        tpix preset time 600
+9/6/2023 6:34 AM        drive nu_pre 5
+9/6/2023 6:35 AM        tpix preset time 600
+9/6/2023 6:45 AM        drive ac_2 0
+9/6/2023 6:45 AM        drive ac_2 -2.5
+9/6/2023 6:45 AM        scantitle "9_5 Afternoon rectangle transverse 3 ac_2 -2.5 ac_1 pi on pi on 2"
+9/6/2023 6:45 AM        drive nu_pre -5
+9/6/2023 6:45 AM        tpix preset time 600
+9/6/2023 6:55 AM        drive nu_pre 5
+9/6/2023 6:56 AM        tpix preset time 600
+9/6/2023 7:06 AM        drive ac_2 -2
+9/6/2023 7:06 AM        scantitle "9_5 Afternoon rectangle transverse 3 ac_2 -2 ac_1 pi on pi on 2"
+9/6/2023 7:06 AM        drive nu_pre -5
+9/6/2023 7:06 AM        tpix preset time 600
+9/6/2023 7:16 AM        drive nu_pre 5
+9/6/2023 7:17 AM        tpix preset time 600
+9/6/2023 7:27 AM        drive ac_2 -1.5
+9/6/2023 7:27 AM        scantitle "9_5 Afternoon rectangle transverse 3 ac_2 -1.5 ac_1 pi on pi on 2"
+9/6/2023 7:27 AM        drive nu_pre -5
+9/6/2023 7:27 AM        tpix preset time 600
+9/6/2023 7:37 AM        drive nu_pre 5
+9/6/2023 7:38 AM        tpix preset time 600
+9/6/2023 7:48 AM        drive ac_2 -1
+9/6/2023 7:48 AM        scantitle "9_5 Afternoon rectangle transverse 3 ac_2 -1 ac_1 pi on pi on 2"
+9/6/2023 7:48 AM        drive nu_pre -5
+9/6/2023 7:48 AM        tpix preset time 600
+9/6/2023 7:58 AM        drive nu_pre 5
+9/6/2023 7:58 AM        tpix preset time 600
+9/6/2023 8:09 AM        drive ac_2 -0.5
+9/6/2023 8:09 AM        scantitle "9_5 Afternoon rectangle transverse 3 ac_2 -0.5 ac_1 pi on pi on 2"
+9/6/2023 8:09 AM        drive nu_pre -5
+9/6/2023 8:09 AM        tpix preset time 600
+9/6/2023 8:19 AM        drive nu_pre 5
+9/6/2023 8:19 AM        tpix preset time 600
+9/6/2023 8:30 AM        drive ac_2 0
+9/6/2023 8:30 AM        scantitle "9_5 Afternoon rectangle transverse 3 ac_2 0 ac_1 pi on pi on 2"
+9/6/2023 8:30 AM        drive nu_pre -5
+9/6/2023 8:30 AM        tpix preset time 600
+9/6/2023 8:46 AM        drive ac_1 1.12 ac_2 0
+9/6/2023 8:46 AM        scantitle "9_6 Morning quick SEMSANS check nu_post -5"
+9/6/2023 8:46 AM        drive nu_post -5
+9/6/2023 8:47 AM        tpix preset time 120
+9/6/2023 8:49 AM        scantitle "9_6 Morning quick SEMSANS check nu_post 5"
+9/6/2023 8:49 AM        drive nu_post 5
+9/6/2023 8:49 AM        tpix preset time 120
+9/6/2023 8:51 AM        scantitle "9_6 Morning rectangle PNAS long 1 ac_1 pi on 2"
+9/6/2023 8:51 AM        drive nu_post -5
+9/6/2023 8:51 AM        tpix preset time 600
+9/6/2023 9:02 AM        drive nu_post 5
+9/6/2023 9:02 AM        tpix preset time 600
+9/6/2023 9:12 AM        scantitle "9_6 Morning rectangle PNAS long 2 ac_1 pi on 2"
+9/6/2023 9:12 AM        drive nu_post -5
+9/6/2023 9:12 AM        tpix preset time 600
+9/6/2023 9:22 AM        drive nu_post 5
+9/6/2023 9:23 AM        tpix preset time 600
+9/6/2023 9:33 AM        scantitle "9_6 Morning rectangle PNAS long 3 ac_1 pi on 2"
+9/6/2023 9:33 AM        drive nu_post -5
+9/6/2023 9:33 AM        tpix preset time 600
+9/6/2023 9:43 AM        drive nu_post 5
+9/6/2023 9:44 AM        tpix preset time 600
+9/6/2023 9:54 AM        scantitle "9_6 Morning rectangle PNAS long 4 ac_1 pi on 2"
+9/6/2023 9:54 AM        drive nu_post -5
+9/6/2023 9:54 AM        tpix preset time 600
+9/6/2023 10:04 AM        drive nu_post 5
+9/6/2023 10:04 AM        tpix preset time 600
+9/6/2023 10:15 AM        scantitle "9_6 Morning rectangle PNAS long 5 ac_1 pi on 2"
+9/6/2023 10:15 AM        drive nu_post -5
+9/6/2023 10:15 AM        tpix preset time 600
+9/6/2023 10:25 AM        drive nu_post 5
+9/6/2023 10:25 AM        tpix preset time 600
+9/6/2023 10:35 AM        scantitle "9_6 Morning rectangle PNAS long 6 ac_1 pi on 2"
+9/6/2023 10:35 AM        drive nu_post -5
+9/6/2023 10:36 AM        tpix preset time 600
+9/6/2023 10:46 AM        drive nu_post 5
+9/6/2023 10:46 AM        tpix preset time 600
+9/6/2023 10:56 AM        scantitle "9_6 Morning rectangle PNAS long 7 ac_1 pi on 2"
+9/6/2023 10:56 AM        drive nu_post -5
+9/6/2023 10:56 AM        tpix preset time 600
+9/6/2023 11:07 AM        drive nu_post 5
+9/6/2023 11:07 AM        tpix preset time 600
+9/6/2023 11:17 AM        scantitle "9_6 Morning rectangle PNAS long 8 ac_1 pi on 2"
+9/6/2023 11:17 AM        drive nu_post -5
+9/6/2023 11:17 AM        tpix preset time 600
+9/6/2023 11:27 AM        drive nu_post 5
+9/6/2023 11:28 AM        tpix preset time 600
+9/6/2023 11:38 AM        scantitle "9_6 Morning rectangle PNAS long 9 ac_1 pi on 2"
+9/6/2023 11:38 AM        drive nu_post -5
+9/6/2023 11:38 AM        tpix preset time 600
+9/6/2023 11:48 AM        drive nu_post 5
+9/6/2023 11:49 AM        tpix preset time 600
+9/6/2023 11:59 AM        scantitle "9_6 Morning rectangle PNAS long 10 ac_1 pi on 2"
+9/6/2023 11:59 AM        drive nu_post -5
+9/6/2023 11:59 AM        tpix preset time 600
+9/6/2023 12:09 PM        drive nu_post 5
+9/6/2023 12:09 PM        tpix preset time 600
+9/6/2023 12:20 PM        drive ac_2 0
+9/6/2023 12:20 PM        drive ac_2 -2.5
+9/6/2023 12:20 PM        scantitle "9_6 Morning rectangle long 1 ac_2 -2.5 ac_1 pi on 2"
+9/6/2023 12:20 PM        drive nu_post -5
+9/6/2023 12:20 PM        tpix preset time 600
+9/6/2023 12:29 PM        drive ac_1 0 ac_2 0
+9/6/2023 12:48 PM        begin

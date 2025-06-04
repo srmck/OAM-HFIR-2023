@@ -1,0 +1,25 @@
+drive ac_2 1.12
+
+loop subscan 1 15 1
+scantitle "8_31 Afternoon ubertriangle PNAS pi on 2 transverse %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop
+
+drive ac_2 0
+
+loop subscan 1 15 1
+scantitle "8_31 Afternoon ubertriangle PNAS transverse %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop

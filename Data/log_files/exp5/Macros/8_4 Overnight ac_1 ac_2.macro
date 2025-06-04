@@ -1,0 +1,12 @@
+scantitle "8_4 Overnight ac_1 ac_2 scan"
+
+loop c1 -2.5 2.5 .5
+drive ac_1 %c1
+
+loop c2 -2.5 2.5 .5
+drive ac_2 %c2
+
+tpix preset time 420
+
+endloop
+endloop

@@ -2,7 +2,7 @@
  * Format:     ANSI C source code
  * Creator:    McStas <http://www.mcstas.org>
  * Instrument: OAM.instr (OAM)
- * Date:       Tue Jun 03 13:15:35 2025
+ * Date:       Wed Jun 04 17:44:58 2025
  * File:       OAM.c
  * CFLAGS=
  */

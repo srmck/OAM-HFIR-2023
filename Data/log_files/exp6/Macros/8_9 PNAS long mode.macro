@@ -1,0 +1,14 @@
+drive ac_1 0 ac_2 0
+
+loop subscan 1 18 1
+scantitle "8_9 PNAS longitudinal mode scan subscan %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop
+
+drive nu_post -5

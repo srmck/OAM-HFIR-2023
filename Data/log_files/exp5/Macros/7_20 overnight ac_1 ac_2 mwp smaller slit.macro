@@ -1,0 +1,35 @@
+scantitle "7_20 overnight ac_1 ac_2 mwp smaller slit"
+
+drive nu_1 4
+
+loop mwp 1 7 2
+drive arm_2 %mwp up_1 %mwp down_1 -%mwp
+
+preset time 10
+drive det 181
+
+loop c2 -5 5 .5
+drive ac_2 %c2
+
+scan ac_1 -5 5 .5
+
+endloop
+
+preset time 15
+drive det 50
+
+loop c2 -5 5 .5
+drive ac_2 %c2
+
+scan ac_1 -5 5 .5
+
+endloop
+endloop
+
+drive ac_1 0 nu_1 0 ac_2 0
+drive arm_2 -7 up_1 -7 down_1 7
+drive arm_2 6 up_1 6 down_1 -6
+drive arm_2 -4 up_1 -4 down_1 4
+drive arm_2 2 up_1 2 down_1 -2
+drive arm_2 -1 up_1 -1 down_1 1
+drive arm_2 0 up_1 0 down_1 0

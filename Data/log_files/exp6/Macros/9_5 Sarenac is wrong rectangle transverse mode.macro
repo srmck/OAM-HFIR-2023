@@ -1,0 +1,35 @@
+drive ac_1 1.12 ac_2 1.12
+
+loop subscan 1 10 1
+scantitle "9_5 Afternoon rectangle PNAS pi on 2 transverse %subscan ac_1 pi on 2"
+loop n -5 5 10
+drive nu_pre %n
+tpix preset time 600
+endloop
+endloop
+
+drive ac_2 0
+
+loop subscan 1 10 1
+scantitle "9_5 Afternoon rectangle PNAS transverse %subscan ac_1 pi on 2"
+loop n -5 5 10
+drive nu_pre %n
+tpix preset time 600
+endloop
+endloop
+
+loop doodoo 1 4 1
+
+drive ac_2 0
+loop c2 -2.5 2.5 .5
+drive ac_2 %c2
+scantitle "9_5 Afternoon rectangle  transverse %doodoo ac_2 %c2 ac_1 pi on pi on 2"
+loop n -5 5 10
+drive nu_pre %n
+tpix preset time 600
+endloop
+endloop
+
+endloop
+
+drive ac_2 0

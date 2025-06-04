@@ -1,0 +1,15 @@
+Cycle: (Cycle #)
+Experiment #: 5000
+Proposal ID: 31767
+Instrument: HB2D
+Experiment Title: Demonstration of orbital angular momentum in neutron beams
+Session Start Time: 08/03/2023  03:24:42 PM
+
+Parameters Logged:
+Device Name	Timestamp	Value
+nu_1_current	08/03/2023  03:25:41 PM	0.0026
+ac_1_current	08/03/2023  03:25:41 PM	-0.0003
+prism_current	08/03/2023  03:25:41 PM	0.0015
+nu_2_current	08/03/2023  03:25:41 PM	-0.0017
+ac_2_current	08/03/2023  03:25:41 PM	0.0005
+nu_3_current	08/03/2023  03:25:41 PM	-0.0004

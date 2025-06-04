@@ -1,0 +1,21 @@
+scantitle "Check before overnight scan"
+
+loop cc1 -2.5 2.5 .5
+drive ac_1 %cc1
+
+scantitle "M Check before overnight scan"
+drive det 0
+preset time 15
+scan ac_2 -2.5 2.5 .5
+
+endloop
+
+loop cc1 -2.5 2.5 .5
+drive ac_1 %cc1
+
+scantitle "D Check before overnight scan"
+drive det -131
+preset time 20
+scan ac_2 -2.5 2.5 .5
+
+endloop

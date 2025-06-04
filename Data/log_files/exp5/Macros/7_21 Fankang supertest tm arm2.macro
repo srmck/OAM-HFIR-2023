@@ -1,0 +1,22 @@
+scantitle "second super scan for broken films checking arm 2"
+
+preset time 1
+
+drive up_1 1 down_1 -1 
+
+scan ac_1 -2.5 2.5 .5
+
+loop pc1 -2 2 1
+drive up_2 %pc1
+loop pc2 -2 2 1 
+drive down_2 %pc2
+loop cc2 -2 2 1
+drive ac_2 %cc2
+
+scan ac_1 -2.5 2.5 .5
+endloop
+endloop
+endloop
+
+drive up_1 -1 down_1 1
+scan ac_1 2.5 2.5 .5

@@ -1,0 +1,13 @@
+
+loop c1 -2.5 2.5 .5
+drive ac_1 %c1
+
+loop c2 -5 5 10
+drive nu_post %c2
+
+scantitle "8_4 ac_1 nu_post scan  at ac1: %c1 A, ac_2: 1A, nu_post: %c2 A"
+
+tpix preset time 300
+
+endloop
+endloop

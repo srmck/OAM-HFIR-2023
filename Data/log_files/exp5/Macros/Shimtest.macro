@@ -1,0 +1,6 @@
+scantitle "8_2 Detector He3 high count spin state with shim"
+
+drive ac_2 -0.5
+preset time 10
+scan ac_1 -8 8 .5
+

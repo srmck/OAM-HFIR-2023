@@ -1,0 +1,12 @@
+scantitle "8_7 Quick SEMSANS 5 min check at 15 amps"
+
+drive ac_1 1 ac_2 1
+
+drive nu_pre 5
+
+loop np -5 5 10
+drive nu_pre %np
+
+tpix preset time 300
+
+endloop

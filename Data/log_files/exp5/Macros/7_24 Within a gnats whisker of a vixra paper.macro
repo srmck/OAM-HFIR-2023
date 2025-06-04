@@ -1,0 +1,26 @@
+scantitle "7_25 Overnight double precession 10 amp scan"
+
+loop restarted 1 5
+
+preset time 25
+drive det -131 ac_2 -9.5 ac_1 -9.5
+
+loop tots -9.5 -.5 .5
+drive ac_1 %tots ac_2 -9.5
+
+scan ac_2 -9.5 -.5 .5
+
+endloop
+
+preset time 10
+drive det 0  ac_2 -9.5 ac_1 -9.5
+
+loop tatas -9.5 -.5 .5
+drive ac_1 %tatas ac_2 -9.5
+
+scan ac_2 -9.5 -.5 .5
+
+endloop
+
+endloop
+

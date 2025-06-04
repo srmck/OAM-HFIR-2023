@@ -1,0 +1,20 @@
+scantitle "Independent prisms first arm phase check"
+
+preset time 1
+drive arm_2 1 nu_1 4 ac_1 1.5
+
+loop i1 1 2 .1
+drive up_1 %i1
+
+loop i2 1 2 .1
+drive down_1 %i2
+
+scan ac_1 1.5 6.5 .5
+
+endloop
+
+drive down_1 -2 ac_1 1.5
+drive down_1 1
+drive down_1 0
+
+endloop

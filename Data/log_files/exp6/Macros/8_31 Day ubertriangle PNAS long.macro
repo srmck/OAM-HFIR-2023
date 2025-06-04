@@ -1,0 +1,12 @@
+drive ac_1 0 ac_2 0
+
+loop subscan 1 15 1
+scantitle "8_31 uber-triangle PNAS longitudinal %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop

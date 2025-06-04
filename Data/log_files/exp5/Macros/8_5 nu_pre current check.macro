@@ -1,0 +1,5 @@
+drive ac_1 0 ac_2 0 nu_pre -5
+
+scantitle "8_5 transverse mode nu_pre -5 check"
+
+tpix preset time 300

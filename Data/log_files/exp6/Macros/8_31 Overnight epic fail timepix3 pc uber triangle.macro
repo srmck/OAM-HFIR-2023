@@ -1,0 +1,25 @@
+drive ac_2 1.12
+
+loop subscan 1 20 1
+scantitle "8_31 Overnight epic fail timepix3 pc transverse mode pi on 2 subscan %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop
+
+drive ac_2 0
+
+loop subscan 1 20 1
+scantitle "8_31 Overnight epic fail timepix3 pc subscan %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop

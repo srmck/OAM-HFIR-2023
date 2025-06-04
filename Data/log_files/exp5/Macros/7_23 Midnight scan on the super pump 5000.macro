@@ -1,0 +1,26 @@
+loop pp 1 5 1
+
+drive up_1 %pp
+drive down_1 %pp
+
+drive up_2 %pp+0.5
+drive down_2 %pp
+
+loop cc1 -8.5 -1 .5
+drive ac_1 %cc1 ac_2 -8.5 det 0
+
+scantitle "M poopoo overnight scan"
+preset time 15
+scan ac_2 -8.5 -1 .5
+
+endloop
+
+loop cc1 -8.5 -1 .5
+drive ac_1 %cc1 ac_2 -8.5 det -131
+
+scantitle "D doodoo overnight scan"
+preset time 20
+scan ac_2 -8.5 -1 .5
+
+endloop
+endloop

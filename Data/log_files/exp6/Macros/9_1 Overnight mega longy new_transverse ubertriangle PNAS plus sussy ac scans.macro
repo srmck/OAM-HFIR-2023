@@ -1,0 +1,47 @@
+drive ac_2 1.12
+
+loop subscan 1 10 1
+scantitle "9_1 Overnight ubertriangle PNAS pi on 2 new_transverse %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop
+
+drive ac_2 0
+
+loop subscan 1 10 1
+scantitle "9_1 Overnight ubertriangle PNAS new_transverse %subscan"
+
+loop n -5 5 10
+drive nu_post %n
+
+tpix preset time 600
+
+endloop
+endloop
+
+loop doodoo 1 2 1
+
+drive ac_1 0 ac_2 0
+loop c1 -2.5 2.5 .5
+drive ac_1 %c1
+scantitle "9_1 Overnight ubertriangle new_transverse %doodoo ac_1 %c1"
+drive nu_post %n
+tpix preset time 600
+endloop
+
+drive ac_1 0 ac_2 0
+loop c2 -2.5 2.5 .5
+drive ac_2 %c2
+scantitle "9_1 Overnight ubertriangle new_transverse %doodoo ac_2 %c2"
+drive nu_post %n
+tpix preset time 600
+endloop
+
+drive ac_1 0 ac_2 0
+
+endloop

@@ -1,0 +1,13 @@
+scantitle "third super scan for broken films checking prep vertical measure horizontal"
+
+preset time 1
+
+drive ac_1 1 up_1 1 down_1 1 up_2 1 down_2 1 ac_2 1
+
+scan ac_1 -1 1 2
+scan up_1 -1 1 2
+scan down_1 -1 1 2
+
+scan up_2 -1 1 2
+scan down_2 -1 1 2
+scan ac_2 -1 1 2

@@ -1,0 +1,14 @@
+scantitle "8_5 Overnight ac_1 ac_2 scan other spin state (nu_pre -5)"
+
+drive nu_pre -5
+
+loop c1 -2.5 2.5 .5
+drive ac_1 %c1
+
+loop c2 -2.5 2.5 .5
+drive ac_2 %c2
+
+tpix preset time 420
+
+endloop
+endloop

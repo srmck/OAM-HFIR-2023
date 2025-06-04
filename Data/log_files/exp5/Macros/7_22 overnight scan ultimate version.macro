@@ -1,0 +1,42 @@
+scantitle "Check before overnight scan"
+
+loop poopoo 1 12 1
+
+loop pp 1 3 1
+
+drive up_1 %pp
+drive down_1 -%pp
+
+drive up_2 %pp+0.5
+drive down_2 %pp
+
+loop cc1 -5 5 .5
+drive ac_1 %cc1
+
+scantitle "M overnight scan"
+drive det 0
+preset time 15
+scan ac_2 -5 5 .5
+
+endloop
+
+loop cc1 -5 5 .5
+drive ac_1 %cc1
+
+scantitle "D overnight scan"
+drive det -131
+preset time 20
+scan ac_2 -5 5 .5
+
+endloop
+
+endloop
+
+drive ac_1 0 ac_2 0
+drive down_1 3 up_1 -3 down_2 -3 up_2 -4
+drive down_1 -2 up_1 2 down_2 2 up_2 3
+drive down_1 1 up_1 -1 down_2 -1 up_2 -2
+drive down_1 0 up_1 0 down_2 0 up_2 1
+drive up_2 0
+
+endloop

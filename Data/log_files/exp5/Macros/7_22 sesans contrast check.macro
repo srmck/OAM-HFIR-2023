@@ -1,0 +1,12 @@
+scantitle "ac_1 contrast check for sesans"
+
+
+drive det 0
+preset time 1
+
+scan ac_2 -2.5 2.5 .5
+
+drive det -131
+preset time 5
+
+scan ac_2 -2.5 2.5 .5

@@ -1,0 +1,19 @@
+scantitle "7_27 Cheeky Overnight He3 scam at 8 A"
+
+loop poopypee 1 5 1
+drive ac_2 -5 ac_1 -5
+
+preset time 10
+drive det 0
+loop pp1 -5 5 .5
+drive ac_1 %pp1 ac_2 -5
+scan ac_2 -5 5 .5
+endloop
+
+preset time 30
+drive det -131
+loop pp1 -5 5 .5
+drive ac_1 %pp1 ac_2 -5
+scan ac_2 -5 5 .5
+endloop
+endloop

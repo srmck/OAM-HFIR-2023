@@ -1,0 +1,25 @@
+drive ac_1 0 ac_2 0 nu_post -5
+
+loop subscan 1 18 1
+scantitle "8_9 Overnight PNAS transverse mode scan subscan %subscan"
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 600
+
+endloop
+endloop
+
+drive ac_1 0 ac_2 1.12 nu_post -5
+
+loop subscan 1 18 1
+scantitle "8_9 Overnight PNAS transverse mode scan subscan ac_2 pi on 2 %subscan"
+
+loop n -5 5 10
+drive nu_pre %n
+
+tpix preset time 600
+
+endloop
+endloop

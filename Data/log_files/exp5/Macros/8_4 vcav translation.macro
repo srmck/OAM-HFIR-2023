@@ -1,0 +1,14 @@
+scantitle "vcav translation scan"
+
+drive ac_1 2 ac_2 1
+
+loop R -18 2 1
+drive cav_trans %R
+
+loop N -5 5 10
+drive nu_pre %N
+
+tpix preset time 120
+
+endloop
+endloop

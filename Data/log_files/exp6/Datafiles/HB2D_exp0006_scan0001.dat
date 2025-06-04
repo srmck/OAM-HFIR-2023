@@ -1,0 +1,35 @@
+# scan = 1
+# date = 8/29/2023
+# time = 3:47:17 PM
+# proposal = 31767
+# experiment = Spin textured beam
+# experiment_number = 6
+# command = scan m1 -1 1 0.2
+# builtin_command = scan m1 -1 1 0.2
+# users = Kaleb,   Fankang, Sam, Fumi
+# local_contact = 
+# scan_title = 
+# monochromator = Pg002
+# analyzer = Pg002
+# sense = +++
+# collimation = 48-40-40-120
+# samplename = Wollaston prisms
+# sampletype = crystal
+# samplemosaic = 30.000000
+# latticeconstants = 5.000000,5.000000,5.000000,90.000000,90.000000,90.000000
+# ubmatrix = 0.141421,0.141421,0.000000,-0.000000,-0.000000,0.200000,0.141421,-0.141421,-0.000000
+# mode = 0
+# plane_normal = 0.000000,0.000000,1.000000
+# ubconf = UB29Aug2023_34643PM.ini
+# preset_type = normal 
+# preset_channel = time
+# preset_value = 200.000000
+# def_x = m1
+# def_y = detector
+# col_headers = 
+#   Pt.         m1       time   detector    monitor focal_length         m2     mfocus    cav_rot  cav_trans     nu_pre    nu_post       ac_1       up_1     down_1       up_2     down_2       ac_2         s1         s2        sgl        sgu        stl        det         a1         a2          q          h          k          l         ei         ef          e nu_1_current ac_1_current prism_current nu_2_current ac_2_current nu_3_current
+      1    -1.0000    200.000      0.000      0.000   156.9359   126.0001   -15.4070     0.0500    16.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000     0.0000    -5.0000     0.0000     0.3010     0.0000    -0.0000   -14.0000   105.1026    -0.5466   195.2707    -9.6267    -9.5261   154.8002     2.2886 79864.2292 -79861.9406     0.0027    -0.0005     0.0015    -0.0016     0.0006    -0.000
+# Sum of Counts = 0
+# Center of Mass = NaN+/-NaN
+# Full Width Half-Maximum = NaN+/-NaN
+# 3:47:25 PM  8/29/2023   scan stopped!!

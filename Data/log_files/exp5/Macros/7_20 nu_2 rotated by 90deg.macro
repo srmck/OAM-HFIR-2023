@@ -1,0 +1,23 @@
+scantitle "ac_1 ac_2 scan nutator rotated by 90deg"
+
+drive arm_2 1 up_1 1 down_1 -1 nu_1 4
+
+preset time 15
+drive det 50
+
+loop c2 -2.5 2.5 .5
+drive ac_2 %c2
+
+scan ac_1 -2.5 2.5 .5
+
+endloop
+
+preset time 10
+drive det 181
+
+loop c2 -2.5 2.5 .5
+drive ac_2 %c2
+
+scan ac_1 -2.5 2.5 .5
+
+endloop
