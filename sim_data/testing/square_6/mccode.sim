@@ -1,0 +1,190 @@
+McStas simulation description file for OAM.
+Date:    Mon Jun 02 06:43:31 2025
+Program: 
+
+begin instrument: OAM
+  File: C:\Users\samck\Documents\GitHub\OAM-HFIR-11-22\sim_data\testing\square_6/mccode
+  Source: OAM.instr
+  Parameters:  delta_lambda(double) cur1(double) cur2(double) cur3(double) cur4(double) ang1(double) ang2(double) ang3(double) ang4(double) polx(double) poly(double) polz(double)
+  Trace_enabled: yes
+  Default_main: yes
+  Embedded_runtime: yes
+end instrument
+
+begin simulation: C:\Users\samck\Documents\GitHub\OAM-HFIR-11-22\sim_data\testing\square_6
+  Format: McCode with text headers
+  URL: http://www.mccode.org
+  Creator: 
+  Instrument: OAM.instr
+  Ncount: 1000000
+  Trace: no
+  Gravitation: no
+  Seed: 1868216038
+  Directory: C:\Users\samck\Documents\GitHub\OAM-HFIR-11-22\sim_data\testing\square_6
+  Param: delta_lambda=1e-020
+  Param: cur1=20
+  Param: cur2=-21.4402
+  Param: cur3=14.5508
+  Param: cur4=-15.9909
+  Param: ang1=0
+  Param: ang2=0
+  Param: ang3=-90
+  Param: ang4=-90
+  Param: polx=1
+  Param: poly=0
+  Param: polz=0
+end simulation
+
+begin data
+  Date: Mon Jun 02 06:43:34 2025 (1748861014)
+  type: array_2d(256, 256)
+  Source: OAM (OAM.instr)
+  component: mon_x
+  position: 0 0 1.138
+  title:  Spin Position Position Monitor (Square)
+  Ncount: 2000000
+  filename: monx_det.dat
+  statistics: X0=2.48744e-006; dX=0.0102968; Y0=-2.12239e-006; dY=0.0057744;
+  signal: Min=-0.999666; Max=0.999697; Mean=0.0422877;
+  values: 2771.37 48.6615 1e+006
+  xvar: x 
+  yvar: y 
+  xlabel: x [m]
+  ylabel: y [m]
+  zvar: I
+  zlabel: Signal per bin
+  xylimits: -0.01 0.01 -0.01 0.01
+  variables: I I_err N
+end data
+
+begin data
+  Date: Mon Jun 02 06:43:34 2025 (1748861014)
+  type: array_2d(256, 256)
+  Source: OAM (OAM.instr)
+  component: mon_y
+  position: 0 0 1.138
+  title:  Spin Position Position Monitor (Square)
+  Ncount: 2000000
+  filename: mony_det.dat
+  statistics: X0=-6.29642e-006; dX=0.00578882; Y0=-4.78808e-006; dY=0.00577226;
+  signal: Min=0; Max=1.18587e-016; Mean=3.90308e-017;
+  values: 2.55792e-012 4.16545e-015 1e+006
+  xvar: x 
+  yvar: y 
+  xlabel: x [m]
+  ylabel: y [m]
+  zvar: I
+  zlabel: Signal per bin
+  xylimits: -0.01 0.01 -0.01 0.01
+  variables: I I_err N
+end data
+
+begin data
+  Date: Mon Jun 02 06:43:35 2025 (1748861015)
+  type: array_2d(256, 256)
+  Source: OAM (OAM.instr)
+  component: mon_z
+  position: 0 0 1.138
+  title:  Spin Position Position Monitor (Square)
+  Ncount: 2000000
+  filename: monz_det.dat
+  statistics: X0=4.13523; dX=0; Y0=-0.000536196; dY=0.00559748;
+  signal: Min=-0.99965; Max=0.99964; Mean=6.11091e-005;
+  values: 4.00485 47.513 1e+006
+  xvar: x 
+  yvar: y 
+  xlabel: x [m]
+  ylabel: y [m]
+  zvar: I
+  zlabel: Signal per bin
+  xylimits: -0.01 0.01 -0.01 0.01
+  variables: I I_err N
+end data
+
+begin data
+  Date: Mon Jun 02 06:43:35 2025 (1748861015)
+  type: array_2d(256, 256)
+  Source: OAM (OAM.instr)
+  component: pol_x
+  position: 0 0 2.42
+  title:  Spin Position Position Monitor (Square)
+  Ncount: 2000000
+  filename: polx_det.dat
+  statistics: X0=2.48744e-006; dX=0.0102968; Y0=-2.12239e-006; dY=0.0057744;
+  signal: Min=-0.999666; Max=0.999697; Mean=0.0422877;
+  values: 2771.37 48.6615 1e+006
+  xvar: x 
+  yvar: y 
+  xlabel: x [m]
+  ylabel: y [m]
+  zvar: I
+  zlabel: Signal per bin
+  xylimits: -0.01 0.01 -0.01 0.01
+  variables: I I_err N
+end data
+
+begin data
+  Date: Mon Jun 02 06:43:35 2025 (1748861015)
+  type: array_2d(256, 256)
+  Source: OAM (OAM.instr)
+  component: pol_y
+  position: 0 0 2.42
+  title:  Spin Position Position Monitor (Square)
+  Ncount: 2000000
+  filename: poly_det.dat
+  statistics: X0=0.00124828; dX=0.00535859; Y0=-0.000681442; dY=0.00475491;
+  signal: Min=-0.998582; Max=0.998311; Mean=5.44078e-005;
+  values: 3.56567 33.2065 1e+006
+  xvar: x 
+  yvar: y 
+  xlabel: x [m]
+  ylabel: y [m]
+  zvar: I
+  zlabel: Signal per bin
+  xylimits: -0.01 0.01 -0.01 0.01
+  variables: I I_err N
+end data
+
+begin data
+  Date: Mon Jun 02 06:43:35 2025 (1748861015)
+  type: array_2d(256, 256)
+  Source: OAM (OAM.instr)
+  component: pol_z
+  position: 0 0 2.42
+  title:  Spin Position Position Monitor (Square)
+  Ncount: 2000000
+  filename: polz_det.dat
+  statistics: X0=0.554774; dX=0; Y0=0.00110907; dY=0.0076026;
+  signal: Min=-0.998601; Max=0.998514; Mean=1.90048e-005;
+  values: 1.2455 33.9825 1e+006
+  xvar: x 
+  yvar: y 
+  xlabel: x [m]
+  ylabel: y [m]
+  zvar: I
+  zlabel: Signal per bin
+  xylimits: -0.01 0.01 -0.01 0.01
+  variables: I I_err N
+end data
+
+begin data
+  Date: Mon Jun 02 06:43:35 2025 (1748861015)
+  type: array_2d(256, 256)
+  Source: OAM (OAM.instr)
+  component: int_det
+  position: 0 0 2.42
+  title: PSD monitor
+  Ncount: 2000000
+  filename: int_det.dat
+  statistics: X0=0; dX=0; Y0=0; dY=0;
+  signal: Min=0; Max=0; Mean=0;
+  values: 0 0 1e+006
+  xvar: X 
+  yvar: Y 
+  xlabel: X position [cm]
+  ylabel: Y position [cm]
+  zvar: I
+  zlabel: Signal per bin
+  xylimits: -1 1 -1 1
+  variables: I I_err N
+end data
